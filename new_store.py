@@ -10,9 +10,6 @@ class RedditStore():
     comment_place_holders = {}
     submission_place_holders = {}
     def __init__(self, user_agent):
-        # self.connection = sqlite3.connect(fileName)
-        # self.db = self.connection.cursor()
-        # print('Opened database successfully')
         self.connection = None
         self.db = None
         self.reddit = praw.Reddit(user_agent = user_agent)
@@ -242,26 +239,30 @@ def tuple_to_string(tpl):
 
 
 def main():
-    user_agent = 'Comment Generator v15 /u/healthobserver'
+    user_agent = 'Comment Generator v16 /u/healthobserver'
     subreddits = ['mentalhealth', 'bipolar', 'offmychest','SFTS', 'anxiety', 'depression', 'gaming', 'needadvice', 'offmychest']
+    #subreddits = ['gaming']
     reddit_store = RedditStore(user_agent)
     #First storage, top_down submissions
     time_start = time.time()
     for sub in subreddits:
+        print('initial pull: ',sub)
         pull_id = reddit_store.adjust(sub, user_agent)
-        reddit_store.top_down_store(sub, pull_id, 10)
+        reddit_store.top_down_store(sub, pull_id)
         reddit_store.close_connection()
     while True:
         try:
-            sys.stdout.write("\r{minutes} Minutes {seconds} Seconds".format(minutes=minutes, seconds=seconds)) # From stackoverflow
-            sys.stdout.flush()
+            print('Starting Infinite Pull')
             for sub in subreddits:
                 pull_id = reddit_store.adjust(sub, user_agent)
                 reddit_store.top_down_store(sub, pull_id)
                 reddit_store.bottom_up_store(sub, pull_id)
+                seconds = int(time.time() - time_start)
+                print('time elapsed:',seconds,'waiting....')
+                time.sleep(100)
             seconds = int(time.time() - time_start)
-            print('waiting....')
-            time.sleep(seconds + 1800)
+            #print('waiting....')
+            #time.sleep(100)
         except KeyboardInterrupt as e:
             break
         except Exception as e:

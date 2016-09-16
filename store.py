@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 class RedditStore():
-    place_holders = []
+    place_holders = {}
     def __init__(self, user_agent):
         # self.connection = sqlite3.connect(fileName)
         # self.db = self.connection.cursor()
@@ -55,6 +55,46 @@ class RedditStore():
         self.connection.close()
 
     def store_new(self, topic_name, limit = None):
+        try:
+            self.connection = sqlite3.connect(topic_name+'.db')
+            self.db = self.connection.cursor()
+            print('Opened database successfully')
+            name = self.db.execute("SELECT name FROM sqlite_master WHERE type= 'table' AND name= ?;", (topic_name,)).fetchall()
+            if len(name) == 0:
+                self.db.execute('''CREATE TABLE {}
+                    (id TEXT, type TEXT, level INT, submission_id TEXT,
+                        parent_id TEXT, pull_id INT);
+                    '''.format(topic_name))
+
+                self.db.execute('''CREATE TABLE {}
+                    (id TEXT, user_id TEXT, datetime DATETIME, score INT, 
+                        self_text TEXT);
+                    '''.format(topic_name + '_comment_data'))
+
+                #TODO: Add content type; link, video, etc.
+                self.db.execute('''CREATE TABLE {}
+                    (id TEXT, user_id TEXT, datetime DATETIME, score INT, title TEXT,
+                        num_comments INT, article BOOLEAN, video BOOLEAN, picture BOOLEAN, self_text TEXT); 
+                    '''.format(topic_name + '_submission_data'))
+
+                self.db.execute('''CREATE TABLE {}
+                    (pull_id INT, datetime DATETIME)'''.format(topic_name + '_pull_times'))
+                pull_id = 0 
+            else:
+                pull_id = self.db.execute("SELECT MAX(pull_id) FROM {};".format(topic_name + '_pull_times')).fetchone()[0] + 1
+            curr_time = datetime.now()
+            self.insert_row(topic_name + '_pull_times', ('pull_id', 'datetime'), (pull_id, curr_time))
+            self.connection.commit()
+            subreddit = self.reddit.get_subreddit(topic_name)
+            submissions = subreddit.get_top_from_month(limit = limit)
+            for submission in submissions:
+                self.store_submission(submission, topic_name, pull_id)
+        except praw.errors.APIException as a:
+            print('Error: {}'.format(a.ERROR_TYPE))
+
+            #self.db.execute('DROP TABLE {}'.format(topic_name))
+        self.connection.commit()
+        self.connection.close()
 
     def store_comment(self, comment, table_name, level, submission_id, pull_id, parent_id = None): 
         #Create table row contents.
