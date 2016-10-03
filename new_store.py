@@ -245,27 +245,69 @@ def main():
     reddit_store = RedditStore(user_agent)
     #First storage, top_down submissions
     time_start = time.time()
-    for sub in subreddits:
-        print('initial pull: ',sub)
-        pull_id = reddit_store.adjust(sub, user_agent)
-        reddit_store.top_down_store(sub, pull_id)
-        reddit_store.close_connection()
-    while True:
-        try:
+    total_data_pulled = 0
+    start_date = datetime.now()
+    curr_sub = None
+    try:
+        for sub in subreddits:
+            print('initial pull: ',sub)
+            curr_sub = sub
+            starting_size = os.path.getsize('{}.db'.format(sub))
+            pull_id = reddit_store.adjust(sub, user_agent)
+            reddit_store.top_down_store(sub, pull_id)
+            reddit_store.close_connection()
+            ending_size = os.path.getsize('{}.db'.format(sub))
+            size_difference = ending_size - starting_size
+            total_data_pulled += size_difference
+            seconds = int(time.time() - time_start)
+            time_elapsed = datetime.timedelta(seconds = seconds)
+            print('Total size of data pulled so far: {} bytes'.format(total_data_pulled))
+            print('time elapsed:',time_elapsed,'waiting....')
+            time.sleep(20)
+        while True:
             print('Starting Infinite Pull')
             for sub in subreddits:
+                curr_sub = sub
+                print('Current subreddit:', sub)
+                starting_size = os.path.getsize('{}.db'.format(sub))
+                print('size:', starting_size)
                 pull_id = reddit_store.adjust(sub, user_agent)
                 reddit_store.top_down_store(sub, pull_id)
                 reddit_store.bottom_up_store(sub, pull_id)
+                reddit_store.close_connection()
                 seconds = int(time.time() - time_start)
-                print('time elapsed:',seconds,'waiting....')
-                time.sleep(100)
-            seconds = int(time.time() - time_start)
-            #print('waiting....')
-            #time.sleep(100)
-        except KeyboardInterrupt as e:
-            break
-        except Exception as e:
-            print('Error:',e)
-            pass
+                time_elapsed = datetime.timedelta(seconds = seconds)
+                ending_size = os.path.getsize('{}.db'.format(sub))
+                size_difference = ending_size - starting_size
+                total_data_pulled += size_difference
+                print('Total size of data pulled so far: {} bytes'.format(total_data_pulled))
+                print('time elapsed:',time_elapsed,'waiting....')
+                time.sleep(20)
+    except KeyboardInterrupt as e:
+        curr_date = datetime.now()
+        log_file = open('log.txt', 'a')
+        start_date_str = start_date.strftime('%Y-%m-%d %H:%M')
+        cur_date_str = curr_date.strftime('%Y-%m-%d %H:%M')
+        if curr_sub:
+            if starting_size:
+                ending_size = os.path.getsize('{}.db'.format(curr_sub))
+                total_data_pulled += ending_size - starting_size
+        curr_log = 'Data storage starting at {} and ending at {}: Total data pulled: {} bytes\n \n'.format(start_date_str, cur_date_str, total_data_pulled)
+        log_file.write(curr_log)
+        log_file.close()
+        pass
+    except Exception as e:
+        print('Error:',e)
+        curr_date = datetime.now()
+        log_file = open('log.txt', 'a')
+        start_date_str = start_date.strftime('%Y-%m-%d %H:%M')
+        cur_date_str = curr_date.strftime('%Y-%m-%d %H:%M')
+        if curr_sub:
+            if starting_size:
+                ending_size = os.getsize('{}.db'.format(curr_sub))
+                total_data_pulled += ending_size - starting_size
+        curr_log = 'Data storage starting at {} and ending at {}: Total data pulled: {} bytes. Ended with error\n \n'.format(start_date_str, cur_date_str, total_data_pulled)
+        log_file.write(curr_log)
+        log_file.close()
+        pass
 main()

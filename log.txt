@@ -1,0 +1,6 @@
+Data storage starting at 2016-10-03 00:17 and ending at 2016-10-03 00:17: Total data pulled: 0 bytes
+ 
+Data storage starting at 2016-10-03 00:18 and ending at 2016-10-03 00:23: Total data pulled: 0 bytes
+ 
+Data storage starting at 2016-10-03 00:28 and ending at 2016-10-03 00:53: Total data pulled: 1596416 bytes
+ 
