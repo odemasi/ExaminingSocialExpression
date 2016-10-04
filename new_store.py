@@ -5,6 +5,7 @@ import os
 import time
 import sys
 from datetime import datetime
+from datetime import timedelta
 
 class RedditStore():
     comment_place_holders = {}
@@ -239,8 +240,8 @@ def tuple_to_string(tpl):
 
 
 def main():
-    user_agent = 'Comment Generator v16 /u/healthobserver'
-    subreddits = ['mentalhealth', 'bipolar', 'offmychest','SFTS', 'anxiety', 'depression', 'gaming', 'needadvice', 'offmychest']
+    user_agent = 'Comment Generator v17 /u/healthobserver'
+    subreddits = ['mentalhealth', 'bipolar', 'offmychest','SFTS', 'anxiety', 'depression', 'gaming', 'needadvice']
     #subreddits = ['gaming']
     reddit_store = RedditStore(user_agent)
     #First storage, top_down submissions
@@ -260,7 +261,7 @@ def main():
             size_difference = ending_size - starting_size
             total_data_pulled += size_difference
             seconds = int(time.time() - time_start)
-            time_elapsed = datetime.timedelta(seconds = seconds)
+            time_elapsed = timedelta(seconds = seconds)
             print('Total size of data pulled so far: {} bytes'.format(total_data_pulled))
             print('time elapsed:',time_elapsed,'waiting....')
             time.sleep(20)
@@ -276,7 +277,7 @@ def main():
                 reddit_store.bottom_up_store(sub, pull_id)
                 reddit_store.close_connection()
                 seconds = int(time.time() - time_start)
-                time_elapsed = datetime.timedelta(seconds = seconds)
+                time_elapsed = timedelta(seconds = seconds)
                 ending_size = os.path.getsize('{}.db'.format(sub))
                 size_difference = ending_size - starting_size
                 total_data_pulled += size_difference
@@ -304,7 +305,7 @@ def main():
         cur_date_str = curr_date.strftime('%Y-%m-%d %H:%M')
         if curr_sub:
             if starting_size:
-                ending_size = os.getsize('{}.db'.format(curr_sub))
+                ending_size = os.path.getsize('{}.db'.format(curr_sub))
                 total_data_pulled += ending_size - starting_size
         curr_log = 'Data storage starting at {} and ending at {}: Total data pulled: {} bytes. Ended with error\n \n'.format(start_date_str, cur_date_str, total_data_pulled)
         log_file.write(curr_log)

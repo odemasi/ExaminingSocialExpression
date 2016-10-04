@@ -4,3 +4,9 @@ Data storage starting at 2016-10-03 00:18 and ending at 2016-10-03 00:23: Total 
  
 Data storage starting at 2016-10-03 00:28 and ending at 2016-10-03 00:53: Total data pulled: 1596416 bytes
  
+Data storage starting at 2016-10-03 03:02 and ending at 2016-10-03 03:17: Total data pulled: 818176 bytes. Ended with error
+ 
+Data storage starting at 2016-10-03 11:04 and ending at 2016-10-03 11:04: Total data pulled: 0 bytes. Ended with error
+ 
+Data storage starting at 2016-10-03 11:06 and ending at 2016-10-03 11:30: Total data pulled: 1366016 bytes
+ 
