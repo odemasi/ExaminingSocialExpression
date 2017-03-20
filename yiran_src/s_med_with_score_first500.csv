@@ -1,0 +1,579 @@
+,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence
+0,0.9993578434150746,0.0006421565849434352,0.227,0.724,0.049,I have a feeling that this will only get worse from now on since she's also looking up all sorts of alternative medicine bullshit for OCD now...
+1,0.9998368713612061,0.00016312863878408296,0.081,0.791,0.128,I've tried medications but they only made me feel like a zombie and going to sit down with a therapist only increases my anxiety.
+2,0.9997650501014702,0.0002349498985351929,0.0,0.851,0.149,I'm against taking medication after what I had to deal with in the past but I realized this is my only option to get better.
+3,0.999946664979164,5.33350208164477e-05,0.0,1.0,0.0,I see my doctor next week and I don't know what to tell him about these meds.
+4,0.9975699498246859,0.002430050175305618,0.032,0.77,0.198,"A bit of a strange question, I suppose, but here goes:
+
+I've been really trying to focus on getting off of any anti-anxiety medication and overcoming/dealing with this in a more natural way and I really think I've had a lot of success."
+5,0.9999814780423167,1.8521957689859268e-05,0.0,1.0,0.0,I'm currently getting off lexapro and I've had this happen to me before I was on this medication.
+6,0.9998284586212208,0.0001715413787837005,0.0,0.695,0.305,I honestly think the only thing left that would help me is some sort of medication.
+7,0.9998972748837627,0.00010272511624207603,0.0,0.794,0.206,How can I make it clear to whoever can actually give me them that I want to try medication?
+8,0.9999364538772192,6.354612279761454e-05,0.083,0.917,0.0,"I've always what I'd consider moderate anxiety, I don't need medication, but I'm starting to consider it."
+9,0.999170802003095,0.0008291979969083493,0.251,0.749,0.0,I scheduled a GP appointment last week and he diagnosed me with anxiety and panic disorder and referred me to a psych for further evaluation and medication and a therapist.
+10,0.9996599191318702,0.00034008086814405554,0.0,1.0,0.0,I can't afford a consular right now or medication.
+11,0.9998689890211865,0.0001310109788320354,0.052,0.862,0.086,This last time she asked I explained that I was getting my anxiety medicine adjusted a few days before she needed me to watch them and maybe it would be easier for me.
+12,0.9990629004446474,0.0009370995553394301,0.187,0.75,0.063,"I first went it wanting to treat my anxiety which has plagued me for a while but only recently got worse, and he prescribed me some meds."
+13,0.9998673508681588,0.00013264913185123618,0.066,0.778,0.156,"I've put thought into it, and I still want to attempt to treat it my anxiety with medication, if the option is still viable."
+14,0.9998754241370158,0.00012457586299853307,0.0,0.915,0.085,Or should I go back to the doctor and tell him I want to keep trying medication?
+15,0.9999519260087866,4.807399122956695e-05,0.322,0.678,0.0,"The medications I've tried are
+
+Fluoxetine: Horrible nausea: lasted all day and interrupted work."
+16,0.9999020514816228,9.7948518387043e-05,0.0,1.0,0.0,"**Actual experiences with meds will be quoted, background story will be in regular text."
+17,0.9998632418329941,0.00013675816702289918,0.0,0.737,0.263,"Mentally, this medication made me feel like a zombie."
+18,0.9999643518402684,3.5648159742280427e-05,0.0,1.0,0.0,BUT I currently do not take any medication at all for either.
+19,0.9999876038637515,1.239613624389956e-05,0.23,0.531,0.239,"I wish it was something they could treat with medicine and be done with, fuck you anxiety."
+20,0.9996214858243097,0.00037851417568471465,0.066,0.817,0.117,"I do not have depression or anxiety, I have never taken any medication other than antibiotics though I may have some of the symptoms of ADHD."
+21,0.9994993848658059,0.000500615134211931,0.0,1.0,0.0,Though recently I heard that some people on anti-depressant medication experience a similar symptom.
+22,0.9999584963939481,4.150360604008226e-05,0.298,0.702,0.0,Is anxiety manageable without meds?
+23,0.9999836306286997,1.6369371287522115e-05,0.0,0.815,0.185,"I guess after all this rambling.. my question is, can it really get better without meds?"
+24,0.9986701225564071,0.0013298774436088412,0.0,0.817,0.183,I'm trying to get pregnant and the last thing  I want to do is try to rely on a medication (though there are times like tonight where I just want to throw my hands up and say OK fine I will just take it).. who knows what it actually does to your brain.
+25,0.9999698488440797,3.0151155914226127e-05,0.0,1.0,0.0,"I've gotten myself on some meds for this, and I'm trying."
+26,0.9998254464327014,0.00017455356728254015,0.0,1.0,0.0,"Also, how do you approach your doctor for a specific medicine?"
+27,0.9999785069690228,2.149303095971047e-05,0.0,1.0,0.0,"Hey guys,
+
+I just got prescribed new meds Lexapro and lorazepam."
+28,0.9940255739716846,0.005974426028315698,0.0,0.912,0.088,But then he goes onto say that it doesn't really get to the heart of why I want to go into medicine and then questions why I want to be a doctor.
+29,0.9999134686357387,8.653136425979416e-05,0.084,0.916,0.0,Instead she said that every symptom I've ever discussed with her was because of marijuana and that she would no longer give me any medication.
+30,0.9936788382943635,0.006321161705625513,0.078,0.841,0.081,I took time off from school and work after the relationship ended and my parents were a big help to me as I got my thyroid meds in order and started losing weight.
+31,0.9999175288641707,8.247113583872368e-05,0.165,0.775,0.061,"I cant catch a break i think im finally broken i don't know what to do i can't take meds because i hate having to rely on things like this to get by, this is how i quit cigarettes just cold turkey."
+32,0.9998127030472598,0.00018729695273450933,0.257,0.707,0.035,I'm sure I'll have to try a few things out and see how I'll feel but I could use advice on how you guys time everything with your meds so you're not feeling like a dopy mess at the wrong time.
+33,0.9999778002714504,2.2199728541154273e-05,0.0,0.519,0.481,She was then put on some pretty strong medication.
+34,0.9711006860810346,0.028899313918952372,0.167,0.749,0.084,On top of that due to my sporadic incomes over the past 12 years she does not ever see us being able to have children and on top of that she feels a big part of her breakdown &amp; subsequently being on medication is because of me and the trauma she's experienced watching &amp; having to constantly support me having such horrible panic attacks.
+35,0.9999685519685373,3.144803147389125e-05,0.208,0.706,0.086,I stopped taking my medication before leaving because i had decided i wanted to join the military (incredibly stupid for someone in my position.)
+36,0.9963498074585742,0.0036501925414291446,0.288,0.634,0.078,Now my anxiety and depression are getting to the point where i'm having anxiety attacks a couple of times a week and don't have any medication to help me.
+37,0.9997599001055076,0.00024009989448319597,0.259,0.741,0.0,"I'm back on my meds now, but a lower dose."
+38,0.9997842137624094,0.00021578623759435192,0.296,0.646,0.058,The ER doctor gave me muscle relaxants and some pain meds and referred me to a neurologist because they suspect I have some nerve damage.
+39,0.9998928916218007,0.00010710837819442785,0.296,0.704,0.0,Ive had around 3 attacks in the last 24 hours that leave me crippled and I am on no medication.
+40,0.999972098587366,2.7901412647453387e-05,0.0,1.0,0.0,I've been having issues for about 5 years have been taking medication for 3.
+41,0.9999851537059505,1.4846294042740753e-05,0.223,0.571,0.206,"I'm not sure what I hope to achieve by seeing one; I have no problem with taking medicine, but I feel like I have nothing to lose."
+42,0.999974003442376,2.599655760547478e-05,0.13,0.805,0.065,"The thoughts are fears of me doing something unintentionally... like I'm afraid I'll sleepwalk and overdose on my medication, or sleepwalk and injure someone with a weapon, or do something completely out of my control."
+43,0.9998875965254127,0.00011240347459768473,0.0,1.0,0.0,So I open these questions up to those that are currently on both meds (Wellbutrin and Prozac) or have been.
+44,0.9997046735263804,0.0002953264736274639,0.079,0.921,0.0,I don't want to have to try a different medication but this is not gonna fly.
+45,0.9997035177572681,0.0002964822427485573,0.124,0.732,0.144,I also didn't take any anti anxiety medication before I went to the hospital.
+46,0.9999499203745598,5.007962543640102e-05,0.0,0.876,0.124,My doctor doesnt seem to be concerned at all and has just upped my meds in an effort to help.
+47,0.9999669964206069,3.3003579405625606e-05,0.0,1.0,0.0,Topical medications?
+48,0.9999669964206069,3.3003579405625606e-05,0.0,1.0,0.0,Oral meds?
+49,0.9999464072760442,5.3592723964522884e-05,0.075,0.872,0.053,"I am ok.  
+
+At 10 am I take my ""morning medicine,"" which consists of 1 mg Xanax extended release, 40 mg of prilosec (for my terrible stomach acid), 800 mg of Gabapentin (again, for anxiety), and 25 mg of Seroquel (anxiety)."
+50,0.9999594165998409,4.058340014697937e-05,0.0,0.913,0.087,At 4 pm I take my day time medicines (seroquel 25 mg and gabapentin 800 mg again) and keep playing my game.
+51,0.9999209561635732,7.90438364418594e-05,0.0,1.0,0.0,I am taking my medications exactly as prescribed by my doctor.
+52,0.9999969099079292,3.0900920671464524e-06,0.234,0.677,0.089,I just feel like I am too scared and crippled to do anything now and I'm not sure if I should give anxiety medicine another try.
+53,0.9999300214216055,6.997857838460686e-05,0.0,0.919,0.081,"Please don't tell me to talk to my doctor about this, all he does is suggest different medicines for me and doesn't listen to me at all."
+54,0.9998435512763617,0.00015644872363977235,0.0,1.0,0.0,I did not receive medication until I was 22 because of my parents.
+55,0.9993368505991175,0.0006631494008978555,0.248,0.752,0.0,"I have had bad anxiety/depression since I was a child and have been on and off tons of different medicines, when I was around 19-20 I started having panic attack often and it cost me a job or two."
+56,0.9999363611013938,6.363889859235306e-05,0.0,1.0,0.0,I got it under control by going on different medicines.
+57,0.9998980766443883,0.0001019233555995831,0.137,0.576,0.287,(they do not allow anti anxiety meds before the sedation.)
+58,0.9988361223076362,0.0011638776923594933,0.188,0.812,0.0,"The counselor helped a little bit, and I'm not entirely sure if the medication helped at all because I still felt anxious."
+59,0.9999287353811583,7.126461885241884e-05,0.0,1.0,0.0,The first thing the VA wanted to do was give me medication.
+60,0.9939572668561292,0.006042733143868514,0.128,0.784,0.088,"I didn't want to take medication as the onset of the problem was quite rapid for the most part, so I was determined to get through it without medication."
+61,0.9999861672731841,1.3832726821932513e-05,0.0,1.0,0.0,She was an alternative-medicine type therapist and helped me talk some things out and give me some coping strategies.
+62,0.9998595206683076,0.00014047933167743267,0.291,0.582,0.127,im excited to see how the meds are gonna kick ass over my anxiety!
+63,0.9998149203835185,0.00018507961647597806,0.24,0.76,0.0,I'm a little iffy about medication after a really bad experience with Paxil last year.
+64,0.9972727639717387,0.0027272360282678777,0.0,1.0,0.0,I haven't taken medication in a while so I can't remember if it was the same while on it.
+65,0.9998583010300722,0.00014169896991855305,0.182,0.818,0.0,I also feel that it makes me weak as if I cant survive without this medication.
+66,0.9999171180468996,8.288195311093589e-05,0.255,0.519,0.226,"My depression and anxiety are fairly well controlled, I am on meds that help me significantly."
+67,0.9992398175230935,0.0007601824769066037,0.081,0.848,0.071,"Up until this point I was strongly averse to medication, and had put all of my energy into trying various mindfulness or cognitive techniques (quite a lot of meditation, have been reading about ACT, but have never made a strong attempt at CBT)."
+68,0.9999743894409029,2.5610559076601377e-05,0.0,0.934,0.066,"I think 3 things kept me from giving up on the meds at that time:
+
+* Hearing some stories, either here or on other forums, about people having really high stress/anxiety when they first get on the meds."
+69,0.9967809576539576,0.0032190423460620524,0.161,0.785,0.055,"* Not being sure if this was caused by the meds themselves, or if I'd starting taking them just the nick of time, and that first weekend was just the tip of a particularly depressing &amp; shitty iceberg."
+70,0.9988933106779002,0.0011066893221133617,0.0,0.943,0.057,"Two questions I have for you fine folks:
+
+* Has anyone experienced insomnia, but had it subside over time without the addition of some other medication?"
+71,0.9999778741626499,2.2125837367811537e-05,0.073,0.812,0.115,"I'm going to see my doctor tomorrow if possible, to try and start some medication to help cope with my anxiety."
+72,0.9999518835154712,4.811648451909397e-05,0.0,0.92,0.08,"I'm planning on going to a psychiatrist sometime soon, and I was wondering if they make you use a certain medication, or do you they let you choose?"
+73,0.9997647531919509,0.00023524680805782255,0.0,0.848,0.152,I'm at the point in my life where I feel like I need to start taking medication.
+74,0.9999659183418773,3.408165813514513e-05,0.0,1.0,0.0,In fact I was on BP meds for YEARS.
+75,0.9999886895236473,1.131047634689665e-05,0.104,0.682,0.213,"Now, like every medicine i get i don't want to take it."
+76,0.9712749440874655,0.02872505591253222,0.0,1.0,0.0,I'm scripted Ativan 1mg as needed (along with a cocktail of other medication for my many disorders) and last month I needed to take it (on average) about once every 2 days.
+77,0.9984707271358321,0.0015292728641822522,0.12,0.717,0.163,"I always feel the need to make them feel better, its as though my brain just picks up all the uneasiness of others, makes them feel better and in return i end up stuck with all these shit feelings...
+
+i dont know what to do and am honestly considering therapy or some medications that will just calm me down."
+78,0.9992769751187911,0.0007230248811913134,0.0,1.0,0.0,"Things were really looking up for a while, since the medication was prescribed."
+79,0.9999417160578078,5.828394219421335e-05,0.0,0.884,0.116,"But does anyone maybe have any tips for dealing with things like I've described, short of therapy or more/different medication?"
+80,0.9997046308956655,0.00029536910433468523,0.0,0.885,0.115,Anyways I cannot think of any solutions aside from breaking up with her which is the last thing I want to do and want to ask for any ideas on how to cope with this (no meds please).
+81,0.9999726940046567,2.7305995359547406e-05,0.121,0.879,0.0,"Other general info if needed: Age: 16 (Junior in High School), No meds or any drug use."
+82,0.9996508931147157,0.0003491068852697032,0.0,0.858,0.142,Do I even want medication since it seems like you have to kind of shuffle through them to see which ones work and which ones don't...?
+83,0.9998899187346058,0.00011008126538986395,0.0,0.7,0.3,I recently had to take some melatonin to improve my sleep quality as well as other medication to calm myself down.
+84,0.9998597591814342,0.0001402408185605101,0.0,1.0,0.0,"I have never taken prescription medication before until July 2014 I started on 1mg lorazepam (Ativan) once in the morning, once in the afternoon, and then .5mg at night."
+85,0.9999619955190479,3.8004480956808624e-05,0.0,1.0,0.0,So I've been on these meds for about four months now.
+86,0.9997693574390698,0.00023064256092286315,0.0,1.0,0.0,"I am not on meds currently, because I had to go get a blood test before my MD will give me meds."
+87,0.9999369041337007,6.309586631243782e-05,0.0,0.868,0.132,"I notice blood on my T-shirts (Actually, I should note, I have been prescribed minocycline and a topical cream for my acne, so yes, I have been given medication)."
+88,0.9997241503962474,0.00027584960375548207,0.064,0.936,0.0,"I am on my sixth day of anxiety medication (celexa) and I am seeing my family doctor once every week, in addition to my psychologist once every week."
+89,0.9998798510635238,0.00012014893647888458,0.13,0.685,0.185,I'm on meds that are supposed to help with the obsessive thinking.
+90,0.9999745336994322,2.546630058452203e-05,0.0,1.0,0.0,I've been on multiple medications.
+91,0.9999536597527194,4.634024726598017e-05,0.128,0.872,0.0,"I suppose my medication is for laziness too, and the cuts on my arms are just coincidental."
+92,0.9999752187311451,2.478126886991135e-05,0.0,1.0,0.0,What anti-anxiety meds have worked for you that don't cause vertigo or nausea?
+93,0.9969475342736952,0.0030524657263153606,0.211,0.789,0.0,"My Psychologist suggested medication, which has been a fear of mine for some time."
+94,0.9999106246459796,8.937535401940218e-05,0.268,0.635,0.097,I am just exhausted emotionally and wanted to hear some POV of fellow anxious redditors who may have good / bad experiences with medication therapy.
+95,0.999079297202679,0.0009207027973191178,0.059,0.872,0.069,"I've had insomnia issues before, a lot actually, so I'm not sure if this is just my brain not turning off again or an actual side effect of the meds that will maybe eventually clear up."
+96,0.9998431909132516,0.00015680908674705723,0.153,0.847,0.0,I'm really starting to feel scared about what my meds are doing to me in the long-term.
+97,0.9997652818549144,0.00023471814507311297,0.0,0.857,0.143,"I really wish I could quit taking meds altogether, since I'm also afraid of what Zoloft is doing to me now."
+98,0.9987250436211308,0.001274956378861616,0.0,1.0,0.0,"I'm wondering if I should seek medications from a psychiatrist again, at least so I can get it under control in these types of situations and learn how to function again."
+99,0.9998073536872703,0.00019264631273738437,0.08,0.761,0.159,I have no idea how these medications work or if it's worth starting up during a transition period like the new few weeks when I start classes.
+100,0.9997047547011838,0.0002952452987986949,0.165,0.835,0.0,"I have to take medication for it, so i guess that puts a little more feedback on how ""severe"" it is, but i don't really think it's that bad."
+101,0.9999775993966965,2.2400603303254097e-05,0.244,0.635,0.12,"I would really like to ask my therapist about medication, but I'm scared."
+102,0.9979360901830404,0.002063909816946061,0.162,0.838,0.0,"I don't want to be the way that I am anymore, and I don't think I can change myself without the help of medication."
+103,0.9876928627292166,0.012307137270793876,0.053,0.815,0.131,"My boyfriend is on SSRIs for his depression, and he has the common side effects, and has tried different medications, but eventually just settled on one that made his mood feel the best, regardless of the side effects."
+104,0.9998900922620221,0.0001099077379777182,0.142,0.784,0.074,I've been on the medication since January and fortunately haven't had any anxiety attacks for several months now.
+105,0.9978911027426023,0.002108897257381697,0.0,0.775,0.225,"The doctors, mental health professionals, and a psychiatrist that I've spoken to have all recommended that I increase the dosage of my medication as they believe that changing my medication is the only solution to me getting better."
+106,0.999850273960881,0.00014972603913423652,0.071,0.843,0.086,And I also have anxieties about psychoactive substances like my medication having control over my mind and making me unable to exercise free will over my thoughts and emotions and instead making me into someone that is unhappy but still functional in society.
+107,0.9998177507211278,0.00018224927886282313,0.0,0.845,0.155,So I'm just curious as to other people's experiences regarding dosage change on this medication.
+108,0.9997926615812032,0.00020733841879678756,0.0,0.764,0.236,"Reddit, how do you deal with the weight gain from your medication?"
+109,0.9997325558189167,0.00026744418109410286,0.071,0.806,0.123,"And then one day i realized I'd been so much happier &amp; less stressed lately, &amp; that I hadn't taken or needed any of my meds in months."
+110,0.9999821643696541,1.783563034246522e-05,0.108,0.892,0.0,I've been off any &amp; all anxiety meds &amp; antidepressants for going on 4 years now.
+111,0.999985015145689,1.4984854312856434e-05,0.228,0.772,0.0,I'm just putting this here for anyone who's having trouble treating their anxiety or doesn't want to have to take meds long-term...
+112,0.9997971222287914,0.00020287777119426404,0.083,0.825,0.092,I was lucky enough to get state aid for the past year for my prescription medications and the discount helped a lot because otherwise I would be paying a ridiculous amount.
+113,0.9998443658429711,0.00015563415700837918,0.078,0.922,0.0,"However, I've now been told that I make too much money and will therefore no longer be able to receive the discount on my medications starting April 1."
+114,0.9989471014323529,0.0010528985676410846,0.087,0.913,0.0,The thought of not being able to get my meds is making me really anxious and last time this happened I ended up in the hospital.
+115,0.9998311649628439,0.00016883503714214374,0.0,1.0,0.0,TL;DR My discount for my meds is ending soon but I need the meds to function.
+116,0.9997719600252921,0.0002280399747199734,0.0,0.785,0.215,"Meditation and talk therapy are also part of my regiment, but this is one medicine change I've been very happy with."
+117,0.9995848953301004,0.0004151046699079647,0.384,0.616,0.0,Then I had a massive panic attack so I took 1mg Lorazepam (my first time taking any anxiety meds).
+118,0.9997320627481726,0.0002679372518079822,0.236,0.764,0.0,I've been on 3 different SSRI medications in the past and HATED the way they've made me feel.
+119,0.9998663408131185,0.0001336591868676268,0.0,0.729,0.271,"Recently, I had gone 4 months without one severe enough to require my medication, I was really proud of that."
+120,0.9994044693770842,0.0005955306229092787,0.139,0.861,0.0,"The meds didn't help that time, I just walked into walls a lot and felt wobbly woozy."
+121,0.9998197350935838,0.00018026490640717175,0.0,1.0,0.0,The only meds she is on now is Buspirone 30mg and Ativan 0.5 mg three times a day.
+122,0.9999205503662917,7.944963372232655e-05,0.0,1.0,0.0,Are these meds making her nauseas or is it her “nerves”?
+123,0.9954281386784096,0.004571861321592307,0.127,0.873,0.0,"I'm considering going to see a psychologist about anxiety meds, but it seems so weird to me that dating is the only thing I can think of that brings this out in me."
+124,0.9999669964206069,3.3003579405625606e-05,0.0,1.0,0.0,Considering meds.
+125,0.9997851985096853,0.00021480149030891609,0.0,1.0,0.0,Today is my first time ever taking any type of medication for my anxiety/depression.
+126,0.9810039828886574,0.01899601711136154,0.0,0.898,0.102,I know it takes a few weeks for meds to take effect so I don't know if it's because of the Prozac that I feel like this.
+127,0.9992827996317053,0.0007172003683130067,0.259,0.741,0.0,Is this normal or am I having a bad reaction to the meds?
+128,0.9996096800418033,0.0003903199582031496,0.179,0.821,0.0,"Hey y'all
+
+I am on a medication right now for my severe anxiety and noticed something now when having sex with my GF:
+
+I can't cum!"
+129,0.9995261105102734,0.00047388948973899156,0.0,1.0,0.0,"EDIT:  I don't know the name of my meds I have to look at them, I'm also on an anti-psychotic for my psychosis."
+130,0.9931459841595168,0.006854015840472828,0.0,0.895,0.105,"During my last semester abroad in graduate school, I was living independently, long-distance with my girlfriend, taking 9 courses in school, and was given news before arriving abroad that my kidney condition, although stable, was acting up a bit, but not enough for him to say I definitely needed medication."
+131,0.9990566914839566,0.0009433085160520948,0.25,0.75,0.0,"I'm getting migraines from stress, I'm trying to use my medications sparingly but I find myself crying and having a hard time pulling myself together more and more."
+132,0.9999809329523244,1.9067047661107793e-05,0.179,0.763,0.059,"but I'm hoping I can get some advice:
+
+I suffer from social anxiety and have tried multiple medications for this but they all failed (I am currently prescribed 100mg lamictal &amp; 30mg adderall which I have been on for years) but I never tried benzos until yesterday when I was prescribed .5mg of clonazepam from my psychiatrist."
+133,0.9997310102976165,0.00026898970236780007,0.069,0.931,0.0,I'm new to this medication and would do anything to get rid of this social anxiety so I could use all the advice I can get.
+134,0.9992404526723516,0.000759547327639375,0.159,0.841,0.0,"I'm also on medication for anxiety, and I'm seeing a therapist."
+135,0.9998434553051466,0.00015654469487149858,0.0,0.828,0.172,"She's never seen a professional about it, had any medicine, or anything like that."
+136,0.9992267537564962,0.0007732462435022788,0.284,0.567,0.149,"I think this has helped me realise that the medication I'm on, while dulling the anxiety and depression, also dulls the good feelings sometimes as well."
+137,0.9999905221319657,9.477868030754527e-06,0.13,0.713,0.157,"I think I'm going to mention this to my doctor and see what she says about it, because if there are other medications I could try that dull the anxiety but don't necessarily dull the happiness as much then I'd like to try them."
+138,0.9792723186568516,0.020727681343154274,0.13,0.87,0.0,"This discovery is the result of an accident, and I intend to get back on medication as soon as I can, because I know I'm still not at a place mentally where I can handle the anxiety without meds."
+139,0.9998620593646045,0.00013794063540625018,0.083,0.917,0.0,"Last night my girlfriend and I had sex while my parents weren't home, and due to my medication I took forever to climax so we eventually stopped."
+140,0.9999634520628041,3.6547937193643696e-05,0.155,0.845,0.0,"I have not taken any medication other than Acetaminophen, which has no side effects."
+141,0.9999783061204068,2.169387960889553e-05,0.075,0.925,0.0,I have recently gone off my meds for anxiety because my Dr told me it was possible that my brain chemistry could change.
+142,0.9973408152847153,0.0026591847152713914,0.094,0.906,0.0,I have been off of them for over a month now and I have now realized the thoughts and irritability I exhibit off of my meds are bad/different.
+143,0.9998967650490116,0.00010323495100216541,0.0,0.905,0.095,I want to stay off the meds but I need to control my issues.
+144,0.9986781207050955,0.0013218792948891784,0.146,0.774,0.08,"Are there any meds that help with nausea, bloating and loss of appetite because Im losing lots of weight ever since my life has begun to get more social."
+145,0.9999244821746418,7.551782534953763e-05,0.0,0.816,0.184,"I don't have, and I can't afford, any medications or professional help at the moment."
+146,0.9998501124182518,0.00014988758176637945,0.0,0.72,0.28,My best friend is studying to get his Phd in homeopathic medicine and has been using me as his case study.
+147,0.999587045757702,0.0004129542423158423,0.1,0.9,0.0,I was hesitant because I am a nurse so I'm trained in western medicine and don't have much knowledge of herbal remedies.
+148,0.9919691141402036,0.008030885859815406,0.054,0.847,0.099,"I've always been anti-meds (because taking medication makes me anxious; I'm always afraid I'll be allergic to it, or that I won't be able to handle the side effects), but right now all I want is for someone to hand me a pill that will let me sleep and feel ""normal"" for a while, whatever normal is."
+149,0.9999723031372493,2.76968627375019e-05,0.0,1.0,0.0,"I mentioned this to my Doc, but I don't know if he considered it when he started me on meds."
+150,0.9999661383702135,3.386162979468855e-05,0.155,0.845,0.0,I've gone to various doctors and gone through numerous medications to no avail.
+151,0.9992483500384216,0.0007516499615709914,0.0,1.0,0.0,I need to be armed with information about what to ask for when the topic of medication comes up.
+152,0.9998917613519605,0.00010823864802756275,0.053,0.777,0.17,"Please only answer if you are open-minded and have had experience or know someone w/ experience for adderall as a medication for anxiety and being a more productive, better person."
+153,0.9999849423629216,1.5057637066125229e-05,0.0,1.0,0.0,Does anybody know about this anti-depressant/anti-anxiety medication?
+154,0.9998063827987698,0.0001936172012168668,0.112,0.775,0.112,"It's frustrating because I am not asking for a medication I could potentially become addicted to, I am just asking for something to improve my functioning."
+155,0.9999805703617805,1.942963823485403e-05,0.0,0.839,0.161,"If I do, I'm just curious what medications worked for you guys, if any?"
+156,0.9996809375022938,0.00031906249772530596,0.0,0.833,0.167,Share your stories of what has worked for you medication or otherwise.
+157,0.9999795669071208,2.0433092883787476e-05,0.0,0.755,0.245,I'm on meds for this but I feel like they're wearing off.
+158,0.9991960482071299,0.0008039517928789162,0.137,0.863,0.0,"Because I don't want her to always rely on the meds and only take them when she needs them, but I have already told her that she needs to have them with at all times in case it gets too bad."
+159,0.9997608404214546,0.00023915957853214774,0.0,0.755,0.245,"In perfect world I would love to see her off meds and be able to not be bothered by all these things but I know that might not ever happen, which is okay."
+160,0.9999790645744521,2.0935425553566265e-05,0.293,0.707,0.0,I currently take depression medicine and am going to talk to my Doctor for anxiety medicine.
+161,0.9999275771976988,7.242280229304361e-05,0.0,1.0,0.0,I'm currently off the medication I used to take but I am thinking I might need to go back on.
+162,0.9998446249232698,0.0001553750767440286,0.043,0.894,0.064,"Also, I obviously need a job to have money to pay for treatment and medication but until I get that, are there any medications I can get without a prescription for anxiety?"
+163,0.9989181657525366,0.0010818342474738596,0.0,0.907,0.093,"I am currently conducting some research (For my Postgraduate MSc HPaB Psychology degree) on Depression/Anxiety and I would be very, very grateful if members currently taking medications would take a moment to complete the survey in the link below."
+164,0.9968633217345462,0.0031366782654722917,0.0,1.0,0.0,"The broad goal of my research is to examine the different classes of anti-depressant medications in relation to side effects, specifically addressing the severity level, type and tolerability of side effects in relation to medication BNF classification (the pharmacological body which classifies antidepressants into categories depending on the primary proposed mechanism for how the medication works)."
+165,0.999938384150187,6.161584979906082e-05,0.115,0.682,0.203,"Personally I have tried to avoid getting medication, as I don't feel risking side effects is worth it."
+166,0.9977214270040172,0.0022785729959644615,0.142,0.711,0.147,I'm struggling with something normal people would find easy even with the correct dosage of medication.
+167,0.9998793386445268,0.00012066135548534536,0.399,0.507,0.094,"Although my medication has worked great for the past months i have been on it, i can feel the anxiety building and im worried ill suffer another large attack, im terrified."
+168,0.9999898200596712,1.0179940329169893e-05,0.0,0.78,0.22,I'm wondering if anyone else here has had minimal help with Valium and has had help from another medication like Xanax or something alike or if I should just stick to Valium?
+169,0.9998424080752197,0.00015759192477645138,0.062,0.937,0.0,"I'm out of meds, dads in the er and mom won't answer her phone and I have no idea what's going on and I'm in charge of two little siblings rn (asleep for now)
+
+
+I.just.fucking.can't."
+170,0.9913436233879553,0.008656376612056546,0.04,0.96,0.0,"Here's my background: I'm 19 years old, male, and I recently enlisted in the military (I've wanted to do this since a young age), I've never been diagnosed with anxiety or never taken any medication, I keep it to myself, never told anyone about it."
+171,0.9998189541153765,0.0001810458846151019,0.0,1.0,0.0,I've been on medication for the past several months.
+172,0.9922253825868337,0.007774617413168984,0.075,0.78,0.145,"After a few days of trial and error with meds, turns out that just a little increase in my Zoloft was all it took to make me feel pretty much back to normal."
+173,0.9999871456977908,1.2854302229181378e-05,0.2,0.8,0.0,Im at the local library and my moms car broke down and i have no meds i dont know what im going to do
+174,0.998285957613072,0.001714042386940666,0.129,0.656,0.215,"So, here I am, not talking to anyone but my family and one single best friend, being angry and confused since I can’t find a way to be more talkative and not shy again (even though I am on Atarax, the medicine one doctor prescribed me to use against the anxiety, it doesn’t seem to help much so far)."
+175,0.9995087623561741,0.0004912376438100327,0.166,0.618,0.216,"We've tried counselling and medication, but we gradually lost hope in finding a 'cure'."
+176,0.9953060220278831,0.004693977972119265,0.152,0.761,0.087,I am dealing with a TON of anxiety and derealization disorder (everything feels like im in a dream) and am trying feverishly to get meds that actually work.
+177,0.9998383775802899,0.0001616224197047811,0.0,0.787,0.213,Side note: I do receive profesional help and was diagnosed with a GAD and given meds just looking for support or someone similar I guess.
+178,0.9999508753298931,4.912467011036891e-05,0.0,1.0,0.0,I've had to go back on medication...
+179,0.9999159236287133,8.407637127389977e-05,0.0,1.0,0.0,I am currently on meds now plus birth control since I believed it was hormonal.
+180,0.9975648192716638,0.0024351807283426114,0.163,0.837,0.0,Anyways a little over a week ago I got really sick and bedridden for 3 days in which caused my anxiety to sky rocket because I never had to call out of work once (other than earlier this year when I first started due to getting bad attacks and to get put on meds to control them better) and I never sat at home that long before in a looong time either.
+181,0.9997014361065101,0.0002985638934852858,0.111,0.889,0.0,"(in which I think being bored is another trigger and with drinking coffee making me hyper and not knowing what to do with myself)
+
+Also I did get my meds changed from citalopram to the generic of zoloft because of the attacks last week."
+182,0.9941166487920204,0.005883351207971974,0.033,0.623,0.344,"Sorry it was a random post, but I would love to hear some opinions though :) I am okay now although a little zoned out due to the new meds."
+183,0.9999581856759071,4.181432407938547e-05,0.0,1.0,0.0,I started taking meds again two weeks ago.
+184,0.9998788176580509,0.00012118234195340169,0.216,0.684,0.1,"I recently switched to an extended release anti-anxiety medicine, so I'm really hoping to get through this day with no attacks, or at the very least, few tears."
+185,0.999943380219421,5.661978057870316e-05,0.0,0.839,0.161,I take my medicine in the mornings and after about an hour I'm more stable.
+186,0.9999666335831957,3.336641681312622e-05,0.159,0.841,0.0,Could it just be morning anxiety or possiblly medication related?
+187,0.9949617726867767,0.005038227313207948,0.191,0.738,0.071,"She says her fear is of taking medicine that might make her want to kill herself, but I think it is also the anxiety of going to a doctor that prevents her from going."
+188,0.9999322595954833,6.774040451724964e-05,0.0,1.0,0.0,Afraid of medicine but not herbs.
+189,0.9962411608951028,0.0037588391048877534,0.161,0.747,0.092,I'm not sure if the return (and subsequent worsening) of my anxiety is a result of becoming tolerant to the medicine.
+190,0.9994370295861493,0.0005629704138428087,0.093,0.773,0.134,"I know i need to seek professional help, ive been on several medications before everything from once a day pills like zoloft, paxil... shit its a long list and normally those end up really fucking me up."
+191,0.9999215609774305,7.843902254993983e-05,0.166,0.834,0.0,We have begun to more seriously discuss medication as an option.
+192,0.9986318280543024,0.0013681719456982667,0.0,0.797,0.203,"The opinion of the professional was that meds could help, but doing as much natural remedies as I could before turning to them."
+193,0.9994192241158079,0.0005807758842084046,0.0,1.0,0.0,"He's on medication (Prestique), but has used alcohol as a crutch for too long."
+194,0.9995911199047304,0.00040888009528342566,0.0,0.832,0.168,I have been taking meds for about a month now and felt pretty good the last 2 days but today the scalp tingling is back.
+195,0.9999395062911244,6.049370887828407e-05,0.0,0.69,0.31,And did medication help (beta-blockers in partciular)?
+196,0.9988931311183301,0.001106868881652403,0.0,0.932,0.068,My boyfriend loves me to let me stay home and go to school again but he doesn't understand that I wouldn't be able to make it in the workplace even with the medication I take.
+197,0.999967943506262,3.205649374356576e-05,0.406,0.594,0.0,I am on meds to no effect I suppose and therapy seems insane and stressful to me.
+198,0.9998956052111618,0.00010439478885341365,0.0,1.0,0.0,I guess Im going to try to get some meds prescribed for the first time just for this interaction that lasts moments every day I work.
+199,0.9999763269652945,2.36730347182068e-05,0.0,1.0,0.0,And I don't know how much longer I can go without my medication.
+200,0.9999945812816096,5.418718387509153e-06,0.153,0.625,0.222,I'm generally pretty sensitive to medicine and this is no exception.
+201,0.9999968206564455,3.179343568895365e-06,0.0,1.0,0.0,Anyone else have experiences with this cough medicine or any others?
+202,0.9994406057126416,0.0005593942873763089,0.203,0.744,0.053,"Before you mention it I've tried the medication route with horrendous results, Zoloft made me have extreme Akathasia, so much so I was almost committed, one of the worst experiences of my life."
+203,0.997230560668615,0.002769439331402076,0.097,0.729,0.174,"I feel like some of you go on about how it's the *only* option, but meds are a big no for me, and others like me."
+204,0.9999733937064156,2.6606293594295376e-05,0.221,0.779,0.0,How do you beat anxiety without meds?
+205,0.9999619182438684,3.80817561308257e-05,0.0,1.0,0.0,I take meds.
+206,0.9891299130401664,0.010870086959840234,0.122,0.681,0.197,It's a very sad way to live life and I am hoping the meds and meditation will help snap me out of this a bit.
+207,0.9999888164688603,1.1183531140249192e-05,0.0,0.878,0.122,I feel like I can't and won't set foot in an airplane unless someone drugs me so today I got some medication.
+208,0.9998731581605028,0.00012684183951196777,0.0,0.927,0.073,"I've got some questions that I hope someone might be able to answer:
+
+- The doctor told me to try some medication at home to see what kind of side effects I can expect, so I'm thinking about trying one tomorrow."
+209,0.9998090760885983,0.0001909239114143335,0.122,0.878,0.0,I'm really worried I'll get to the airport and board the plane and realise that the medication isn't working.
+210,0.9986508383087043,0.0013491616913027472,0.037,0.963,0.0,"**Just** **some** **general** **info:**
+
+21, Male
+
+General anxiety, been taking medicine
+
+Don't have anything that triggers it
+
+**Symptom:**
+
+I'm transferring to a new university for several different reasons and I don't know but one or two people there."
+211,0.9998356611746405,0.00016433882534573572,0.097,0.903,0.0,"This isn't the first time I've been in this situation, but regardless anxiety creeps in even with the medications I take."
+212,0.9999683100862049,3.168991380577133e-05,0.252,0.748,0.0,I'm already on medication for depression (10mg per night) and on bc.
+213,0.999988914122557,1.1085877452905234e-05,0.172,0.828,0.0,"If she's right, do you have any suggestions for medicine that will cause less damage?"
+214,0.9999841093837277,1.5890616272145537e-05,0.255,0.745,0.0,"Yesterday, I had accidentally left my meds at home."
+215,0.9984026152325566,0.0015973847674271124,0.0,1.0,0.0,"Hi Reddit,
+
+So yesterday after having a bit of a break down, I realized I might have to back on my meds."
+216,0.9999716306338527,2.83693661656197e-05,0.185,0.815,0.0,"I have anxiety/panic disorder and agoraphobia, which I have been medicated for and have overcome (which subsequently led to me stopping my medication."
+217,0.9993453702471442,0.0006546297528531427,0.0,0.929,0.071,I don't know what to do and I don't have much time to properly deal with the issues.... right now the only thing I can think of is going back on my meds and hope that I can manage it when school starts.
+218,0.9999687073484227,3.129265158577703e-05,0.2,0.8,0.0,"TLDR; going back to school is making me feel depressed and bringing back my anxiety, wondering if I should go back on meds."
+219,0.9964619183549368,0.003538081645079206,0.0,1.0,0.0,I was laid off from work a while ago and used up the last of my meds (prozac).
+220,0.9999777303456671,2.22696543158859e-05,0.167,0.833,0.0,"The reason I am writing this is to tell you that your anxiety and panic disorders *can* be cured, and it doesn't require medication, or endless doctor/ER visits."
+221,0.9992652968071063,0.0007347031928972778,0.127,0.873,0.0,"I didn't want to deal with what had happened, and decided to take medication (zoloft, started at 25mg) and it seemed to take the edge off, but it never truly helped me."
+222,0.9999718582681093,2.81417318724328e-05,0.116,0.884,0.0,"What about anxiety meds, is that something that can come about from starting here?"
+223,0.9999908481385815,9.151861416497023e-06,0.0,0.916,0.084,"I sometimes wonder if medication would relieve this at all, but my mom is *very* much against me going on medication."
+224,0.9999743520205843,2.5647979415987155e-05,0.0,1.0,0.0,"I don't take any medications, or drugs."
+225,0.9999024831527523,9.751684722921813e-05,0.093,0.768,0.138,My counselor suggested it because I want to try to get over my anxiety without and serious medication.
+226,0.98945814550773,0.010541854492270361,0.074,0.871,0.055,"I went to my doctor a few weeks ago to discuss my meds and she mentioned looking into getting a workbook as anxiety is one of the more 'managable' mental ""problems"" (sorry, not sure how to phrase it) and that workbooks can help find triggers and overcome them etc."
+227,0.9998080565100474,0.00019194348995445554,0.159,0.841,0.0,I never really learned how to manage the anxiety without medication.
+228,0.9999794046642666,2.0595335723491906e-05,0.0,0.726,0.274,"Recently, my symptoms have greatly improved with therapy and meds."
+229,0.9993505648824332,0.0006494351175850894,0.145,0.855,0.0,Recently I've started the process of taking medications for my anxiety.
+230,0.9995044307755534,0.0004955692244500642,0.0,1.0,0.0,"To the main question, how many medications must I try before I find one that doesn't cause me side effects?"
+231,0.9992637541886888,0.0007362458112975997,0.0,0.861,0.139,"How long did it take to find the right medication for you, and how did it improve your life?"
+232,0.9998539597884546,0.00014604021155548556,0.086,0.914,0.0,"Sorry if this question has been asked before, I'm just always leery of starting new medications (WOO, HYPOCHONDRIA!)."
+233,0.9993034628662631,0.0006965371337370146,0.097,0.686,0.217,Is there a medication (for daily use) that has been successful for you with anxiety?
+234,0.9980994304785713,0.0019005695214351955,0.0,1.0,0.0,I went to see a therapist and the intern (the person who gathered my info) said SA is usually treated with 50/50 medication and therapy.
+235,0.999964696730041,3.5303269972481095e-05,0.283,0.717,0.0,I had no idea that it was my anxiety killing me so I never went to a doctor to get checked out hence never got any medications.
+236,0.9999510791438757,4.892085612573895e-05,0.49,0.51,0.0,Tried some meds but the doc gave me this really weak shit that didn't help much.
+237,0.9955424061953151,0.004457593804704667,0.072,0.817,0.111,"After a year of doc visits and multiple medications,  I'm turning to the collective wisdom of reddit, if for no other reason than to find some common ground."
+238,0.9999361598920016,6.38401080144343e-05,0.162,0.751,0.087,"So far, my medications and effects have been:
+
+Citalopram - Intensified the yucky mental feeling (anxiety?)"
+239,0.9974774160278964,0.0025225839720949897,0.179,0.821,0.0,"Wellbutrin - Seemed to level things out, but would still make me feel worse for a few hours after taking the medication."
+240,0.999984961005865,1.5038994147225126e-05,0.194,0.806,0.0,"The first 3 medications I gave up after 1-6 weeks, depending on how shitty they made me feel."
+241,0.9999782821843156,2.1717815673866296e-05,0.099,0.809,0.092,"Second I'm on two medications already (Zonisamide for seizures, Concerta for ADHD) and this just sounds like it will counteract or cause some problems."
+242,0.9999248932122179,7.510678780027262e-05,0.278,0.722,0.0,I was diagnosed with depression and anxiety six years ago and been on medication since that time.
+243,0.9998518975087091,0.00014810249127179568,0.0,1.0,0.0,"We don't know what caused it, but she was put on medication and discharged and hasn't had a seizure since."
+244,0.997232654292447,0.0027673457075626066,0.085,0.915,0.0,I'm someone who is afraid of drug interactions and side effects so it's hard to find a medication that works.
+245,0.9999066860507986,9.331394920489652e-05,0.077,0.745,0.178,"I just wonder if I'm better off seeing her more often and working through the cognitive distortions and unhealthy patterns on my own, which seems better, or taking the medication as well, even though it's not really ""me."""
+246,0.9946291095985419,0.005370890401468768,0.075,0.836,0.089,"At this point, I've already taken my sleeping meds, and I'm still a bit dazed from an anxiety attack earlier, so while I'm stumbling groggily down the very steep steps whilst admiring the moon, I think I'm at the bottom of the steps, and stick my leg out, but I'm not at the bottom - In fact, I'm a good 3 steps away."
+247,0.9998396817227263,0.00016031827728491433,0.0,0.794,0.206,Wondering if anyone has had any luck with meds helping these kind of things OR anything that I should probably stay away from.
+248,0.9999281129106773,7.188708934084472e-05,0.0,1.0,0.0,She's on meds for it but didn't get counseling.
+249,0.9995137144081574,0.00048628559185538684,0.04,0.885,0.075,"If this is all or mostly anxiety-caused as people are telling me, I both do and don't want to turn to the meds as the solution for the reasons above."
+250,0.9992317251920113,0.0007682748080043683,0.0,0.908,0.092,"I have been on two different types of medication since September, and I don't think the dosage is right for me yet but I won't stop trying."
+251,0.9997447934753817,0.0002552065246214129,0.0,0.913,0.087,"And if medication is not the right answer for me, that's okay, I'll try something else if it comes to that."
+252,0.9555965702730326,0.04440342972698016,0.0,1.0,0.0,"My psychiatrist suggested I do this test that involves swabbing the inside of my cheek with a cotton swab and sending it to a lab where they run your genetics against the common gene that the meds are composed of (all are in a different ""class"") and it tells you that based on the make up of your body and the class of the drugs, which class of drug your body metabolizes normally."
+253,0.9999887677842116,1.123221579201224e-05,0.0,1.0,0.0,I don't take any medicine whatsoever.
+254,0.9999896629024212,1.0337097571062818e-05,0.144,0.749,0.107,"I trust my doctor, but I can't help wondering if my different medications are reacting poorly with one another."
+255,0.9938003848852649,0.00619961511474465,0.0,1.0,0.0,"I've been working for years with different medication, as I get closer to college,I just don't see how I'll be able to function in the real world or work place when I can barely make it through high school."
+256,0.9996692488948413,0.0003307511051513679,0.175,0.825,0.0,I've been on anxiety meds for a long time now.
+257,0.999690456892895,0.0003095431071155618,0.0,0.918,0.082,Since the major reason for taking the legit meds is gone I'd like to get rid of them; the side-effects are still there and reduce my quality of life.
+258,0.9985410011980504,0.0014589988019398522,0.145,0.699,0.156,"I have been seeing a psychiatrist for a little over six months now, and she's been fantastic - as far as helping me to find the right medication to alleviate my anxiety and depression."
+259,0.9995678158076396,0.00043218419235030865,0.0,1.0,0.0,My psychiatric sessions focus solely on the efficacy of the medication.
+260,0.999703485635161,0.00029651436483557164,0.0,0.929,0.071,"I've been on a number or medications such as citalopram, fluoxetine and pregabalin but nothing has worked."
+261,0.9998559897574132,0.00014401024260177268,0.161,0.839,0.0,"I have an appointment with a psychologist next week, but I know she can't help me with medication management."
+262,0.9999661329394229,3.386706057035547e-05,0.119,0.593,0.288,"I need to have my medication adjusted *right now,* but it seems like no one can help me."
+263,0.9999428495830468,5.715041694225108e-05,0.0,0.794,0.206,With this new look and lifestyle I began to realize how good I was feeling without taking my daily anti-anxiety medication.
+264,0.9999589818844564,4.101811554054988e-05,0.128,0.872,0.0,So now that time has passed I'm wondering if I should/could stop taking any medication all together.
+265,0.9999606263436327,3.937365635408157e-05,0.084,0.792,0.124,Is there anything I can do to ease the anxiety during the appointment if I don't have access to medication?
+266,0.9999683580220924,3.164197792556876e-05,0.132,0.868,0.0,"I need to learn to start controlling them because my attacks are situational, and meds aren't really necessary at this point."
+267,0.9999342853880261,6.571461199070121e-05,0.081,0.758,0.161,"Over the last few months, my doctor and I have been experimenting with different anxiety medications with little success."
+268,0.9999209881429566,7.901185705849848e-05,0.101,0.769,0.129,"I'm getting tired of switching medications every 4-5 weeks, so I'm wondering first of all if anyone here has had success with this medication."
+269,0.9999573724627556,4.2627537253644856e-05,0.0,0.788,0.212,"Part of me wants to try medicine just to see if it'll help, but I'd rather try out some natural remedies."
+270,0.9999581901143066,4.1809885690999666e-05,0.0,1.0,0.0,"I don't have any medication to deal with this, or anything?"
+271,0.9999718179251335,2.8182074882486143e-05,0.0,0.725,0.275,So I've been off the meds now for over 3 weeks and have been doing pretty well.
+272,0.9999621943604573,3.780563956240314e-05,0.0,1.0,0.0,I cannot afford therapy or medication.
+273,0.9999625455374296,3.7454462567741514e-05,0.298,0.702,0.0,I'm on medication for anxiety.
+274,0.9999803583005505,1.9641699431775183e-05,0.0,1.0,0.0,"You would probably tell me something about ""*It'll be fine*"" or ""*You have all your life before you*"" or even ""*There is medication for this*""."
+275,0.9999684782981128,3.152170189667537e-05,0.379,0.621,0.0,I don't want medication.
+276,0.9999808069223126,1.9193077690930834e-05,0.327,0.673,0.0,"I know it's bad to continue to ignore such an issue, but I don't want medication."
+277,0.9997663098520767,0.00023369014792389605,0.179,0.821,0.0,"Unfortunately, I do not know what kind of doctors specialize in herbal medications."
+278,0.9986806726698384,0.0013193273301421477,0.0,0.725,0.275,Decided it might be best to totally abstain from all medicine and supplements to see if I just need a reboot of some kind.
+279,0.9999555439086024,4.445609140849838e-05,0.0,1.0,0.0,"This was about 4 months ago and since I got out of the hospital I had been off medicine and kind of strolling along, trying to keep my head up and keep on keepin on."
+280,0.9980251121761855,0.001974887823812811,0.106,0.75,0.144,"I developed a drinking problem after my boyfriend lied and left me for slutsherface and didn't see a way out, and I had refused medication all my life saying there was ""another way"" but needed a helping hand other than my therapist and took the pill route."
+281,0.9998123556792349,0.00018764432076227226,0.136,0.864,0.0,"I had no sex drive, before and during the meds after starting birth control in 2008."
+282,0.9999540912010275,4.590879898632359e-05,0.279,0.721,0.0,I've had panic attacks my whole life and was treated with medication from 6th grade through early college.
+283,0.9999017941106528,9.82058893531376e-05,0.0,1.0,0.0,Should I go back on the medication?
+284,0.9958748008701311,0.004125199129862945,0.0,1.0,0.0,I thought it would of came back as the meds kicked in but still nothing.
+285,0.9999333252367809,6.667476323656528e-05,0.098,0.727,0.175,"this might be a dumb question, but is there a definitive moment when i can truly know the meds are working ?"
+286,0.9999166567219515,8.334327803882213e-05,0.168,0.832,0.0,ive never taken meds before so im not sure what to expect
+287,0.999992458810047,7.5411899548120535e-06,0.371,0.629,0.0,I KNOW they suck and I KNOW how bad they feel to go through but fuck that we are all gonna get through this together without meds or doctor bullshit.
+288,0.9993323670396216,0.0006676329603776388,0.0,1.0,0.0,I'm currently on Lexapro (Cipralex in Canada) and I'm worreid about the sexual side effects of this medication.
+289,0.9996874569976699,0.0003125430023448774,0.0,1.0,0.0,I'm on my first week of taking medication and i'm already starting to notice these effects.
+290,0.9999451622512175,5.483774879509029e-05,0.06,0.94,0.0,Last year I decided that I didn't want to rely on medication for this anymore and prompted instead for finding other ways.
+291,0.9998416088577956,0.0001583911421979827,0.241,0.759,0.0,I have been off Paxil for my anxiety and depression for a few days because my psychiatrist office and my insurance company screwed me out of coverage and no longer taking appointments and I ran out of meds a few days ago.
+292,0.9999694542195303,3.054578048839775e-05,0.0,1.0,0.0,"EDIT: Also, I've never been to therapy, or been on any medication."
+293,0.9978717710849764,0.002128228915012739,0.0,1.0,0.0,"The patient must go through a series of Cognitive therapy practices and medication must be supplemented to overcome these harmful thoughts."""
+294,0.9998503850798369,0.00014961492017974691,0.257,0.641,0.103,"I don't know how to talk to my doctor about pain medication, I've been taking tylenol extra strength and it only barely numbs the pain."
+295,0.9999644313432811,3.556865672778014e-05,0.0,0.93,0.07,"I haven't been on any medication because I can't afford to go back to my doctor, and I really can't miss as much work as I have been."
+296,0.9999427654452439,5.723455474340337e-05,0.0,0.787,0.213,Or is it okay to try this medicine?
+297,0.9999831187907818,1.6881209198113178e-05,0.0,1.0,0.0,"&gt; 
+&gt; I've been on countless medications and few things have helped."
+298,0.9999848985149616,1.51014850270419e-05,0.0,0.789,0.211,"&gt; 
+&gt; I'm on medications now and they barely help."
+299,0.9999796012995041,2.039870050731275e-05,0.0,0.862,0.138,My family and I determined it was caused by this medicine I had been taking for my acne.
+300,0.9999774305985588,2.2569401444463182e-05,0.154,0.738,0.108,I have been off the medicine for 3 days but yesterday the anxious feeling came back.
+301,0.9848411361865721,0.01515886381342275,0.0,1.0,0.0,Will it take a little time for the medicine to get out of my system before I feel normal all the time again?
+302,0.9999618840687502,3.8115931229784836e-05,0.347,0.653,0.0,I'm so scared to tweak my meds.
+303,0.9996340013179053,0.0003659986820967204,0.0,1.0,0.0,This mostly went away after I started my meds until about a month ago.
+304,0.9999782369193511,2.176308064529785e-05,0.0,1.0,0.0,Perhaps talk to my psychiatrist and switch meds?
+305,0.9997279803179587,0.00027201968205497676,0.0,1.0,0.0,I've been off my meds for a really long time- almost two years.
+306,0.999379506014851,0.0006204939851469402,0.0,0.87,0.13,"During those two years, I was out of school and didn't really need the medications to help me through it."
+307,0.9999340978802295,6.590211978866085e-05,0.0,0.781,0.219,"Well, I decided to go back to school this summer, and realized that I would need meds as well."
+308,0.9999788612603464,2.1138739648225185e-05,0.204,0.796,0.0,"I was worried that my doctor would judge me for quitting them, and wouldn't want to give me any more meds because I would stop taking them."
+309,0.9999052900449668,9.470995504157423e-05,0.0,1.0,0.0,"She helped me get the medications that I do need, the ones I feel actually work for me."
+310,0.9996838917719761,0.00031610822801374667,0.0,1.0,0.0,I started a new medication and my appetite has completely gone away.
+311,0.9954452469967973,0.004554753003209627,0.085,0.808,0.108,I know this can be a side effect of the medication and I'm hoping it will even out in a few days but... should I be worried?
+312,0.9999770027388931,2.2997261113947918e-05,0.0,1.0,0.0,I'm on meds (effexor) and have seen two separate psychologists.
+313,0.9999130963945542,8.690360544879389e-05,0.447,0.483,0.07,I have nausea meds incase I do feel nauseous but I'm tired of constantly feeling sick and worried.
+314,0.9990711931300317,0.0009288068699594945,0.124,0.793,0.083,I haven't had attacks like this since 2.5 years ago before I started taking medication and the only way I had of dealing with it then was cutting myself.
+315,0.9998999984220639,0.0001000015779539614,0.0,1.0,0.0,Is it even possible to do without meds?
+316,0.9996591910705291,0.00034080892945664414,0.187,0.813,0.0,"I have been on meds for just over 6 months now and have been through cbt therapy, I would say i have a clearer direction in my life and a lot less depressed then before, but my anxiety is still a major problem."
+317,0.9989769349560443,0.0010230650439703418,0.0,1.0,0.0,"Due to a mix up at the clinic pharmacy, my medication wasn't filled and now i'm out."
+318,0.9997798952646955,0.0002201047352977509,0.053,0.947,0.0,I need that medication for my blood sugar and my anxiety meds are almost up too but now I'm afraid to go back to the clinic.
+319,0.9999686589184078,3.1341081572615914e-05,0.0,1.0,0.0,"Usual questions at first, what medications do you take etc."
+320,0.9995532503057252,0.00044674969427982474,0.132,0.868,0.0,I have been to the pharmacy many times to pick up medication and I never end up taking it because I am scared.
+321,0.9997166749482653,0.0002833250517337959,0.198,0.802,0.0,"I have read all the negative stuff, which is why I haven't started taking this medication for a while."
+322,0.9999674830363965,3.25169636065263e-05,0.0,0.545,0.455,"Please help
+Im not currently on any medication"
+323,0.9997033214524375,0.0002966785475625175,0.078,0.922,0.0,"I was able to deal with it when I was on anxiety meds, but I'm not on them anymore."
+324,0.9998895321962541,0.00011046780373331238,0.0,0.814,0.186,I have GAD and it was pretty out of control until mid-July when I went on meds.
+325,0.9998771295383184,0.00012287046166194345,0.115,0.885,0.0,Are there things the regularly happen because of the use of the medicine that I should be worried about?
+326,0.9997968220569221,0.00020317794309493144,0.056,0.893,0.051,"I have taken god knows how many prescription meds (Paxil and Wellbutrin, currently) and struggled through 10 years of therapy, including DBT, but I'm not doing so hot right now."
+327,0.999936453622036,6.35463779775712e-05,0.0,1.0,0.0,I cant remember putting the medication in or actually sitting there doing it.
+328,0.999876771692999,0.0001232283070064458,0.0,1.0,0.0,He is really old and just started a new medicine so I don't know if it was making him feel loopy or what.
+329,0.9999693550269321,3.064497307951872e-05,0.0,0.917,0.083,"The only time I go outside is to take the dog out (and chain smoke while we're out there) 
+
+I feel like I'm unravelling everything I accomplished this year, and I know I should see my doctor, and talk about meds, but I'm too afraid/ashamed to even call."
+330,0.9999614431117534,3.8556888232988146e-05,0.0,0.921,0.079,I'm close to being off as my doctor and I thought it worth an attempt to get off medicine and see how that goes.
+331,0.9999880493188062,1.1950681199832333e-05,0.254,0.746,0.0,I was originally on medicine for anxiety.
+332,0.9994117443020265,0.0005882556979737177,0.0,1.0,0.0,I attribute this to the phasing down of the SSRI medicine.
+333,0.9999794251418881,2.0574858096916365e-05,0.0,0.909,0.091,I think I need to go back onto medicine and I want to switch to something different.
+334,0.9986291174940026,0.0013708825059900536,0.044,0.858,0.098,"I have no idea what options are available to me, I've tried for a couple years to get a grasp on this mentally, but that hasn't worked so in terms of help I'm looking to medication."
+335,0.9977281453476972,0.0022718546522935037,0.111,0.786,0.103,"And I'm not sure if this is a situation that deems worthy for anxiety meds, but I'd prefer not to have to take some medication that will numb me and not make me feel anything, although I'm open to anything that will help with any of these symptoms."
+336,0.9999657953448013,3.4204655214773584e-05,0.122,0.718,0.16,"and im no good with keeping up with meds long term, so SSRIs are out."
+337,0.9999729434949275,2.7056505084118294e-05,0.0,1.0,0.0,I'm currently unmedicated but I'm seeking medication in July (the earliest they could get me in).
+338,0.9999644671407195,3.5532859261311664e-05,0.306,0.694,0.0,I will no longer judge these medications.
+339,0.9991474931789338,0.0008525068210476676,0.0,0.837,0.163,"while therapy helped a little, i am starting to realize that it would be great to get a proper evaluation and try out some meds."
+340,0.9998289661817059,0.0001710338183112201,0.097,0.743,0.16,"What medications, or combinations of medications, have you personally found helpful for managing your anxiety?"
+341,0.999841462653124,0.0001585373468947162,0.127,0.653,0.22,"I realize all meds are ""your mileage may vary"" but it's still nice to hear from people who have had success on theirs since often you read horror stories online."
+342,0.9996674256963409,0.00033257430364492776,0.276,0.599,0.124,I'm on two anti anxiety/ depression medications and they seem to help for the most part.
+343,0.9957169021414957,0.004283097858487289,0.152,0.848,0.0,My mother has diagnosed anxiety and takes medication for it; but the level of anxiety appears to lessen with each generation.
+344,0.9999547062323519,4.529376764180548e-05,0.0,1.0,0.0,I know that meds effect everyone differently.
+345,0.9992747235260575,0.0007252764739309066,0.0,1.0,0.0,"I'm just afraid of becoming dependent on these meds, especially Xanax as I hear it can be addictive."
+346,0.9999821536427657,1.7846357249714683e-05,0.0,0.847,0.153,I finally got on meds to try and help with my adhd so I can maybe finish college.
+347,0.9990625311826035,0.0009374688173867232,0.235,0.702,0.063,"I have not seen a Dr. Id really like to avoid medication if possible, however with the worse it gets I'm starting to not care about what they give me as long as they can make it stop."
+348,0.9998410717851687,0.00015892821484554892,0.189,0.686,0.125,"Like I lost my computer charger cable, I freaked out, and then my mom told me that if I didn't stop acting like a two year old then I would have to take medications."
+349,0.9994301654054736,0.0005698345945159147,0.115,0.845,0.041,But I don't want to take medications and I don't want to see a therapist and she doesn't want to pay for it or have to drive me to a therapist so I'm not going.
+350,0.9993987746265812,0.0006012253734230207,0.0,1.0,0.0,I'm on day 4 and I haven't felt exactly the same any of the 4 days I've been taking the medicine.
+351,0.9831509192858761,0.01684908071411233,0.0,0.736,0.264,I've read it can take up to 2 weeks to start feeling a more positive effect of the medicine.
+352,0.9951248871346349,0.004875112865348948,0.283,0.648,0.069,Or a psychiatrist who concludes medicine isn't a good fit because I'm fine most of the time and to just suck it up.
+353,0.9993545387656646,0.0006454612343418231,0.156,0.796,0.048,I have had anxiety disorder for roughly three years and have managed to get it under control (with very little use of medication) but every time someone starts talking about it I start feeling anxious.
+354,0.9916028159514703,0.008397184048517485,0.0,0.955,0.045,"So far I've tried/had checked:
+
+- Careful attention to diet (Low glycemic index foods, lots of vegetables)
+
+- Heavy cardio exercise 3-5 times a week (3km runs and soccer)
+
+- General blood tests (Vitamin and mineral levels, e.g - iron)
+
+- Thyroid via blood test
+
+- Testosterone levels via blood test
+
+- A sleep study, to rule out sleep apnoea
+
+- 3 years of seeing a psychologist (ACT I think, some CBT)
+
+----
+
+Yet to check:
+
+- Adrenal function tests (Maybe that was already tested as part of blood tests, to be confirmed)
+
+Anything else I should check before accepting the side effects I might get from medication?"
+355,0.9999265939845203,7.34060154683432e-05,0.0,1.0,0.0,It's been well-controlled for 15 years with medication.
+356,0.9999357962601624,6.420373983788523e-05,0.0,1.0,0.0,Did you change your meds?
+357,0.99990397355627,9.602644371475484e-05,0.087,0.913,0.0,"He also said that he would give me an anti sickness medication before I came round, and that it wouldn't make me feel woozy or sleepy."
+358,0.9999756470565817,2.435294341452105e-05,0.0,1.0,0.0,I'm not on any medications at all.
+359,0.9983190163913126,0.0016809836086974508,0.2,0.8,0.0,I had a bad experience with benzodiazepines and it's put me off of the whole medication thing.
+360,0.9999782954152691,2.1704584720298348e-05,0.183,0.704,0.113,"On our very first date, he explained to me that he is bipolar and has pretty bad anxiety issues (on medication for both)."
+361,0.9997390038009046,0.00026099619908833544,0.0,0.785,0.215,"Girlfriend is leaving me because she can't ""be there for me"" through this positive process of change and growth I'm going through due to therapy and medication."
+362,0.9999903115329439,9.688467067498978e-06,0.474,0.526,0.0,I have had anxiety attacks daily which are bad enough to warrant meds.
+363,0.9997390618391722,0.00026093816084008566,0.308,0.594,0.098,However the meds she likes to give me when I go through periods of extreme anxiety or depression just make me stupid.
+364,0.9955392353926314,0.004460764607358383,0.106,0.824,0.07,"I finally found a medication and therapist  that works for me (the combo was a complete game changer), my life is 10 fold better and I know many of the triggers that can kick in this anxiety so I can avoid them."
+365,0.9998705920329277,0.0001294079670665351,0.09,0.635,0.275,"TL;DR - need over the counter medication to help relieve my public speaking anxiety, any suggestions?"
+366,0.9858023437186659,0.014197656281343743,0.0,1.0,0.0,Anyways I wanted to ask could it be a side effect of the medicine?
+367,0.99992775065053,7.224934946451129e-05,0.145,0.855,0.0,"i've seen doctors, all who refused to refer me to mental health specialists and reccomended me antidepressants/anti anxiety meds which i am vehemently opposed to taking."
+368,0.9999789642403091,2.103575967793471e-05,0.213,0.787,0.0,I have anxiety but I can't take meds.
+369,0.9997319443813565,0.00026805561865838847,0.234,0.766,0.0,"I barely made it 2 weeks, had a 4 day long panic attack (while on medication) that made me book and early flight and come back home."
+370,0.9999669964206069,3.3003579405625606e-05,0.38,0.173,0.448,No medication please!
+371,0.9997322838274294,0.0002677161725619582,0.0,0.877,0.123,I've tried to tell him he needs to go to therapy and get medication but he refuses to even entertain the idea.
+372,0.9999753663761355,2.4633623868342996e-05,0.0,0.73,0.27,I'm 30 and have been off meds and happy for years.
+373,0.9998519062860378,0.0001480937139619498,0.109,0.841,0.05,"Well a couple weeks ago, my endocrinologist tested my TSH levels and they were low (hyperthyroidism), so he changed my medication (increased metformin and decreased levothyroxine), then I proceeded to go on vacation and LEFT MY ANXIETY MEDS AT HOME."
+374,0.9995704047763393,0.00042959522366401955,0.084,0.916,0.0,All the meds I'm taking mimic some of the side effects of pregnancy and I'm sufficiently freaked every time one of them makes an appearance.
+375,0.9999712853391418,2.8714660851596912e-05,0.13,0.666,0.204,"I went through some meds, none did anything beneficial, a couple had mild side effects like sleeplessness stomach stuff etc., but nothing too bad."
+376,0.9996639170609463,0.0003360829390439956,0.083,0.833,0.083,"After trying three meds, my doctor decided to tell me I need to talk to a therapist about the problem and that she would not be able to help me further."
+377,0.9992141900921165,0.0007858099078695131,0.092,0.908,0.0,I went back to the doctor today for an unrelated illness and mentioned that I have not been able to call the therapist and was damn near accosted for not having done so and then she begrudgingly prescribed me a new medicine with the requirement that I come back to her in 30 days and having talked to a therapist.
+378,0.9999775205309952,2.2479468993619015e-05,0.0,1.0,0.0,What if medication doesn't work?
+379,0.9995472747748081,0.00045272522519216864,0.0,1.0,0.0,"I'm going in today for a therapy session, and then am being diagnosed soon and put on medication soon after that."
+380,0.9994013849760791,0.0005986150239166375,0.0,1.0,0.0,We made the decision that I'll try to control it on my own and not go on medication.
+381,0.9996887618156705,0.00031123818432149896,0.059,0.82,0.121,I decided not to because I feel like it will change who I am and I also don't want to depend on meds.
+382,0.9999813015192492,1.8698480747856657e-05,0.0,1.0,0.0,"So guys, I was wondering what medicines are prescribed and how dependent you are on them?"
+383,0.9999653921181452,3.460788183511041e-05,0.138,0.652,0.21,(I stopped taking my meds because I feel better generally without them).
+384,0.9996892978602501,0.00031070213974494705,0.0,1.0,0.0,"I've been on and off anti-depressants and/or anti-anxiety meds for the past six years, each to varying effects: Paxil, Lexapro, Zoloft, Wellbutrin, Klonopin, Effexor, Remeron, Trazadone, Abilify."
+385,0.9988182136106595,0.0011817863893485605,0.0,1.0,0.0,"I took the first pill last night, and it's my first experience with any sort of SSRI, or any form of medication other than aspirin/tylenol/etc."
+386,0.9995312585431508,0.0004687414568510959,0.095,0.905,0.0,"Now here's my question:
+I'm going on a 4 day cruise in 10 days and am thinking I should stop medication until after the cruise."
+387,0.9996248786068496,0.0003751213931540887,0.0,1.0,0.0,"I'm not on medications right now and can't get on any for a few months at least, so I just have to figure out a way to deal with these I guess."
+388,0.99995984539721,4.015460278408848e-05,0.57,0.43,0.0,There's no shame in considering medication.
+389,0.9997882864979019,0.00021171350211490457,0.0,1.0,0.0,"Taking medicine turned my life around, find the one that's right for you, I tried three before I found one that doesn't make me hazy."
+390,0.9991536510964822,0.0008463489035042327,0.233,0.767,0.0,"It's been a while since I've had an attack (I don't take meds/I haven't discussed it with my family, so that's dumb on my part)."
+391,0.9993175503246252,0.0006824496753696558,0.132,0.678,0.19,I don't want to go back on my anti-depressents and I am already taking a medication for my anxiety that I love.
+392,0.9999792404474181,2.0759552572199994e-05,0.233,0.678,0.088,"I have never sought professional help for my anxiety, and although this is largely because my anxiety has prevented me from doing so, even when I've felt confident enough I've refused to seek help because I don't want to be put on medication."
+393,0.9989462211939949,0.0010537788060040432,0.082,0.785,0.133,"Surely if one has a mental problem, allowing your brain to become reliant on medication to correct it is just going to make it impossible to function properly without it?"
+394,0.9997541586068656,0.0002458413931342179,0.217,0.783,0.0,"I've never had any kinds of medicine or treatment for anxiety before, mostly because I'm too scared/embarrassed/proud to ask for any (which is stupid, I know), but I also didn't start noticing many problems with anxiety until July 2012."
+395,0.999924783767626,7.52162323842466e-05,0.0,0.856,0.144,"TL;DR Currently on Wellbutrin for GAD, what are your experiences/opinions; what other medicines (preferably non-ssri/srni) may help?"
+396,0.9999799612107286,2.0038789284316304e-05,0.213,0.787,0.0,I was on medication for about 2 months then stopped.
+397,0.9990312870976307,0.0009687129023820939,0.136,0.73,0.133,"I had been doing so well off meds, and now have had a lot of stress in my life."
+398,0.9999785031297678,2.149687022463257e-05,0.0,0.87,0.13,"So here they are again, and I will resume my meds since they did work well."
+399,0.9995101972999079,0.000489802700110396,0.219,0.781,0.0,"Recently started a new medication, which was very scary for me because I don't like taking things that I don't know what they will do."
+400,0.9999842874976026,1.571250238053913e-05,0.0,0.828,0.172,"Even when I started this medication, my thoughts were ""How is this going to help?"
+401,0.9993713170520263,0.0006286829479818683,0.0,0.833,0.167,The medication is allowing me to get to a point where I have the resources to care for myself.
+402,0.99404663932783,0.0059533606721796865,0.12,0.88,0.0,"For me medication will not be the answer, but it provides a door to a long tunnel to the other side of this mess if I'm willing to do the work."
+403,0.9944107308482221,0.005589269151777044,0.305,0.695,0.0,"Now a couple of years ago, I started having extremely bad panic attacks out of the blue, to the point that I am now currently on medication (Lexapro) for it."
+404,0.9998343730839011,0.0001656269160901698,0.11,0.89,0.0,"They discouraged me from seeing a therapist/taking meds, but this isn't about them, this is about me."
+405,0.9999597721638133,4.022783620231432e-05,0.117,0.787,0.096,"I've also tried Lexapro and Zoloft, but I'm not keen on meds and I got off them earlier than recommended (weeks.)"
+406,0.9962455907837334,0.0037544092162756122,0.15,0.766,0.084,"I'm not keen on meds for a few reasons, all of which are my personal beliefs and I don't mean to belittle or offend anyone on them."
+407,0.9991715625530085,0.0008284374469817385,0.33,0.577,0.093,Just in case: I'm not on any meds (aside from some pain killers for now) and I've never been diagnosed with anxiety problems of any kind.
+408,0.9999817224636665,1.8277536316492686e-05,0.0,1.0,0.0,I have health insurance that covers what I would need to see someone about therapy or medication.
+409,0.999767471934531,0.00023252806547282206,0.048,0.867,0.086,"Girl in above story actually gave me some meds that helped her in similar situations (which again, I should focus on that she cares about me enough to try to help me instead of dumb phone shit) but I havent noticed any difference really."
+410,0.9999263479838256,7.365201615830318e-05,0.292,0.708,0.0,I've had panic attacks all my life and I have been she people about it and taking meds.
+411,0.9995252460634411,0.0004747539365558,0.366,0.593,0.041,"* - I used to eat very healthy and do a lot of cardio, but since my sleep meds has lowered my blood pressure I can't do cardio without fainting D: and I have been eating very bad unhealthy stuff lately."
+412,0.9998638053747128,0.00013619462527504343,0.0,1.0,0.0,"Coincidentally, this is how long I've been taking my meds (escitalopram, 10mg once a day)."
+413,0.9999250609032706,7.493909671791484e-05,0.195,0.805,0.0,Could the meds and/or anxiety be causing it?
+414,0.9999073155406966,9.268445928740097e-05,0.104,0.896,0.0,"I know this did not happen on its own, I did years of therapy, studying, and medications (I am no longer on.)"
+415,0.9995131792505594,0.0004868207494471545,0.072,0.928,0.0,Ive never taken any meds for my anxiety before and today was the first time I talked to somebody about it (except my mother).
+416,0.9999827367467906,1.7263253215272393e-05,0.064,0.912,0.024,"I took off last week to allow myself to adjust to the medication, but also because I was scared something was going to happen go me on my way to work... Now, it's 1230M, I'm supposed to go to work tomorrow and I'm profusely sweating and have myself believing something is going to happen if I go to work tomorrow...."
+417,0.9997857510759436,0.00021424892403751707,0.089,0.911,0.0,"A month before her graduation she began to take medications for the attacks- I don't remember which ones specifically, but there were two."
+418,0.9998797720039417,0.00012022799605621113,0.0,1.0,0.0,"She was on the daily medication for about eight months, and closer to our wedding she got off it."
+419,0.9996838799792073,0.00031612002078901534,0.424,0.576,0.0,She still has the other anxiety medication to take when the attacks get bad.
+420,0.9996402477492208,0.00035975225076902454,0.0,0.862,0.138,"The medication is helping, but full-effect is still a little while away."
+421,0.99998438530964,1.5614690369791075e-05,0.0,1.0,0.0,I went on medication and it's been 4 months so I've decided to re-test.
+422,0.999966671033248,3.332896674911976e-05,0.221,0.779,0.0,Been on anxiety meds for about 1.5.
+423,0.9998285365169045,0.00017146348309183602,0.092,0.908,0.0,I don't want to take meds because I'm trying to get off of them.
+424,0.9999689351795241,3.1064820461431006e-05,0.0,0.748,0.252,should i get an anti-anxiety medication to help me sleep?
+425,0.9993104562802622,0.000689543719743582,0.0,0.759,0.241,It's my first time taking any kind of medication and to begin with I was feeling very positive about it.
+426,0.9979057907233149,0.0020942092766772476,0.0,0.758,0.242,I know medication isn't going to be a miracle cure but I'd like to know how long it normally takes to kick in to see how well it's working for me.
+427,0.9981408665568172,0.001859133443169496,0.164,0.836,0.0,"My doctor told me that a side-effect of the medication is anxiety, and I expressed myself probably a little too hostile-- ""NO, I don't need MORE anxiety, THAT makes me feel anxious, just thinking about it!"
+428,0.995698196481062,0.0043018035189338055,0.137,0.863,0.0,"This is the first time I've ever been on any kind of medication, and I suppose it's a bit worrisome."
+429,0.9997308842384026,0.00026911576158642847,0.0,0.861,0.139,"Edit: just thought i'd add, I haven't been on any medication for probably a year now, and I've been a lot better."
+430,0.999892830309607,0.00010716969040991777,0.0,1.0,0.0,I was going to a doctor and got some meds.
+431,0.9986517104501288,0.0013482895498726903,0.103,0.829,0.068,"i go to bed panicking i won't wake up the next day..  and go throughout my day checking my temperature with my thermometer i carry with me if i'm feeling particularly anxious about my temp..  (probably should stop doing that)..  
+
+i have smallish pains in my body..  
+
+i wonder how much of it is my head making the issue out and how much are actual issues..  i know a decent bit can be caused by anxiety, but i don't know how much..
+
+my nurse practitioner told me it was okay i take myself off the anti-depressants i was on if they were making it weird..  increased panic and weird dreams = taking myself off..  
+
+only thing is that's the 3rd time i've ""failed"" a particular class of medication, and she's told me that she can't do anything for me if that's the case."
+432,0.9998667249968906,0.00013327500312398084,0.0,1.0,0.0,Foundation of my therapy was samatha and vipassana meditation + cognitive behavioral therapy rather than taking meds.
+433,0.9997534296811486,0.00024657031886685755,0.095,0.632,0.273,"Met an amazing girl, made new friends, went on some trips - made the mistake of going off my medicine."
+434,0.9999775480502592,2.2451949753214533e-05,0.0,0.674,0.326,I am confident and hopeful that returning to my medication and potentially going back to therapy will help me get back into recovery.
+435,0.9998546120216483,0.00014538797833335774,0.0,1.0,0.0,I see a therapist and psychiatrist every month and take my daily medications every morning.
+436,0.9991216421725205,0.0008783578274619402,0.181,0.73,0.089,"I feel like i have the right tools through therapy and medication to stop the anxiety/panic but it just steam rolls over me.I try to read, go for a walk, talk to someone but it feels like if a panic attack wants to get me, its going to get me."
+437,0.9986334856551446,0.0013665143448733192,0.0,1.0,0.0,I am wondering if anyone has any advice for temporary meds with a short half life and minimal withdrawals to take during a withdrawl from venlafaxine .
+438,0.9981659681280506,0.0018340318719449761,0.119,0.82,0.06,"Well a few weeks ago,  the doctor decided to check my prostate, but instead of stick his fingers up my ass, he decided to stick a giant stick up there to take pictures of my prostate and bladder (Was not a pleasant experience) Well all came back normal and he said I have an overactive bladder and gave me this medicine to take for 2 months."
+439,0.9142799538445775,0.08572004615542331,0.189,0.659,0.152,"I took an oxycodone to help ease it and am waiting for it to kick in fully, but I know it may not help the headache itself since different pain medication types work on different kinds of pain."
+440,0.9995422541482756,0.00045774585172479086,0.0,0.794,0.206,"Therapy and medication are not to be overlooked, despite the unfair stigma that may surround them."
+441,0.9995695365297218,0.0004304634702837385,0.052,0.948,0.0,"This past month he's been going to a psychologist and a psychiatrist because he decided that he wants to stop using medication (the Parotexine, which he has been using without any supervision from either a psychologist or a psychiatrist for about eight years now, I think)."
+442,0.9999823124518691,1.768754814162093e-05,0.332,0.461,0.208,"I am on medication, so I no longer actively have outward panic attacks...but my fear inside is just as strong."
+443,0.9998958890333703,0.00010411096664502301,0.0,1.0,0.0,I pushed through it as I am not on any medication.
+444,0.9999744836076435,2.5516392367732788e-05,0.0,1.0,0.0,"Im not against taking medicine again, but im not exactly looking forward to it."
+445,0.996657440209062,0.0033425597909542792,0.171,0.829,0.0,"I just started a low does of Lexapro (for anxiety, social anxiety and depression, may be adding more meds later but psych wants to do one at a time to see how i react) and I've had some side effects."
+446,0.999899781220235,0.0001002187797610489,0.0,0.868,0.132,"I haven't been on anxiety medicine for a long time, probably for 5 years."
+447,0.9999510795161957,4.892048380150178e-05,0.245,0.755,0.0,I think these are things that would make normal people freak out so I'm not sure if it's reason to get back on anxiety medicine.
+448,0.9974849849656785,0.0025150150343012634,0.208,0.743,0.049,"If I do need to get back on medicine I worry about the doctors appointment, hospitals and doctor offices stress me out and it embarrasses me a lot to cry with a room full of people in a waiting room, does anyone have any suggestions to help me out with that?"
+449,0.999267104822095,0.0007328951779157733,0.124,0.876,0.0,"TL;DR: If I have a reason to have a lot of anxiety, do I still need medicine?"
+450,0.9992517655346331,0.0007482344653776259,0.0,0.894,0.106,"If I do need medicine, is there a way for me to not embarrass myself at the doctors office?"
+451,0.9999411916498072,5.880835017775586e-05,0.231,0.769,0.0,I have trouble breathing and writing and I'm out of medication.
+452,0.9999251101082582,7.488989173606138e-05,0.116,0.884,0.0,"Is it possible to try out anxiety medication without it ""rewiring"" your brain forever?"
+453,0.995814331275985,0.004185668724007131,0.275,0.69,0.035,"But also wanted suggestions of some meds that don't cause weight gain due to struggling with that from Paxil and finally losing all of that, I want to avoid it coming back."
+454,0.9996939447027191,0.000306055297299915,0.0,0.818,0.182,"She is on medication, something along the lines of Prozac, and seeing therapy but I don't think she is completely honest with the therapist."
+455,0.9999603331755023,3.9666824489624586e-05,0.221,0.779,0.0,I used to be on medication for anxiety.
+456,0.9999788493774966,2.1150622506730895e-05,0.178,0.667,0.156,I have anxiety disorder and I've taken my medicine but it doesn't seem to be helping.
+457,0.9998775637468635,0.00012243625315195376,0.115,0.885,0.0,"When I first developed this anxiety I went to this doctor S. Doctor S prescribed me Ativan and a sleeping medication and sent me on my way, but he made me feel a little uncomfortable and I wanted to try someone new."
+458,0.9997768830400979,0.0002231169599006782,0.0,0.865,0.135,"I am moving out of state soon, I don't have the time to be trying new medicines like this."
+459,0.9995032674129222,0.0004967325870941016,0.0,0.916,0.084,"Last time I told him to please just let me start taking the prozac again, side effects were minimal compared to these new meds and it works."
+460,0.9999165381522874,8.346184773033843e-05,0.0,0.649,0.351,I would like to get on a good medication now so I can think straight and sort this stuff out.
+461,0.9993416005481363,0.000658399451866212,0.0,0.816,0.184,"This, by the way, is with the help of anti-depressants and anti-anxiety medication."
+462,0.9999855565184801,1.4443481536516237e-05,0.199,0.801,0.0,"Now I don't like psych meds and I don't like homone replacement therapy, so I started doing some research on my own."
+463,0.9999522048042286,4.7795195775144427e-05,0.092,0.679,0.229,I'm confused as to why I'm still feeling like this and why is it still so intense even when on meds.
+464,0.9998564811574655,0.0001435188425282902,0.0,0.89,0.11,"Do you suggest asking to change my meds, or have I just not stuck with the citalopram long enough??"
+465,0.9999548261157338,4.517388425030267e-05,0.114,0.743,0.143,I'm hesitant about changing meds and it would feel like I'm starting all over again.
+466,0.9853370083197349,0.014662991680267265,0.0,1.0,0.0,"I'm on meds, I've tried a million different types, I've been through countless hours of therapy and was even inpatient once in the hospital for behavioral health."
+467,0.9994082765581369,0.0005917234418603735,0.054,0.796,0.15,Last week I was told by my doctor that I could remove my daily dose of Buspar from my medications due to my new abilities to help control my anxiety.
+468,0.9967859506601701,0.0032140493398338504,0.0,0.887,0.113,"I was on this medication for years, so to be finally able to come off of it was a huge accomplishment."
+469,0.9997555771929081,0.00024442280710761067,0.15,0.85,0.0,"It's still a daily struggle, but coming off these meds is a big step!"
+470,0.9998501166702276,0.00014988332975791058,0.0,1.0,0.0,"However, I have talked about my therapist about the possibility of going on medication."
+471,0.9991032639914608,0.0008967360085410767,0.0,1.0,0.0,The option I was given was the kind of medication that you take regularly and the kind you take as needed.
+472,0.9985012026536162,0.001498797346401144,0.0,0.84,0.16,that's just a guess off the top of my head) and am wondering if anyone would share their experiences with those types of medication.
+473,0.9984963078416282,0.0015036921583756354,0.108,0.892,0.0,"I'm a student of psychology at university and, particularly lately, studies have shown that cognitive therapy can be equally, if not more, effective as medication."
+474,0.9990386985508015,0.0009613014491871098,0.201,0.669,0.13,I've also tried 3 daily anxiety meds to no success as my body absolutely does not react well to changed in the serotonin levels.
+475,0.9995606484220404,0.00043935157794741436,0.137,0.731,0.132,2) For the meds - has anyone found good daily medicine to control anxiety outside of the serotonin inhibitor family?
+476,0.999994057657813,5.94234219106284e-06,0.109,0.705,0.186,I am wondering if anxiety medication could be useful for when I have these episodes.
+477,0.9999884272663582,1.1572733643832244e-05,0.206,0.673,0.121,"Technically, if I asked him ""I think I have anxiety attacks and I think anti-anxiety meds would help"" that is drug-seeking."
+478,0.9997974572364604,0.00020254276353273625,0.203,0.639,0.158,I feel the best thing for me is medication because I've been living my whole life with depression and social anxiety.
+479,0.9999069228107338,9.30771892769973e-05,0.0,0.865,0.135,"Basically the point of this post is to get this stuff off my chest and also, how can I convince my mom to allow me to get medication?"
+480,0.9991285444362239,0.0008714555637768032,0.0,0.857,0.143,She is on a lot of medication and not eaten will obviously make her feel like that.
+481,0.9999752886732615,2.4711326729079025e-05,0.0,1.0,0.0,Did you try counseling + medication?
+482,0.999934060206039,6.593979397553653e-05,0.175,0.663,0.163,I was able to go without any meds and didn't have many panic attacks.
+483,0.9999178556547594,8.214434525814533e-05,0.046,0.869,0.085,"i have anxiety as it is (it's normally manageable so i don't take medication for it, and it really hasn't been bad at all for the past few months), so right now it's through the roof."
+484,0.9988692243742119,0.0011307756258007236,0.162,0.838,0.0,"After 18 years of dealing with panic disorder I'm at the end of my rope so to speak, so I have found a place that focuses on functional medicine and getting to the root cause."
+485,0.9999122781252877,8.772187472222241e-05,0.1,0.9,0.0,"I've posted about it again and again whenever I get anxious, and I've received feedback telling me to try medication."
+486,0.9999636823054895,3.6317694503547606e-05,0.0,1.0,0.0,But I was just wondering about medication and how it actually worked.
+487,0.9984010117106261,0.0015989882893881102,0.0,1.0,0.0,"But to give him and *myself* a piece of mind, I've been thinking about going to therapy and asking for medication."
+488,0.9998565355677546,0.000143464432237053,0.0,1.0,0.0,Let me know your past experiences with the medication.
+489,0.9999317474628433,6.825253717226686e-05,0.0,1.0,0.0,I have to get some kind of medicine or see some kind of therapist because my life is being controlled by this.
+490,0.9998711346266566,0.0001288653733348886,0.0,0.899,0.101,"Found out in my first visit that three meds I am currently on (two psychotropics,  and one to treat my migraines) all leach away Vit B's."
+491,0.9999565242576406,4.3475742366324805e-05,0.41,0.59,0.0,I don't want to boost my meds again.
+492,0.9999956730969269,4.326903051330372e-06,0.0,0.634,0.366,Thank you if you guys know any medicine can help me.
+493,0.999278717595549,0.0007212824044411937,0.0,1.0,0.0,What are your views of taking the medication Lexapro.
+494,0.9999467581669137,5.3241833092832235e-05,0.466,0.534,0.0,I am on medication for depression and have emergency medication for panic attacks/severe mood swings.
+495,0.9999672222190102,3.2777781002075994e-05,0.05,0.877,0.073,"Anxiety medication is the last resort (again), and I'm kind of hoping they end up putting me on some type of mild sedative, so I can at least do some type of work."
+496,0.9980419905989808,0.001958009401024014,0.206,0.717,0.078,"I was beginning to feel like I'd gone in a kind of remission to my anxiety/panic attacks and depression, so I wanted to see how I'd do off medication."
+497,0.999924673210686,7.532678931948177e-05,0.194,0.806,0.0,"I've quickly realized I wasn't any better, the medication just suppressed it..."
+498,0.9999637349309477,3.6265069050857926e-05,0.0,1.0,0.0,"I need to know that if I'm going to be on medication forever, there's one out there that doesn't cause SO many long term side effects."
+499,0.9996016021527395,0.00039839784725020623,0.0,0.939,0.061,"I am calling my mothers social worker tomorrow to organise daily care for her, a social worker for my dad is supposed to call me tomorrow morning
+and i will also call his own doctor to see if there is some type of monitoring that can be done, or medication to settle him."
