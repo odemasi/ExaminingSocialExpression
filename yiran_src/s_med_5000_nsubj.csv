@@ -1,0 +1,625 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence,dict,identifier
+11,11,0.9998689890211864,0.00013101097883202507,0.052000000000000005,0.862,0.086,This last time she asked I explained that I was getting my anxiety medicine adjusted a few days before she needed me to watch them and maybe it would be easier for me.,nsubj,1
+15,15,0.9999536393761326,4.636062385080013e-05,0.322,0.6779999999999999,0.0,"The medications I've tried are
+
+Fluoxetine: Horrible nausea: lasted all day and interrupted work.",nsubj,1
+17,17,0.999771862300802,0.00022813769918550718,0.0,0.737,0.263,"Mentally, this medication made me feel like a zombie.",nsubj,1
+58,58,0.9977055294513126,0.00229447054867655,0.188,0.812,0.0,"The counselor helped a little bit, and I'm not entirely sure if the medication helped at all because I still felt anxious.",nsubj,1
+62,62,0.999912739487101,8.726051288769172e-05,0.29100000000000004,0.5820000000000001,0.127,im excited to see how the meds are gonna kick ass over my anxiety!,nsubjpass,1
+78,78,0.9983784420173092,0.0016215579826954374,0.0,1.0,0.0,"Things were really looking up for a while, since the medication was prescribed.",nsubjpass,1
+91,91,0.9999297801304636,7.021986953124292e-05,0.128,0.872,0.0,"I suppose my medication is for laziness too, and the cuts on my arms are just coincidental.",nsubj,1
+92,92,0.9999862139484084,1.378605158733248e-05,0.0,1.0,0.0,What anti-anxiety meds have worked for you that don't cause vertigo or nausea?,nsubj,1
+96,96,0.9998431909132516,0.00015680908674705726,0.153,0.847,0.0,I'm really starting to feel scared about what my meds are doing to me in the long-term.,nsubj,1
+99,99,0.9998073536872704,0.0001926463127373692,0.08,0.7609999999999999,0.159,I have no idea how these medications work or if it's worth starting up during a transition period like the new few weeks when I start classes.,nsubj,1
+114,114,0.9987010296237252,0.001298970376287182,0.087,0.9129999999999999,0.0,The thought of not being able to get my meds is making me really anxious and last time this happened I ended up in the hospital.,nsubj,1
+115,115,0.999831164962844,0.00016883503714213045,0.0,1.0,0.0,TL;DR My discount for my meds is ending soon but I need the meds to function.,nsubj,1
+120,120,0.9988994893407596,0.0011005106592458086,0.139,0.861,0.0,"The meds didn't help that time, I just walked into walls a lot and felt wobbly woozy.",nsubj,1
+121,121,0.9997612236114954,0.00023877638848588607,0.0,1.0,0.0,The only meds she is on now is Buspirone 30mg and Ativan 0.5 mg three times a day.,nsubj,1
+122,122,0.9999558003537384,4.4199646252523e-05,0.0,1.0,0.0,Are these meds making her nauseas or is it her “nerves”?,nsubj,1
+126,126,0.9861888346546884,0.01381116534532604,0.0,0.898,0.102,I know it takes a few weeks for meds to take effect so I don't know if it's because of the Prozac that I feel like this.,nsubj,1
+136,136,0.99841246003935,0.0015875399606579967,0.284,0.5670000000000001,0.149,"I think this has helped me realise that the medication I'm on, while dulling the anxiety and depression, also dulls the good feelings sometimes as well.",nsubj,1
+155,155,0.9999906577234148,9.342276582286363e-06,0.0,0.8390000000000001,0.161,"If I do, I'm just curious what medications worked for you guys, if any?",nsubj,1
+164,164,0.9957155735567276,0.004284426443283545,0.0,1.0,0.0,"The broad goal of my research is to examine the different classes of anti-depressant medications in relation to side effects, specifically addressing the severity level, type and tolerability of side effects in relation to medication BNF classification (the pharmacological body which classifies antidepressants into categories depending on the primary proposed mechanism for how the medication works).",pobj_nsubj,1
+167,167,0.9995436247174271,0.00045637528258601965,0.39899999999999997,0.507,0.094,"Although my medication has worked great for the past months i have been on it, i can feel the anxiety building and im worried ill suffer another large attack, im terrified.",nsubj,1
+181,181,0.999554218206353,0.0004457817936296486,0.111,0.889,0.0,"(in which I think being bored is another trigger and with drinking coffee making me hyper and not knowing what to do with myself)
+
+Also I did get my meds changed from citalopram to the generic of zoloft because of the attacks last week.",nsubj,1
+192,192,0.9970844394681856,0.002915560531802418,0.0,0.797,0.203,"The opinion of the professional was that meds could help, but doing as much natural remedies as I could before turning to them.",nsubj,1
+198,198,0.9998851569796746,0.00011484302032485191,0.0,1.0,0.0,I guess Im going to try to get some meds prescribed for the first time just for this interaction that lasts moments every day I work.,nsubj,1
+203,203,0.9971777177467426,0.0028222822532408195,0.09699999999999999,0.7290000000000001,0.174,"I feel like some of you go on about how it's the *only* option, but meds are a big no for me, and others like me.",nsubj,1
+206,206,0.9871662519939846,0.012833748006010677,0.122,0.6809999999999999,0.19699999999999998,It's a very sad way to live life and I am hoping the meds and meditation will help snap me out of this a bit.,nsubj,1
+209,209,0.9998090760885984,0.0001909239114143185,0.122,0.878,0.0,I'm really worried I'll get to the airport and board the plane and realise that the medication isn't working.,nsubj,1
+238,238,0.9999593480763412,4.065192363994237e-05,0.162,0.7509999999999999,0.087,"So far, my medications and effects have been:
+
+Citalopram - Intensified the yucky mental feeling (anxiety?)",nsubj,1
+247,247,0.999818172902126,0.0001818270978795255,0.0,0.794,0.20600000000000002,Wondering if anyone has had any luck with meds helping these kind of things OR anything that I should probably stay away from.,nsubj,1
+251,251,0.9995820402088832,0.00041795979109766863,0.0,0.9129999999999999,0.087,"And if medication is not the right answer for me, that's okay, I'll try something else if it comes to that.",nsubj,1
+252,252,0.9434738109485308,0.056526189051472005,0.0,1.0,0.0,"My psychiatrist suggested I do this test that involves swabbing the inside of my cheek with a cotton swab and sending it to a lab where they run your genetics against the common gene that the meds are composed of (all are in a different ""class"") and it tells you that based on the make up of your body and the class of the drugs, which class of drug your body metabolizes normally.",nsubj,1
+254,254,0.9999903197414812,9.680258529263668e-06,0.14400000000000002,0.7490000000000001,0.107,"I trust my doctor, but I can't help wondering if my different medications are reacting poorly with one another.",nsubj,1
+262,262,0.9999349461743516,6.505382562905204e-05,0.11900000000000001,0.593,0.28800000000000003,"I need to have my medication adjusted *right now,* but it seems like no one can help me.",nsubj,1
+266,266,0.9999601781946144,3.9821805377626396e-05,0.132,0.868,0.0,"I need to learn to start controlling them because my attacks are situational, and meds aren't really necessary at this point.",nsubj,1
+284,284,0.9976658085345336,0.002334191465456971,0.0,1.0,0.0,I thought it would of came back as the meds kicked in but still nothing.,nsubj,1
+285,285,0.9998887690596504,0.00011123094036016641,0.098,0.727,0.175,"this might be a dumb question, but is there a definitive moment when i can truly know the meds are working ?",nsubj,1
+301,301,0.991286761662252,0.008713238337730344,0.0,1.0,0.0,Will it take a little time for the medicine to get out of my system before I feel normal all the time again?,nsubj,1
+317,317,0.998734993368294,0.0012650066317120518,0.0,1.0,0.0,"Due to a mix up at the clinic pharmacy, my medication wasn't filled and now i'm out.",nsubjpass,1
+341,341,0.9998389403368472,0.00016105966315387382,0.127,0.653,0.22,"I realize all meds are ""your mileage may vary"" but it's still nice to hear from people who have had success on theirs since often you read horror stories online.",nsubj,1
+363,363,0.9999417015991672,5.8298400850297464e-05,0.308,0.594,0.098,However the meds she likes to give me when I go through periods of extreme anxiety or depression just make me stupid.,nsubj,1
+374,374,0.9995704047763392,0.00042959522366395184,0.084,0.9159999999999999,0.0,All the meds I'm taking mimic some of the side effects of pregnancy and I'm sufficiently freaked every time one of them makes an appearance.,nsubj,1
+378,378,0.9999862427463728,1.3757253635567209e-05,0.0,1.0,0.0,What if medication doesn't work?,nsubj,1
+382,382,0.9999856759132936,1.4324086724707196e-05,0.0,1.0,0.0,"So guys, I was wondering what medicines are prescribed and how dependent you are on them?",nsubjpass,1
+390,390,0.9986057553010064,0.0013942446990055052,0.233,0.767,0.0,"It's been a while since I've had an attack (I don't take meds/I haven't discussed it with my family, so that's dumb on my part).",nsubj,1
+395,395,0.9999143473197686,8.565268021703168e-05,0.0,0.856,0.14400000000000002,"TL;DR Currently on Wellbutrin for GAD, what are your experiences/opinions; what other medicines (preferably non-ssri/srni) may help?",nsubj,1
+401,401,0.9993713170520264,0.0006286829479817942,0.0,0.833,0.16699999999999998,The medication is allowing me to get to a point where I have the resources to care for myself.,nsubj,1
+402,402,0.9910245932210571,0.008975406778939996,0.12,0.88,0.0,"For me medication will not be the answer, but it provides a door to a long tunnel to the other side of this mess if I'm willing to do the work.",nsubj,1
+411,411,0.9992082022273784,0.0007917977726256831,0.366,0.593,0.040999999999999995,"* - I used to eat very healthy and do a lot of cardio, but since my sleep meds has lowered my blood pressure I can't do cardio without fainting D: and I have been eating very bad unhealthy stuff lately.",nsubj,1
+413,413,0.9999178487666374,8.215123335664616e-05,0.195,0.805,0.0,Could the meds and/or anxiety be causing it?,nsubj,1
+420,420,0.9993477587110916,0.0006522412889264218,0.0,0.862,0.138,"The medication is helping, but full-effect is still a little while away.",nsubj,1
+426,426,0.998231792109544,0.0017682078904618739,0.0,0.758,0.242,I know medication isn't going to be a miracle cure but I'd like to know how long it normally takes to kick in to see how well it's working for me.,nsubj,1
+476,476,0.999994057657813,5.942342191062606e-06,0.109,0.705,0.18600000000000003,I am wondering if anxiety medication could be useful for when I have these episodes.,nsubj,1
+477,477,0.999978800462134,2.1199537884932187e-05,0.20600000000000002,0.6729999999999999,0.121,"Technically, if I asked him ""I think I have anxiety attacks and I think anti-anxiety meds would help"" that is drug-seeking.",nsubj,1
+492,492,0.999996347847952,3.652152032845722e-06,0.0,0.634,0.366,Thank you if you guys know any medicine can help me.,nsubj,1
+495,495,0.9999488719364552,5.1128063547066354e-05,0.05,0.877,0.073,"Anxiety medication is the last resort (again), and I'm kind of hoping they end up putting me on some type of mild sedative, so I can at least do some type of work.",nsubj,1
+497,497,0.9997866331350356,0.00021336686497421705,0.19399999999999998,0.8059999999999999,0.0,"I've quickly realized I wasn't any better, the medication just suppressed it...",nsubj,1
+507,507,0.9999877307962186,1.2269203765870825e-05,0.111,0.606,0.28300000000000003,What else is there to do if no medications are able to help me improve.,nsubj,1
+508,508,0.9999284042968438,7.159570315579002e-05,0.348,0.652,0.0,The only medications I've tried seemed to kill my emotions EXCEPT for the anxiety.,nsubj,1
+511,511,0.9974083952626952,0.0025916047373048235,0.218,0.698,0.084,"The medication still works, but only at high doses (3-4 mg) my psychiatrist doesn't like the idea of giving it to me on an as needed basis because of its long half life, and while I understand the point he makes, it's also hard to accept because it was the only thing that helped me through my darkest moments and panic attacks.",nsubj,1
+521,521,0.9974738912633829,0.002526108736599148,0.0,1.0,0.0,A lot of side effects wore off as the weeks went by and the medication worked it's magic.,nsubj,1
+522,522,0.997511690395442,0.002488309604567119,0.0,0.787,0.213,"For about a week and a half, after the meds had time to set itself, I felt amazing.",nsubj,1
+548,548,0.999853646141922,0.0001463538580765307,0.09300000000000001,0.8220000000000001,0.085,I had really slipped when things started to get pretty bad and then took a year off... came back this year and finally was diagnosed and on the way to get my meds sorted out.,nsubj,1
+566,566,0.9868741294695682,0.013125870530427016,0.09,0.91,0.0,"I've studied psychology (just graduated with a degree in it, actually) and I know anxiety can be the same thing as diabetes; both can be manageable with no medication, but sometimes meds are necessary.",pobj_nsubj,1
+567,567,0.9999602118832508,3.978811675547416e-05,0.23,0.575,0.195,I'm terrified that any medication I go on will make me gain weight.,nsubj,1
+568,568,0.9995371028128506,0.00046289718713644494,0.0,0.9209999999999999,0.079,"After trying to cope with meditation and other methods, I feel as though I would benefit from seeing a psychiatrist and receiving some short lasting medication, and was wondering how medicine has helped anyone in a similar situation to me.",dobj_nsubj,1
+569,569,0.9998406449509049,0.00015935504910144884,0.125,0.8240000000000001,0.051,I know the dangers of becoming addicted to benzos etc...I just want to know how medicine has or has not helped any of you.,nsubj,1
+575,575,0.9987252315595971,0.001274768440390343,0.051,0.856,0.09300000000000001,"Since I did that, I went about 3 days where the meds weren't seeming as effective, but that has seemed typical that every two weeks around the same time I'd have a few days like that.",nsubj,1
+593,593,0.9995598171253158,0.00044018287468373214,0.10300000000000001,0.897,0.0,"I'm not sure if the meds are speeding things along, or if I'm just THAT out of shape.",nsubj,1
+596,596,0.9999635272419742,3.6472758012892986e-05,0.0,1.0,0.0,Should I try to back off the Xanax and talk to my doctor about getting my OCD medication upped?,nsubj,1
+603,603,0.9999401839733214,5.981602669347524e-05,0.12,0.6509999999999999,0.22899999999999998,"They prescribed me synthroid, and it put my mind at ease, knowing that finally, these meds will help this awful feeling go away.",nsubj,1
+610,610,0.9998521510832584,0.00014784891673662608,0.0,1.0,0.0,The two medications of choice are Lexapro or Celexa.,nsubj,1
+611,611,0.9920346869621944,0.007965313037806928,0.125,0.875,0.0,"Now, I knew people who go on medication for anxiety+derealization/depersonalization+depression but I feel that I hear so much about those medications leaving the taker unfulfilled, with a void in their life.",pobj_nsubj,1
+614,614,0.9992290419283658,0.0007709580716438463,0.0,1.0,0.0,Or is it just a fact that meds can only do so much when my head is full of screwed-up thinking that can't even be changed by understanding logic?,nsubj,1
+615,615,0.9997886465595668,0.0002113534404191757,0.0,1.0,0.0,I should also mention that I can't see my psych until June 8th and that the meds she suggested I adjust over the phone haven't been working.,nsubj,1
+622,622,0.9999903486490184,9.651350994096638e-06,0.0,1.0,0.0,"(Maybe I'm making up symptoms, what if medicine changes me, etc.)",nsubj,1
+627,627,0.9970871613423272,0.002912838657677553,0.253,0.691,0.055,"The doctors determined that the diuretics had taken a toll on her kidneys and she could no longer be ""aggressively treated"" for her water retention problem, and the hallucinations were due to her medication poisoning her.",nsubj,1
+650,650,0.9998595739718322,0.00014042602815382663,0.0,0.675,0.325,"Please, someone tell me that the meds don't make you numb.",nsubj,1
+663,663,0.9999602036350492,3.9796364963389645e-05,0.162,0.58,0.258,"All but one of my friends just say ""be mentally stronger"" or tell me how bad medication is for me.",nsubj,1
+668,668,0.999942528276808,5.747172320754089e-05,0.0,1.0,0.0,I'm thinking now medication might be the next step.,nsubj,1
+682,682,0.9997611770926,0.00023882290740849635,0.0,1.0,0.0,The first time I sat down to meditate after the medication started to kick in I was amazed…at how *freaking easy* meditation is now.,nsubj,1
+696,696,0.9973935091205473,0.0026064908794707466,0.161,0.8390000000000001,0.0,"Anyway, I know the medication isn't fully in my system yet, I just worry about my anxiety being at an all time high since I've started taking it.",nsubjpass,1
+700,700,0.999837311680902,0.00016268831910133522,0.0,1.0,0.0,I was being prescribed a benzodiazepine by a doctor at this clinic but this medication has been blacklisted from being prescribed.,nsubjpass,1
+707,707,0.9970892303038656,0.002910769696149675,0.0,0.87,0.13,I've been seeing a councilor and we've both agreed that medication was the next logical step.,nsubj,1
+709,709,0.9999503976329559,4.960236704586e-05,0.473,0.489,0.038,"The meds didn't work, well they did help with the anxiety, but so far the SSRIs I've been on all make me horribly depressed ... but hey they stop the panic attacks!",nsubj,1
+714,714,0.999824349546396,0.00017565045361879158,0.0,1.0,0.0,now its the 3d month and I don't feel that the meds are working.,nsubj,1
+730,730,0.9910468974340872,0.008953102565917902,0.046,0.8959999999999999,0.057999999999999996,"Pregame: Honestly, I probably should have taken small bottles of liquor with me to take the edge of since meds are no longer a thing for me, but instead I pregamed with my crochet (like knitting).",nsubj,1
+738,738,0.9902847078785412,0.009715292121475531,0.129,0.871,0.0,"I believe I'm psychologically addicted to it because once I start experiencing this sheer panic of having a seizure from stopping the medicine, it subsides a second after taking my dose, and I know the medicine doesn't work that fast.",nsubj,1
+745,745,0.9978099453936912,0.0021900546062924675,0.05,0.88,0.07,"Two months into the school year and I had begun to form very unhealthy eating habits (skipping meals and binging later, restricting), but my Mom thought that the medication was really helping me, when I was really the acting classes I took after school twice a week.",nsubj,1
+770,770,0.9957255429295756,0.004274457070428324,0.075,0.925,0.0,When I first saw a doctor for anxiety I was prescribed Celexa (20mg) and given clonazepam to take as needed until the meds kicked in.,nsubj,1
+773,773,0.9999123730192864,8.762698072185783e-05,0.272,0.728,0.0,TL; DR- The medications I've been prescribed thus far have been limited in effectiveness but have crappy side effects.,nsubjpass,1
+802,802,0.9999903367664654,9.663233552352915e-06,0.258,0.457,0.285,I feel like medicine doesn't help me.,nsubj,1
+805,805,0.9998405631222659,0.00015943687773629033,0.303,0.633,0.063,"My ADD medications were not helping me focus anymore, they only helped combat the tired feeling in my head.",nsubj,1
+818,818,0.9995417708046188,0.00045822919539498377,0.21899999999999997,0.7809999999999999,0.0,My medication runs out in almost a week.. and I'm freaking out.,nsubj,1
+822,822,0.9999634902924124,3.6509707604891604e-05,0.059000000000000004,0.711,0.23,"He didn't prescribe me medication but encouraged me try some tricks to help with my anxieties.If I get prescribed, what medications work for you guys?",dobj_nsubj,1
+823,823,0.9994675691194224,0.0005324308805665783,0.0,0.816,0.184,"i currently don't have health insurance so meds/therapy are out of the picture, and i would much rather use techniques and natural methods to help my situation.",nsubj,1
+837,837,0.99916161914834,0.000838380851661875,0.32799999999999996,0.672,0.0,"Benzodiazepines as Treatment for Generalized Anxiety Disorder
+
+Benzodiazepine medications are commonly prescribed in Northport as part of treatment for generalized anxiety disorder.",nsubjpass,1
+847,847,0.9998470582776274,0.00015294172238388822,0.265,0.735,0.0,I've only seen life full of anxiety and I guess maybe I had REALLY bad anxiety and now the medication is making me normal and who I am.,nsubj,1
+848,848,0.9997703796065748,0.00022962039344431303,0.0,0.5379999999999999,0.462,Is my medication just kicking in and is this a great success story?,nsubj,1
+850,850,0.9995911785989516,0.0004088214010585748,0.0,1.0,0.0,"The medication is working, but it's a short term effect..",nsubj,1
+868,868,0.9998367085444024,0.000163291455595017,0.145,0.652,0.204,I know never to mix the two but with my problem I want this medication to help as soon as possible,nsubj,1
+870,870,0.9997374137164088,0.00026258628360674294,0.0,0.565,0.435,"Anyways, medication sounds like it could be a good idea.",nsubj,1
+873,873,0.999381306753102,0.0006186932468901277,0.0,0.5539999999999999,0.446,"Obviously medication isn't for everyone, but it definitely saved my life.",nsubj,1
+881,881,0.9999013728444028,9.862715559828248e-05,0.24600000000000002,0.754,0.0,"I started having chain panic attacks shortly after my first dose, and they lasted for hours until the medicine finally wore off.",nsubj,1
+882,882,0.9997004946469992,0.0002995053530042792,0.0,1.0,0.0,"It didn't take me too long to catch on that the meds must have caused it, so I looked up the ingredients.",nsubj,1
+886,886,0.9999486392098528,5.136079014631504e-05,0.0,1.0,0.0,The people at the place I go to have told my mom that medicine is an option that can be discussed later.,nsubj,1
+887,887,0.999993024571493,6.975428488573723e-06,0.0,0.526,0.474,Can medicine help me?,nsubj,1
+892,892,0.9999637056170656,3.6294382939549227e-05,0.0,0.353,0.647,I hope the medicine helps soon.,nsubj,1
+928,928,0.9997746600318076,0.00022533996818529972,0.10800000000000001,0.892,0.0,Back then the medications for anxiety were in their infancy and not covered by insurance.,nsubj,1
+931,931,0.9998951335758124,0.00010486642418557228,0.0,1.0,0.0,"Remembering to get Pollux's medications refilled on time, not to mention getting him to not vomit up said medications.",nsubj,1
+951,951,0.993905701465845,0.006094298534160927,0.128,0.833,0.04,"everyday from there out till today id wake up and have crappy thoughts and feel crap, feel sick in the stomach and vomit and go to the toilet all the time ""Number 2"" on Saturday and Sunday i would fell amazing and normal so i always looked forward to it, however i did not seek help because i thought what i experienced everyday was normal as it runs in my family and my dad and his dad has it, other symptoms i get is freezing feet, always tired, horrible memory, horrible concentration, and always think something bad iss going to happen eg, house burn down :Z.
+
+anyhow i am now 19 and seeing a therapist and started taking Paroxatine 14 days ago i have yet to see any improvement but i know medication takes time 6 weeks at least.",nsubj,1
+952,952,0.9988603214621552,0.001139678537861808,0.038,0.899,0.063,"i have come to terms that my anxiety will not go away i am just hoping that the medication at least aids in the severity of it, and the therapy gives me techniques on how to deal with it which therapy is all about.",nsubj,1
+958,958,0.9999105116618779,8.948833811074629e-05,0.0,0.7040000000000001,0.29600000000000004,I'm wondering if medication could be the best option for now.,nsubj,1
+964,964,0.9999887120798304,1.128792016605763e-05,0.0,1.0,0.0,Should I get my meds adjusted or changed?,nsubj,1
+970,970,0.9999799527428664,2.004725714628669e-05,0.0,0.526,0.474,Did medication help you?,nsubj,1
+984,984,0.9999870616977474,1.2938302262348448e-05,0.09699999999999999,0.759,0.14400000000000002,"Experiencing new weird stuff, almost like paranoïa, and figure I should write this stuff to wait for my meds to kick in rather then building up more anxiety by letting my brain go free.",nsubj,1
+990,990,0.9957548167491036,0.004245183250902647,0.127,0.873,0.0,"Gotta get through the first couple weeks, today is day one and the medicine is sort of making me a bit tired.",nsubj,1
+999,999,0.9954780459506776,0.00452195404931189,0.048,0.9059999999999999,0.046,I make good money but not quite enough to pay for health insurance separate from my own (Of which she isn't covered) so taking her to a doctor and getting her some medication seems to be out of the realm of possibility.,nsubj,1
+1005,1005,0.9997297032683704,0.0002702967316426789,0.0,0.83,0.17,It's been a while since I've posted (or needed to) because my meds have been absolutely amazing (aside from some memory loss).,nsubj,1
+1013,1013,0.9999340506203642,6.594937964684376e-05,0.0,1.0,0.0,What medications would not have the most side effects?,nsubj,1
+1025,1025,0.999992469865568,7.530134423238442e-06,0.261,0.7390000000000001,0.0,"That had never happened to me before, so now my only reliable medicine is either not working or making shit worse.",nsubj,1
+1034,1034,0.9993794026344609,0.0006205973655258425,0.127,0.774,0.099,"The first session with him wasn't bad but he revealed to me that he is against treating anxiety with medication (while, admittedly, meds were what I was hoping for) and insisted that if we went through some of the more troubling memories from my childhood, it would fix everything.",pobj_nsubj,1
+1036,1036,0.9997872903849828,0.00021270961501600958,0.245,0.755,0.0,"New meds, more therapy, move back home with parents because I can't be trusted to be alone.",nsubj,1
+1040,1040,0.9999546310058176,4.53689941659852e-05,0.27399999999999997,0.726,0.0,"Note: When my anxiety medication wears off, I now GET anxiety immediately.",nsubj,1
+1046,1046,0.9999321874925102,6.78125074821459e-05,0.38299999999999995,0.617,0.0,This medication has ruined my life.,nsubj,1
+1075,1075,0.999033471476894,0.0009665285231000136,0.332,0.637,0.031,"I know that the meds and the therapy have helped me in these weeks, and helped me realize that I have had this problem for a long time, but I just want to say ""fuck you anxiety, seriously, fuck you.",nsubj,1
+1086,1086,0.9999757540762793,2.4245923730600273e-05,0.0,1.0,0.0,"Is medication needed, or even an option?",nsubj,1
+1115,1115,0.9999387298301612,6.127016983556514e-05,0.0,0.7040000000000001,0.29600000000000004,What medication worked best for you that had minimal side effects?,nsubj,1
+1125,1125,0.9993149040465276,0.000685095953454409,0.125,0.6729999999999999,0.20199999999999999,and what type of things do the medications normally do to help fight the feeling of depersonalization?,nsubj,1
+1134,1134,0.9997310673088704,0.00026893269112014754,0.0,0.865,0.135,"Over the last 4 or 5 months, however, I feel like the meds have been having *more* of an effect.",nsubj,1
+1142,1142,0.999733992320876,0.0002660076791178349,0.0,0.932,0.068,Is it possible that the meds are still in my system and I'm going through withdrawal?,nsubj,1
+1143,1143,0.9999836479842956,1.6352015698978987e-05,0.124,0.7909999999999999,0.085,I have no idea if the way I'm feeling is because the meds or if it's unrelated.,nsubjpass,1
+1149,1149,0.9999605468171648,3.94531828434459e-05,0.0,1.0,0.0,"I mean, I know how meds are supposed to work, but then sometimes it is discovered how they actually work.",nsubjpass,1
+1150,1150,0.9997960928276188,0.00020390717239814716,0.0,0.649,0.35100000000000003,I know that the medication may help.,nsubj,1
+1152,1152,0.9998667510942332,0.00013324890577440414,0.0,0.87,0.13,More and more the answer to that question has been that meds may help so I should at least TRY.,nsubj,1
+1153,1153,0.9995910459031598,0.00040895409684240096,0.326,0.557,0.11599999999999999,Blah blah it sounds melodramatic but going to 3 different professionals and being told 3 different medications will help me does not inspire confidence.,nsubj,1
+1167,1167,0.9995185067489442,0.0004814932510442606,0.075,0.785,0.14,"**TODAY:** About 1.5 or 2 years later now, the medication is working great, no side effects, and the majority of my symptoms have gone away now.",nsubj,1
+1168,1168,0.9974788643621596,0.002521135637849473,0.10300000000000001,0.687,0.21,I work in the creative field and I think one of those go-to arguments was that meds may affect your creativity and such.,nsubj,1
+1178,1178,0.9999912714000638,8.728599942505338e-06,0.33799999999999997,0.662,0.0,Is there any way the medicine could hurt my anxiety even more?,nsubj,1
+1184,1184,0.998844954281068,0.0011550457189370845,0.105,0.7959999999999999,0.099,"I don't feel like the medication was helping (especially considering the amount of anxiety I still feel about getting refills despite being medicated), but the withdrawal is unbearable.",nsubj,1
+1192,1192,0.9998437187246536,0.00015628127535913776,0.195,0.805,0.0,"My question is, has anyone else been skeptical about ""Mild"" anxiety meds, given it a try and it actually made a difference??",nsubj,1
+1210,1210,0.999965983060622,3.4016939393795825e-05,0.457,0.5429999999999999,0.0,Problem is this medication is making me extremely tired.,nsubj,1
+1215,1215,0.9813826138723214,0.018617386127679984,0.17800000000000002,0.8220000000000001,0.0,"I was diagnosed with clinical depression in high school, which, combined with several family related issues, caused me to fail out and generally be in a daze until a couple of years ago when my meds started working and I was able to get (mostly) back on track.",nsubj,1
+1221,1221,0.9997813625005898,0.00021863749941037619,0.09699999999999999,0.5710000000000001,0.331,It's like the anxiety is getting too strong for the meds to handle.,nsubj,1
+1253,1253,0.999969048205096,3.095179490626289e-05,0.247,0.449,0.303,No meds have seemed to help.,nsubj,1
+1276,1276,0.99502307438509,0.00497692561491345,0.316,0.5579999999999999,0.126,"People who are suffering from different kinds of anxiety and depression, which medication was the most effective for you.",nsubj,1
+1283,1283,0.99997743327819,2.2566721827678376e-05,0.299,0.299,0.40299999999999997,Does medication help paranoia?,nsubj,1
+1284,1284,0.9990553966235888,0.0009446033764181284,0.294,0.604,0.102,"Ultimately, I am scared, as always, that I will regress and not make progress with my anxiety, that the meds will stop working or I will get worse with each anxious episode I have - and I am also terrified that my anxiety is going to drive away the person I love, the person I am engaged to marry.",nsubj,1
+1292,1292,0.9996271585739622,0.0003728414260468805,0.10099999999999999,0.8340000000000001,0.066,"I started it on Feb 3rd and have been feeling more anxious, which she told me might happen while the meds regulate.",nsubj,1
+1316,1316,0.9959840707337556,0.00401592926623304,0.0,0.649,0.35100000000000003,The meds aren't making much of a difference and I want to try something natural to help.,nsubj,1
+1325,1325,0.999915620115014,8.437988497093394e-05,0.087,0.9129999999999999,0.0,"I am just wondering maybe I should lower my dose because now that the medication is at its full effect, maybe it is just too much.",nsubj,1
+1331,1331,0.9999832338991932,1.6766100788812814e-05,0.092,0.595,0.314,Hopefully my anxiety meds actually work tonight when I’m hanging out with my friends.,nsubj,1
+1333,1333,0.9998798613391356,0.00012013866087303552,0.0,1.0,0.0,I have also recently had my meds changed after being on the same ones for 2 years.,nsubj,1
+1335,1335,0.9999466504810136,5.334951899414781e-05,0.0,1.0,0.0,"So now the medication that I NEED, and they were supposed to have, they haven't refilled.",nsubjpass,1
+1341,1341,0.9984455514373248,0.0015544485626729449,0.467,0.5329999999999999,0.0,"**TL;DR** I have panic problems, the medications I've tried aren't great, and I want to give benzos a shot.",nsubj,1
+1360,1360,0.9999882454051626,1.175459482387442e-05,0.0,0.58,0.42,What medication would be good?,nsubj,1
+1368,1368,0.993530472409724,0.006469527590291542,0.262,0.682,0.055999999999999994,I've struggled with anxiety/OCD thoughts for a couple years and recently attempted to take medication (zoloft) for it prescribed by my doctor but after 3 days I was convinced and paranoid that the medication was making it worse or would make it worse if I kept taking it and I would fully lose control.,nsubj,1
+1381,1381,0.99255355081301,0.007446449186976022,0.222,0.486,0.292,"It's not really direct pain, it's almost like a very irritating pressure that pain medication cannot help, like my mind is tying itself in knots.",nsubj,1
+1382,1382,0.9999956703481382,4.3296518449638486e-06,0.503,0.49700000000000005,0.0,"Would medicine effect someone who is anxious about illness, disease, cancer, etc.",nsubj,1
+1385,1385,0.999008735016636,0.0009912649833837988,0.209,0.7909999999999999,0.0,"It's not a stimulant, like many other ADD/ADHD medications are.",nsubj,1
+1394,1394,0.9995627028424212,0.00043729715758218483,0.183,0.8170000000000001,0.0,"It's been three days since and I still have chest pains and mini attacks with shaking and hyperventilating despite medication, all the meds really do is sedate me to the point of where my brain is mush.",pobj_nsubj,1
+1399,1399,0.9992029905908384,0.0007970094091483971,0.078,0.752,0.16899999999999998,i also get reinforcement from my bf to the same end: that antidepressants/anti-anxiety medications mess with your natural brain chemistry and it's probably better to find a different outlet.,nsubj,1
+1412,1412,0.9999512960243996,4.8703975598996775e-05,0.0,1.0,0.0,Just meds on their own do not work.,nsubj,1
+1413,1413,0.9992319848632568,0.0007680151367252267,0.087,0.7040000000000001,0.21,"I was just sort of feeling so comfortable in my ability to control my anxiety that I got too cocky and just let the meds do everything, and I expected them to do everything.",nsubj,1
+1416,1416,0.9999031982302308,9.680176976102948e-05,0.0,1.0,0.0,"The meds I've tried haven't helped much, and I've been rather resistant to therapy.",nsubj,1
+1425,1425,0.9891040488899372,0.010895951110081592,0.0,1.0,0.0,She also said highly unlikely the meds had a thing to do with it.,nsubj,1
+1449,1449,0.9999588078222962,4.119217770443531e-05,0.196,0.693,0.111,"Or I could try to be treated for my anxiety, and risk wasting precious time that I don't have right now figuring out what medications work for me, etc.",nsubj,1
+1456,1456,0.9964006035133108,0.003599396486696154,0.19,0.81,0.0,I have heard that many anxiety meds do not mix well with someone who has a history of seizures.,nsubj,1
+1458,1458,0.9999914210586236,8.578941372975047e-06,0.22,0.78,0.0,But my acne makes me feel worse than any medicine ever could.....,nsubj,1
+1469,1469,0.9989905446066608,0.0010094553933361478,0.0,1.0,0.0,"They tweaked my meds (upped my beta blocker, metaprolol, from 25 to 50, and added in daily baby aspirin), gave me a holter monitor, and sent me on my way.",nsubj,1
+1477,1477,0.9997725616116993,0.00022743838830705502,0.28800000000000003,0.648,0.064,"I am pretty good with mental health, I have an anxiety myself, but my girlfriend has anxiety and depression, she recently had her anti-depressant meds doubles, since then she has been terrified about going to work, she can't get up in the mornings, even getting out of bed seems scary.",nsubj,1
+1484,1484,0.999987002726188,1.2997273810941767e-05,0.368,0.632,0.0,Did the medicine permanently fuck me up?,nsubj,1
+1491,1491,0.9999803563091128,1.9643690882055678e-05,0.0,1.0,0.0,This is an update on how my medication is working for me.,nsubj,1
+1494,1494,0.999970722131985,2.9277867999727312e-05,0.195,0.805,0.0,"I know however how meds and alcohol don't mix well, but I was wondering: if I don't take my 5 mg Escitalopram on that particular morning, would there be no problem with me drinking alcohol later in the day?",nsubj,1
+1510,1510,0.997665932914776,0.002334067085226673,0.184,0.816,0.0,"My mom thinks that medication is the only answer, I think its a waste of time, I stay on them mostly to keep her from worrying too much.",nsubj,1
+1512,1512,0.9999296857328048,7.031426721385643e-05,0.451,0.423,0.127,"My meds make me irritable, crazy and irrational which try to help my anxiety.",nsubj,1
+1518,1518,0.9918364725498108,0.00816352745018464,0.039,0.917,0.044000000000000004,"ADHD meds have not been working for me and I'm starting to wonder if treating anxiety first, which was a surprise diagnosis for me but actually makes a lot of sense, is the way to go.",nsubj,1
+1527,1527,0.9999842218513344,1.577814865894566e-05,0.179,0.767,0.054000000000000006,I feel like my anxiety is progressively getting worse but I am not sure if it is from chronic marijuana use or if my medicine isn't right for me or what.,nsubj,1
+1553,1553,0.9997987334428152,0.0002012665571948894,0.183,0.596,0.22,": I've heard anxiety meds usually make you gain weight--but if it makes me feel better, and helps me relax and not sleep so much anymore (I sleep to avoid the day and avoid feeling anxious), couldn't it actually help me to get up and lose weight?",nsubj,1
+1558,1558,0.9991046001856824,0.0008953998143052672,0.149,0.755,0.096,"I tried medication (which kind of helped, but not really - crappy side effects, and never really solved the problem, and of course you have to keep amping up the doses to get the same effect over time).",nsubj,1
+1569,1569,0.9998756974678285,0.0001243025321728479,0.0,0.6559999999999999,0.344,Does medication help the what ifs and the feeling small?,nsubj,1
+1570,1570,0.999907109336778,9.289066322553264e-05,0.316,0.526,0.158,Does medication take away the choking feeling?,nsubj,1
+1572,1572,0.9997725616116993,0.00022743838830705502,0.28800000000000003,0.648,0.064,"I am pretty good with mental health, I have an anxiety myself, but my girlfriend has anxiety and depression, she recently had her anti-depressant meds doubles, since then she has been terrified about going to work, she can't get up in the mornings, even getting out of bed seems scary.",nsubj,1
+1576,1576,0.997936816135803,0.002063183864211537,0.0,1.0,0.0,"He seemed to scramble and gave me a list of meds, telling me that ""we can try anything"" since my current meds aren't working.",nsubj,1
+1582,1582,0.999935655040104,6.434495987898072e-05,0.179,0.821,0.0,"And personally I've found medications just mess up my mindset even more, seeing as though drugs got me into this mess in the first place.",nsubj,1
+1599,1599,0.9970802503227836,0.002919749677222145,0.15,0.7490000000000001,0.102,B. I've read that most mood medications have a negative impact on sex-drive/performance and can cause serious weight gain - have you found this to be the case for you?,nsubj,1
+1617,1617,0.9986467169252756,0.001353283074720282,0.09699999999999999,0.903,0.0,There years later after medication and therapy I tried to go back and finish only to have a miscarriage in the bathrooms there and start the attacks all over again.,nsubj,1
+1620,1620,0.9999715104959432,2.848950404593517e-05,0.293,0.7070000000000001,0.0,"My worry is, will medication make studying harder?",nsubj,1
+1622,1622,0.9999611744311672,3.882556882845831e-05,0.0,1.0,0.0,What's your experience with medication been?,nsubj,1
+1627,1627,0.9995180964239776,0.00048190357603680576,0.193,0.807,0.0,"* I *want* the medicine to work, badly, so I'm afraid of that clouding my judgement.",nsubj,1
+1628,1628,0.9999626276973144,3.737230269035279e-05,0.14400000000000002,0.7190000000000001,0.13699999999999998,"Well, my meds are in at Costco...but I have no way to get there.",nsubj,1
+1638,1638,0.9999517709692758,4.822903071114334e-05,0.251,0.6409999999999999,0.10800000000000001,The only anti-anxiety meds to help are benzos.. but those motherfuckers scare me.,nsubj,1
+1645,1645,0.9926648245284756,0.007335175471531938,0.21600000000000003,0.708,0.075,"In the beginning, I felt great, but now with a sudden move I am starting to feel extremely anxious and helpless, and I don't feel my medication is doing a suitable job.",nsubj,1
+1647,1647,0.9998215650651996,0.0001784349347979402,0.0,0.8759999999999999,0.124,"I've been to the doctor and they prescribed me with Buspar, but I have yet to take it because I feel like meds aren't the answer.",nsubj,1
+1672,1672,0.9988352939937396,0.0011647060062634931,0.308,0.6920000000000001,0.0,"I see a therapist and take some SSRIs, but I spent my last therapy session crying my eyes out because i was so scared, and the medication doesn't really help when I'm this on edge.",nsubj,1
+1673,1673,0.9999641734334636,3.582656652655263e-05,0.33299999999999996,0.667,0.0,My meds dont make me happy anymore.,nsubj,1
+1676,1676,0.9999682784251148,3.172157486735245e-05,0.0,0.867,0.133,But I'm curious how this or similar medication has effected your day to day physical symptoms?,nsubj,1
+1696,1696,0.9999717416094456,2.825839055823409e-05,0.0,1.0,0.0,Only medication I am on is birth control pills.,nsubj,1
+1724,1724,0.9999708507634704,2.914923651197705e-05,0.146,0.662,0.192,Since then I have been worried that my meds are working as good.,nsubj,1
+1725,1725,0.9998739828519452,0.00012601714805395933,0.179,0.821,0.0,I know the meds aren't going to completely take away anxiety.,nsubj,1
+1748,1748,0.999942575778666,5.742422132432878e-05,0.0,0.789,0.21100000000000002,"I can’t help but think about a therapist sitting there listening to me and thinking “SNOOOOOOORE” while I blather on, and medicine is last resort for me, so I really want to start with some good reading.",nsubj,1
+1753,1753,0.9999823426921612,1.765730783739617e-05,0.0,1.0,0.0,What anti-anxiety medication (long-term) are people put on usually?,nsubj,1
+1759,1759,0.9999904790412354,9.520958760009288e-06,0.29100000000000004,0.7090000000000001,0.0,I hate that I can't tell if my medicine works or doesn't.,nsubj,1
+1760,1760,0.9999907061958656,9.293804117552986e-06,0.353,0.47600000000000003,0.171,"The pain medicine makes me want to puke, no idea how people get addicted to those, haha.",nsubj,1
+1782,1782,0.9881415167702412,0.011858483229778177,0.214,0.711,0.075,"2 weeks after the meds started to take place and finally i could go back to collage and start working out again(had a panic attack in the gym) and the anxiety calmed a little on me but the panics attack ofcourse hit everyday, i tried meditating and taking long walks but it didn't make any big improvements.",nsubj,1
+1814,1814,0.9998241629890688,0.00017583701093918617,0.24100000000000002,0.569,0.191,"I'm worried, because my anxiety has actually been better and I'm hoping this isn't a sign that my meds are failing or something.",nsubj,1
+1838,1838,0.9998550230685588,0.00014497693145411355,0.16,0.691,0.149,"The reason I said anxiety meds weren't for me is because I know once I can be relaxed in situations that make me uneasy, I won't be scared of them anymore, therefore controlling my anxiety.",nsubj,1
+1864,1864,0.9999827082737028,1.729172628175015e-05,0.341,0.659,0.0,Can otc cold meds make derealization worse?,nsubj,1
+1872,1872,0.9999691510358264,3.084896415562105e-05,0.0,1.0,0.0,"The medication never really helped at all, so these are things I experience at least weekly anyway.",nsubj,1
+1874,1874,0.9998308272056688,0.00016917279433519244,0.065,0.878,0.057,"Some background
+
+After just ""getting by"" with medications I started to do some research and found that the medications can actually cause the anxiety I was feeling.",nsubj,1
+1880,1880,0.9999043622054666,9.56377945365857e-05,0.0,1.0,0.0,and I'm getting the thyroid medication adjusted.,nsubj,1
+1883,1883,0.9996119069030284,0.0003880930969560864,0.0,0.873,0.127,"I feel like the medication isn't working, but I'm afraid to come off it.",nsubj,1
+1887,1887,0.9998488796349352,0.00015112036508197534,0.253,0.747,0.0,"Anyhow, I feel the meds are killing my marriage and I don't know what to do.",nsubj,1
+1889,1889,0.9997025081191904,0.00029749188081050005,0.068,0.932,0.0,I've been on prozac for 20 days now and haven't seen much improvement but I know it takes time for some medication to start fully working.,nsubj,1
+1907,1907,0.9999244887620462,7.55112379455146e-05,0.158,0.642,0.2,I'm not sure how much the medication is really helping.,nsubj,1
+1916,1916,0.9999513036328465,4.8696367165528276e-05,0.259,0.741,0.0,"My meds are useless, journaling doesnt help, excersize does nothing for me, I'm falling apart and I just don't know what to do.",nsubj,1
+1939,1939,0.999982234757478,1.7765242520317044e-05,0.151,0.8490000000000001,0.0,After considering everything he suggested I might have General Anxiety Disorder but said medication wouldn't be his recommendation at this time.,nsubj,1
+1943,1943,0.9972341495671856,0.002765850432802775,0.0,1.0,0.0,Or is this one of those drugs that must be taken everyday for the the medication to continue working?,nsubj,1
+1950,1950,0.9999870383376374,1.2961662366620716e-05,0.204,0.7959999999999999,0.0,When this medication after 6 or so months failed to do anything I was put on Effexor.,nsubj,1
+1957,1957,0.9997323579276508,0.0002676420723428043,0.243,0.757,0.0,"But now that I see that my depression isn't going anywhere but instead manifesting itself into other horrors, maybe medication is the right route to take.",nsubj,1
+1963,1963,0.9903117410338989,0.009688258966087871,0.064,0.8959999999999999,0.040999999999999995,"I've done a lot of research and I thought I had social anxiety, driving anxiety, I thought I was a hypochondriac, I thought I had claustrophobia, I always think if I've drank the night before that I'm having alcohol withdrawals or I'm super unhealthy, that my ADHD medication is the reason for anxiousness (even though it's never ever been a problem in my 10 years of being on it)... but because I've thought ALL of those things and I relate to each and every single one of those and I know it's unlikely it's ALL of them, I've discovered that it might just be more specific than that.",nsubj,1
+1971,1971,0.9996810309226428,0.000318969077368219,0.073,0.86,0.066,"I haven't had a full panic attack since I started taking benzos, but I still feel it and I am wondering if my medication should be changed; if I possibly have epilepsy.",nsubjpass,1
+1980,1980,0.9663601894907392,0.03363981050927321,0.337,0.621,0.043,"On top of all my worries about air travel, I'm also worried that the medication won't work and I'll be stuck in a metal tube for over 4 hours each way uncontrollably weeping and shaking.",nsubj,1
+2004,2004,0.9999309254863936,6.907451360006086e-05,0.0,0.789,0.21100000000000002,"** My doctor says I need a psychologist or counsellor to work through my issues, and that medicine only helps so much, which I agree.",nsubj,1
+2009,2009,0.9999638728937232,3.612710628859038e-05,0.0,0.861,0.139,I googled and some websites said that certain vitamins can affect how the medicine works.,nsubj,1
+2043,2043,0.9999954661900822,4.53380990164663e-06,0.0,1.0,0.0,Or is my medicine not working?,nsubj,1
+2067,2067,0.9758328504228762,0.02416714957712079,0.0,1.0,0.0,Another checkup is scheduled in 3 weeks to see if the meds have also helped with the ADD since a lot of the symptoms overlap for both conditions.,nsubjpass,1
+2072,2072,0.9999807622340512,1.9237765967880488e-05,0.0,0.863,0.13699999999999998,Is it okay if I ask you how your medication is working for you?,nsubj,1
+2091,2091,0.9999652207744972,3.477922549792174e-05,0.20199999999999999,0.7979999999999999,0.0,"-----
+
+-----
+
+###Story
+
+So far, every medication I've tried has been an utter failure.",nsubj,1
+2092,2092,0.9997729626072002,0.00022703739278159179,0.0,1.0,0.0,"These medications are:
+
+* Effexor
+* Zoloft
+* Xanax
+* Prozac
+* Lexapro
+
+I took the maximum allowed dosage for each.",nsubj,1
+2097,2097,0.9999938030253016,6.1969746877481456e-06,0.18,0.82,0.0,Is this the reason the medications have no effect on me?,nsubj,1
+2102,2102,0.9952403486382658,0.004759651361725322,0.239,0.535,0.226,I'm not depressed and I'm getting the meds thanks for anxiety and being able to eat solid food because I'm scared of choking.,nsubj,1
+2104,2104,0.9999809292876024,1.9070712413701364e-05,0.262,0.738,0.0,"Hah, worried my anxiety meds won't work, I just realized how cliche that is.",nsubj,1
+2109,2109,0.999994930997238,5.069002780281887e-06,0.0,1.0,0.0,Any ideas what this medication would be?,nsubj,1
+2113,2113,0.9997524981284596,0.00024750187155830536,0.371,0.629,0.0,"As a disclaimer, I don't want to say that medication is bad.",nsubj,1
+2117,2117,0.9986405680932235,0.0013594319067938051,0.055,0.945,0.0,"I don't want to just take a pill and be done with it, I know that meds won't cure anything, they just make things manageable.",nsubj,1
+2121,2121,0.999955551764311,4.444823567048523e-05,0.209,0.6940000000000001,0.09699999999999999,"If you have really bad anxiety, yes, sometimes medication is useful but medication doesn't change your thoughts which means you are more likely to relapse when you go off and you will have more trouble with withdrawal symptoms just because it will freak you out more.",nsubj,1
+2123,2123,0.9998799072990464,0.00012009270094905264,0.0,0.804,0.196,"Some medications are ok to take with CBT, some aren't.",nsubj,1
+2128,2128,0.9928251763666572,0.007174823633332421,0.39399999999999996,0.5710000000000001,0.034,"The medication used for the depression has a side effect when coming off of it...major depression and suicidal thought/tendencies, which has happened before and is a terrible feeling I wouldn't wish upon anyone else.",nsubj,1
+2129,2129,0.9998170379938034,0.00018296200617912405,0.36,0.5479999999999999,0.092,"My other medication, allows me to function 'normally' by calming me and keeping me from experiencing severe anxiety and/or panic attacks.",nsubj,1
+2161,2161,0.9994948332939094,0.0005051667060768177,0.264,0.736,0.0,My dad has since scheduled a psych evaluation so hopfully I can get properly medicated because the medicine i take now is always a tossup between crippling fear or crushing sadness.,nsubj,1
+2162,2162,0.9997307353245896,0.00026926467541891217,0.0,0.67,0.33,"'Normal', happy, carefree, invigorated... until the medication wears off again.. Until my next prescribed doseage.",nsubj,1
+2165,2165,0.9999214932462528,7.850675373465798e-05,0.157,0.7070000000000001,0.136,So medication is unfortunately necessary for the time being to calm my body down.,nsubj,1
+2166,2166,0.9999857593783614,1.42406216298104e-05,0.0,0.674,0.326,Any suggestions on what I should do or what medications or therapies have worked best for you I would love to hear!,nsubj,1
+2191,2191,0.9955112194298442,0.004488780570146696,0.138,0.716,0.146,"Hey reddit,
+
+I felt like sharing my experience, because I postponed taking meds for very long due to fear of side effects and because psycho meds are ""evil"" in my eyes anyway.",nsubj,1
+2193,2193,0.9999561739662296,4.382603377334383e-05,0.0,0.795,0.205,That's awesome though because in 2-3 weeks I should feel *even better* when the meds finally do their thing!,nsubj,1
+2199,2199,0.9888459468459198,0.011154053154060636,0.079,0.9209999999999999,0.0,I was sat down with a PA who told me medication isn't the solution and that I need to be in group therapy 5 days a week 8 hours a day.,nsubj,1
+2200,2200,0.998653495249766,0.0013465047502431266,0.06,0.94,0.0,"I know medication isn't the solution, I told her I wanted to use it temporarily to get my life back on track but she just repeated herself.",nsubj,1
+2221,2221,0.9999829465619658,1.705343803098906e-05,0.0,1.0,0.0,And would you think medication is necessary for someone extremely high functioning?,nsubj,1
+2225,2225,0.9994928393046644,0.0005071606953188231,0.18,0.82,0.0,Is this common for meds to suddenly stop working after a while?,nsubj,1
+2226,2226,0.9999509816591916,4.901834081983622e-05,0.0,1.0,0.0,It took me about five years to get my medications correct.,nsubj,1
+2238,2238,0.9995997949134904,0.00040020508649092547,0.135,0.865,0.0,"The medication has made things manageable day to day, but it really affected things sexually now.",nsubj,1
+2241,2241,0.9998886432229902,0.00011135677701906116,0.187,0.7509999999999999,0.062,I talked to my psych about this and said I was ravenous all the time and was gaining weight but she said anxiety meds don't cause weight gain.,nsubj,1
+2255,2255,0.9988347773541308,0.0011652226458744126,0.16699999999999998,0.833,0.0,Im afraid that I will be a hopeless boyfriend because the medication I take makes my sex preformance unpridictable.,nsubj,1
+2266,2266,0.9998973227016396,0.00010267729836352096,0.188,0.812,0.0,-The medication is just not as effective as it used to be.,nsubj,1
+2268,2268,0.9999302841647996,6.971583521029905e-05,0.272,0.728,0.0,The last medication I was on gave me lasting memory problems and I'm scared that it will interfere.,nsubj,1
+2283,2283,0.99989128355747,0.00010871644254913305,0.0,1.0,0.0,I know the medication can take longer to work but it's little consolation when you feel this way.,nsubj,1
+2305,2305,0.9996630050246668,0.00033699497531729846,0.145,0.855,0.0,"Every medication the was suggested, I tried for quite some time before, to no avail.",nsubjpass,1
+2315,2315,0.9955380710326132,0.00446192896738244,0.0,0.6829999999999999,0.317,"I'm a firm believer that the right medication **is** a solution, contrary to popular belief.",nsubj,1
+2326,2326,0.9996388775123821,0.0003611224876319886,0.105,0.833,0.062,"-I can no longer work because of its severity, and the fact that medications triple the severity of every issue I have had (and I've been trying all kinds of meds for over 10 years) 
+
+
+So, all that out there... My life is pretty miserable at times.",nsubj_pobj,1
+2336,2336,0.9925610928609736,0.007438907139013972,0.0,0.8,0.2,"I've played brain juice roulette with a total of 3 different medications and 1 supplement, and the 3rd medication is doing reasonably well.",pobj_nsubj,1
+2348,2348,0.9997868844783104,0.00021311552170810456,0.254,0.535,0.212,"Eventually the medication started doing more harm than good, though.",nsubj,1
+2383,2383,0.99996121057083,3.878942918420583e-05,0.0,1.0,0.0,"What I was wondering, however, was how affordable medication is.",nsubj,1
+2384,2384,0.9999905275296742,9.472470319267401e-06,0.0,0.517,0.483,And how did meds help you get better?,nsubj,1
+2401,2401,0.9999966450701796,3.3549298376917324e-06,0.135,0.635,0.23,Which anxiety medicine have you guys had good experiences with?,nsubj,1
+2414,2414,0.9999194864965724,8.051350341905906e-05,0.0,0.7290000000000001,0.271,At least the medication allows me to ask other people like you folks for help now.,nsubj,1
+2416,2416,0.9988914166531192,0.0011085833468606717,0.265,0.735,0.0,its one of the things my anxiety meds doesn't help with at all.,nsubj,1
+2417,2417,0.9999284515744864,7.154842552370732e-05,0.0,0.637,0.363,"Just want to say that if this medication worked for you, great!",nsubj,1
+2418,2418,0.9998952769163107,0.00010472308370434769,0.083,0.639,0.278,"The doctor and therapist both told me that this medication had minimal side effects, no weight gain, and withdrawal was easy.",nsubj,1
+2424,2424,0.9999724041116006,2.759588841241441e-05,0.10800000000000001,0.784,0.10800000000000001,I've been looking into hypnotherapy for my anxiety/agoraphobia since no medication seems to be helping nor does CBT.,nsubj,1
+2425,2425,0.9995884953295447,0.00041150467044416816,0.0,1.0,0.0,the meds i got was from a surgery on my eye.,nsubj,1
+2426,2426,0.999976723644308,2.32763556811702e-05,0.43,0.452,0.11800000000000001,Every medication I have tried that helps my chronic anxiety makes me suicidal and depressed.,nsubj,1
+2433,2433,0.9998261424870706,0.00017385751291155622,0.0,1.0,0.0,"The medication I take has been working for me, evening out my mood-- until recently.",nsubj,1
+2445,2445,0.9984505585062372,0.0015494414937821126,0.09699999999999999,0.856,0.047,I have a prescription for prozac to help the anxiety but my psychiatrist said that the medication for ADD makes people anxious so he can't start me on that until he sees how I do with the prozac long term.,nsubj,1
+2448,2448,0.9999572617588784,4.273824111422563e-05,0.0,0.597,0.40299999999999997,Did medication seem to help?,nsubj,1
+2454,2454,0.9999698175098792,3.0182490120251177e-05,0.345,0.345,0.31,Can medication help with phobias?,nsubj,1
+2467,2467,0.9999693580631476,3.064193685387996e-05,0.106,0.784,0.11,"Normally, my anxiety medication is fine for this, but now I'm moving.",nsubj,1
+2473,2473,0.9990178377820134,0.0009821622179745978,0.0,0.743,0.257,The meds help for the most part but also don't completely stop it from happening.,nsubj,1
+2478,2478,0.9999754924335142,2.4507566467327256e-05,0.18100000000000002,0.532,0.287,Is anxiety medication something that could help?,nsubj,1
+2484,2484,0.9997203848978944,0.00027961510211002783,0.11699999999999999,0.619,0.263,"I'm just nervous because meds should not be the solution, but maybe they could help ease me into a full recovery?",nsubj,1
+2486,2486,0.9999766185163732,2.3381483626609218e-05,0.21100000000000002,0.642,0.147,"I'm writing because my medication have an annoying side effect: When I first take them, I feel pretty dizzy.",nsubj,1
+2507,2507,0.9991562897584506,0.0008437102415355473,0.0,0.759,0.24100000000000002,"My medication and calming methods have been doing really well, and I haven't had a major episode in nearly a year.",nsubj,1
+2543,2543,0.9951421917206706,0.004857808279326788,0.0,0.871,0.129,3 years go by and my mother found an article in the newspaper about acid reflux medication draining naturally occurring B12 from the body and recommended I take a B12 vitamin daily.,nsubj,1
+2546,2546,0.9993643189899593,0.0006356810100265157,0.142,0.597,0.261,"I just don't want to depend on them, but I think starting medication gives me anxiety and it may be for the best to calm my nerves.",nsubj,1
+2547,2547,0.9999794487599696,2.055124001557406e-05,0.135,0.6679999999999999,0.19699999999999998,I have some meds prescribed but they don't work as well as I would like.,nsubj,1
+2573,2573,0.99954484993447,0.00045515006552868944,0.031,0.9690000000000001,0.0,"But I'm wondering if anyone here has any ways to cope that worked during their pregnancy since obviously medication is a no-go right now (I'm prescribed Xanax as needed, but I haven't taken any since September, and don't want to take anything while pregnant).",nsubj,1
+2575,2575,0.9998364283268778,0.00016357167312822172,0.0,0.585,0.415,"While I know medication helps a bit, I am more curious about what helps when medicine can't.",nsubj_nsubj,1
+2576,2576,0.9999446973781664,5.5302621836541176e-05,0.0,0.7140000000000001,0.28600000000000003,"I still don't know if medication is the right route for me but honestly I don't know what else to do, I have to do something to start feeling better.",nsubj,1
+2581,2581,0.9999228599152564,7.714008475456389e-05,0.0,1.0,0.0,What medications are available and what are the side effects?,nsubj,1
+2584,2584,0.9956501380035744,0.004349861996438086,0.095,0.7759999999999999,0.129,"I starting seeing a psychologist in April of this year (no meds, refuse them) and the improvement i've been seeing was tremendous.",nsubj,1
+2595,2595,0.9997751368697928,0.00022486313022379502,0.068,0.894,0.038,Sometimes i want to go to my DR and ask for medication so i can live normal but then i have anxiety that the medication will change me and i wont feel anything.,nsubj,1
+2608,2608,0.999861738349496,0.00013826165050159338,0.185,0.627,0.188,"While medication helps to keep me from freaking out over small things, it gives me no incentive to do big things.",nsubj,1
+2618,2618,0.999941242665203,5.8757334784602696e-05,0.0,0.769,0.231,"The meds did help me, I have to give him that.",nsubj,1
+2625,2625,0.9997295994229132,0.000270400577068627,0.165,0.7,0.135,Not too long ago I was convinced that medication is the only way to elevate the pain.,nsubj,1
+2629,2629,0.9997948239107216,0.00020517608928902688,0.062,0.764,0.174,"Medication is great to temporarily gain firm enough footing so as to build awareness, however if nothing is changed behaviorally or psychologically, ie if awareness is not being cultivated, the medication is merely masking the problem.",nsubj,1
+2630,2630,0.9999856053329541,1.4394667059043097e-05,0.18899999999999997,0.8109999999999999,0.0,"Also, my meds and my stress have made my sex drive non existant.",nsubj,1
+2632,2632,0.9997704781468424,0.00022952185317252089,0.0,0.7979999999999999,0.20199999999999999,"I have a psychiatrist right now, but the medicine I'm taking only does so much for me and I think it would do me good to have someone to talk to, like a therapist.",nsubj,1
+2640,2640,0.9997964386019108,0.0002035613981080743,0.0,1.0,0.0,Prescription medication sometimes gets dropped to sustain the meal budget.,nsubjpass,1
+2642,2642,0.9992901609668112,0.0007098390331739773,0.06,0.94,0.0,She sleeps most of the time because she can't handle reality or the way the meds make her feel and it's been hard.,nsubj,1
+2653,2653,0.9997518122801824,0.00024818771980974737,0.0,1.0,0.0,"The medication was working, I was rarely taking the valium.",nsubj,1
+2662,2662,0.9999794935761436,2.0506423867856656e-05,0.0,1.0,0.0,The medication I am on is Pristiq.,nsubj,1
+2673,2673,0.999955892212974,4.410778703755489e-05,0.0,1.0,0.0,Maybe meds aren't always enough.,nsubj,1
+2690,2690,0.9999945228412394,5.4771587687165486e-06,0.0,0.633,0.36700000000000005,What makes this medicine work better?,nsubj,1
+2693,2693,0.9999217587837388,7.824121626939523e-05,0.0,1.0,0.0,And there are some for whom meds may be counter-indicated due to extenuating medical issues.,nsubj,1
+2695,2695,0.9995437644119564,0.00045623558804684796,0.16399999999999998,0.836,0.0,"But at the same time, I don't want to just yet because if I do have a heart problem, the medicine can trigger an episode.",nsubj,1
+2700,2700,0.9999436865164321,5.631348358194366e-05,0.0,0.69,0.31,Will the meds help this over time?,nsubj,1
+2714,2714,0.9663936851210287,0.03360631487897893,0.065,0.748,0.187,"These meds are making my life worth living so I don't want to give them up, but I'd love some advice on how to deal with the issue of being... y'know... a little backed up.",nsubj,1
+2733,2733,0.9997900847184162,0.00020991528157416567,0.23600000000000002,0.625,0.139,"I already feel super nauseous all the time, but the medications make it worse.",nsubj,1
+2747,2747,0.9998286110304924,0.0001713889695136701,0.0,1.0,0.0,I have another appointment with my doctor in 3 weeks to see how my medication is going and will be organising seeing a counsellor then.,nsubj,1
+2776,2776,0.9976391520718048,0.0023608479282078024,0.0,0.76,0.24,Any willing to share their experience ... so I can have a better understanding of how meds might affect my weight?,nsubj,1
+2780,2780,0.9976569421742588,0.0023430578257292887,0.0,1.0,0.0,"I was not aware that I had never actually orgasmed wanking ever before, and I was suddenly more aware of what the medication has done to me.",nsubj,1
+2781,2781,0.99983431449118,0.000165685508819076,0.113,0.747,0.14,"The medication is not known for helping with sexual issues, though it is certainly responsible for my delayed ejaculations (given premature ejaculations are what they are also prescribed for)....",nsubjpass,1
+2782,2782,0.99985268373076,0.00014731626924943092,0.09699999999999999,0.628,0.275,"The medication has not fixed me, but it has allowed me to understand myself better and certainly has helped to highlight and eradicate problems I didn't know I had.",nsubj,1
+2784,2784,0.9915950505491941,0.008404949450790624,0.04,0.833,0.127,"It was nothing like the terrifying experience that I had built it up to be, and I will be happy to return in the next week or two to discuss how my medication works (or if it does), and whether I need to be given a higher dosage, or try anti-depressants.",nsubj,1
+2791,2791,0.9998021710029532,0.00019782899703787288,0.0,0.889,0.111,"While the medicine  seems like it is working, and with very little if any side effects, I am CONSTANTLY wanting to eat.",nsubj,1
+2793,2793,0.9997935046055276,0.0002064953944766317,0.131,0.8270000000000001,0.042,"He said there's nothing to do with anxiety except increase the effexor (now 225 mg), I'm maxed out on Topamax (200mg), he doesn't want to add anything else, anxiety medication is too addictive so he won't treat it and he suggests I find other ways to cope (as though I haven't tried).",nsubj,1
+2804,2804,0.9991099688145728,0.0008900311854354123,0.0,0.8,0.2,After 3 years of being on Lexapro I came off the meds feeling ready to be my old self again.,nsubj,1
+2822,2822,0.999677994175458,0.0003220058245456738,0.205,0.795,0.0,I know that you tend to feel worse before the meds finally kick in.,nsubj,1
+2845,2845,0.9999960639666529,3.9360333300574785e-06,0.152,0.562,0.287,I was wondering if anybody else has problems like this and if medication helps?,nsubj,1
+2858,2858,0.9996947513887908,0.00030524861121441186,0.149,0.7709999999999999,0.08,"I don't even know what I would say to a psychologist, I guess I just need some feedback on if medication has truly changed peoples lives for the better... People that cope with anxiety, depression, etc.",nsubj,1
+2861,2861,0.9940434194119564,0.005956580588024918,0.355,0.6,0.045,"Both medications do a little bit to help, but the anxiety, which I was able to cope with or ignore before, gets worse and worse as my classes get harder.",nsubj,1
+2863,2863,0.989952930467986,0.010047069532025159,0.15,0.72,0.131,I have gained a lot of weight in the past year trying to cope with my anxiety and I don't want this medication to get in the way of my ability to lose that weight.,nsubj,1
+2867,2867,0.9998719987467518,0.00012800125325773633,0.083,0.73,0.187,"I'm aware meds aren't going to be some miracle cure, but it feels like I've got as far as I can get with sheer effort alone.",nsubj,1
+2885,2885,0.9996974751623278,0.00030252483765553167,0.203,0.797,0.0,"Needless to say it's all psychosematic bullshit medicine, right up there with the people in CA doing ""light therapy"" or whatever the newest unproven bullshit new age medicine is.....
+
+Long story short, I'm out on Short Term Disability for losing it at work.",nsubj,1
+2891,2891,0.9999581651433648,4.183485664237679e-05,0.0,1.0,0.0,I have an appointment on the 1st to see how the medication is working out but I just don't know.,nsubj,1
+2895,2895,0.999992327494732,7.672505274388732e-06,0.0,0.846,0.154,"Hey guys, I was wondering if you had any advice about what medications have worked for you or friends.",nsubj,1
+2904,2904,0.9999647133204465,3.528667953654893e-05,0.157,0.603,0.24,My current medication helps some with depression but does nothing for anxiety.,nsubj,1
+2911,2911,0.9999774474262452,2.255257376170644e-05,0.0,1.0,0.0,Then I hear about how commonly prescribed my medications are.,nsubj,1
+2914,2914,0.9993770806644352,0.0006229193355499228,0.354,0.35100000000000003,0.294,"Although the medication was helping a lot (no more panic attacks, yay!",nsubj,1
+2917,2917,0.9976679755493528,0.002332024450636218,0.0,0.596,0.40399999999999997,"When i started, the medication felt like it was having a positive effect.",nsubj,1
+2920,2920,0.9999871740990994,1.2825900893095699e-05,0.337,0.6629999999999999,0.0,I also have health anxiety and emetophobia so this has me worried that I'm sick with something... but I know some anxiety meds can cause fatigue?,nsubj,1
+2926,2926,0.9922424564027548,0.007757543597255944,0.179,0.821,0.0,Is it normal for the meds to not work good for a week?,nsubj,1
+2945,2945,0.999310751945038,0.0006892480549532674,0.32799999999999996,0.39299999999999996,0.27899999999999997,"Tl;dr- 7 years of anxiety, meds suck, doctors suck, Fresh air and exercise are awesome,",nsubj,1
+2952,2952,0.9999967280495644,3.2719504242251176e-06,0.0,0.873,0.127,This medicine is new to me so I just wanted to see if anyone out there had any good information to contribute.,nsubj,1
+2955,2955,0.9990901383936346,0.0009098616063759439,0.129,0.773,0.09699999999999999,"The counseling was helpful but the feeling usually didn't last (catharsis has always felt temporary), but the medication helped so after several months, I stopped seeing the counselor and just stuck to the meds.",nsubj_pobj,1
+2964,2964,0.9995383636287124,0.00046163637127578905,0.134,0.866,0.0,"I got things sorted, as far as I know, but I'm basically useless right now, and I don't know what to do until the meds kick in again.",nsubj,1
+2994,2994,0.9998215650651996,0.0001784349347979402,0.0,0.8759999999999999,0.124,"I've been to the doctor and they prescribed me with Buspar, but I have yet to take it because I feel like meds aren't the answer.",nsubj,1
+3000,3000,0.9372155854783872,0.06278441452162674,0.0,1.0,0.0,"Now I was a psych major in college and have a *basic* understanding of how different meds work and the side effects, etc.",nsubj,1
+3021,3021,0.9999664587961312,3.354120388688169e-05,0.0,0.526,0.474,The medication did help.,nsubj,1
+3024,3024,0.9991929131320334,0.0008070868679486313,0.04,0.8059999999999999,0.154,"I really haven't felt too much anxiety with the job either, my meds seem to keep everything in check and after the first week I knew what I was doing and can keep perfectly calm on the phones with people.",nsubj,1
+3026,3026,0.9955508610179558,0.004449138982024972,0.231,0.6970000000000001,0.07200000000000001,I am now so worried about taking them that I am feeling like it was a big mistake to even go to the doctor in the first place and I am worried if these medications with make my symptoms worse as I had read that Zoloft in particular can cause anxiety.,nsubj,1
+3033,3033,0.9999405589098349,5.944109017568042e-05,0.0,0.764,0.23600000000000002,I just want to know how everyone else is dealing with anxiety/ocd that mainly focus on breathing and how medication could help in improving these habits.,nsubj,1
+3057,3057,0.999977347639254,2.26523607451118e-05,0.0,1.0,0.0,Which specific meds worked for you?,nsubj,1
+3061,3061,0.9992110422838982,0.000788957716082069,0.068,0.932,0.0,The psychiatrist told me that she has never heard a symptom like this and that the medicine should have been outta my system after the first 5 hours of not taking it.,nsubj,1
+3079,3079,0.9788842500103224,0.02111574998968374,0.0,0.892,0.10800000000000001,I was finally able to stay calm for a bit and I felt the medicine working in the back right of my skull.,nsubj,1
+3084,3084,0.99723651112332,0.00276348887669316,0.10800000000000001,0.722,0.17,"The thought that the meds could make me that way scares the shit out of me and starts my negative thought cycle, but after working with a therapist I got better about that.",nsubj,1
+3089,3089,0.995605321249638,0.004394678750363182,0.06,0.8170000000000001,0.124,"Not that labels matter as long as the medication works but I'm curious.... well, it kind of does matter for me, because my insurance won't approve Saphris on the basis that I'm not bipolar, but yeah.",nsubj,1
+3096,3096,0.9998562322932464,0.00014376770676306666,0.0,0.856,0.14400000000000002,"He's convinced it's something physiological, as am I to some extent, which is where medication should come in.",nsubj,1
+3108,3108,0.9930806442484206,0.006919355751573708,0.0,1.0,0.0,He did a wide variety of tests (including stroke and other neurological tests) but the meds he gave me (propranolol 20mg) only work for a short time before the vertigo comes back.,nsubj,1
+3126,3126,0.9951968121012246,0.004803187898780878,0.11699999999999999,0.883,0.0,"TL;DR haven't had meds refilled in 2+ months.. doc lowered my dosage and insisted I make it last a month, now I'm worried she sees me as an addict and I'm not.",nsubj,1
+3131,3131,0.9996942671398544,0.00030573286015494826,0.263,0.56,0.177,I had no anxiety while dating her and for once in my life no meds and felt great.,nsubj,1
+3133,3133,0.9999831059413948,1.6894058614065734e-05,0.0,0.659,0.341,I’m most afraid my meds aren’t effective.,nsubj,1
+3142,3142,0.9999705331527116,2.946684728173125e-05,0.35600000000000004,0.644,0.0,I can't help but believe the anti-psych people who say this medicine is toxic and killing me.,nsubj,1
+3151,3151,0.9998786119672336,0.00012138803274834898,0.09699999999999999,0.853,0.05,"Really really you just weren't trying hard enough before, you were just trying to be difficult and that's what made the medication not work.""",nsubj,1
+3157,3157,0.999979091597712,2.090840229876432e-05,0.0,1.0,0.0,my medicine is also working wonders.,nsubj,1
+3169,3169,0.9999465677311846,5.34322688068993e-05,0.109,0.8170000000000001,0.07400000000000001,Do meds help you reconnect with the authentic you that's just covered with anxiety or do they simply cover the physical symptoms and make you feel less uncomfortable without changing your thought process?,nsubj,1
+3170,3170,0.9980182042254128,0.001981795774601868,0.155,0.69,0.155,"Do meds help with any of the negative personality traits i've accumulated over the years due to constant anxiety, and can they help connect with the real you?",nsubj,1
+3191,3191,0.9999800950581988,1.9904941815580553e-05,0.0,1.0,0.0,"TL;DR: I may have gotten off my meds too quickly, should I consider getting back on and weening off more slowly.",nsubj,1
+3192,3192,0.999966672594258,3.3327405744666186e-05,0.0,1.0,0.0,"I went to see my doctor yesterday to have my meds adjusted, etc.",nsubj,1
+3197,3197,0.9998660447986838,0.00013395520131761528,0.127,0.519,0.354,"So, I'm REALLY REALLY hoping that medication will help with my inability to concentrate.",nsubj,1
+3210,3210,0.9999600007355552,3.999926442434544e-05,0.456,0.544,0.0,This medication evens out my moods but it makes me depressed when before I was angry and my anxiety is worse than ever.,nsubj,1
+3221,3221,0.9997811855570009,0.00021881444299797157,0.0,0.597,0.40299999999999997,The medicine does help a bit.,nsubj,1
+3223,3223,0.9980573028561732,0.0019426971438387664,0.0,1.0,0.0,"The meds helped me quite a bit during the summer, but now...they just aren't enough.",nsubj,1
+3226,3226,0.9999684200940504,3.157990595427326e-05,0.28800000000000003,0.7120000000000001,0.0,"All I know is I finally stopped shaking, I am at work, my meds finally kicked in and now I am no longer so tensed up I can't move.",nsubj,1
+3238,3238,0.9996416665971568,0.00035833340285618137,0.0,1.0,0.0,"Now the only medication I started using for it was cannabis, that was around 16.. Wasn't until late 16/early 17 that I really started smoking regularly (on and off).",nsubj,1
+3242,3242,0.99995610449887,4.389550114177465e-05,0.159,0.703,0.138,"I've tried the anxiety exercises, cognitive behavioural therapy, but only anxiety medicine (clonazepam) calms me enough to function.",nsubj,1
+3251,3251,0.9998520619979412,0.00014793800205564718,0.239,0.7609999999999999,0.0,"No medication (on hand), I can't be taking these incomplete shifts every time this happens, the call outs need to stop, and no one understands.",nsubj,1
+3254,3254,0.9968602937028884,0.0031397062971305944,0.094,0.9059999999999999,0.0,"I was thinking of going to a doctor for  medication but I heard that anxiety/depression medication is highly addictive, and basically once you go that route there's no getting off it.",nsubj,1
+3260,3260,0.9866534946980572,0.013346505301935287,0.147,0.5920000000000001,0.261,"On one hand the medication is making everyday life easier and has brought down my anxiety levels a significant amount, on the other hand I don't feel like the person I was and emotionally numb.",nsubj,1
+3263,3263,0.992556032299912,0.007443967700103961,0.068,0.725,0.207,"But I really struggle with social events, like going to parties, bars, concerts and I wouldn't dream of going anywhere like a club with everyone I know.. Was wondering if people have tried medication to help with dealing with social interaction and going to places with a lot of people and how these medicines helped or didn't help.",dobj_nsubj,1
+3276,3276,0.9992052567227252,0.0007947432772600149,0.069,0.9309999999999999,0.0,I've yet to become medicated for my social anxiety for various reasons and I'm wondering how the medication makes you feel in social situations.,nsubj,1
+3278,3278,0.9999884494552844,1.1550544698990546e-05,0.0,0.871,0.129,I know this story is long... but to anyone who took the time to hear me out... thanks... and if you can answer the question... will medicine really help?,nsubj,1
+3279,3279,0.9999656694454157,3.433055458983441e-05,0.253,0.634,0.113,I'm really depressed thinking that the meds won't do anything and I'll be stuck like this forever.,nsubj,1
+3284,3284,0.9999904860008576,9.513999125234937e-06,0.0,1.0,0.0,What meds have worked for you guys?,nsubj,1
+3306,3306,0.9920923282166182,0.00790767178336912,0.183,0.63,0.187,"I suffer from alot of energy issues, as I can go from feeling like I had a sugar high to like I just ran a marathon and need to sleep within an hour..my fear is that anxiety meds will heighten this more..",nsubj,1
+3311,3311,0.9991906557731304,0.0008093442268641501,0.0,1.0,0.0,"Obviously every medication affects people differently, so I guess my title is more of a rhetorical question.",nsubj,1
+3314,3314,0.9887104700757456,0.011289529924248686,0.0,0.934,0.066,"I'm going to talk to my doctor about either increasing my dosage, or possibly about whether the medication has done all it can and it's time for CBT, but I like to have a little bit of an idea what I'm talking about before I go in for the appointment.",nsubj,1
+3316,3316,0.9997467707590948,0.00025322924091924565,0.059000000000000004,0.8190000000000001,0.121,I used to get very shaky and physically dishevled but my meds are keeping me together physically but I feel like I'm melting on the inside.,nsubj,1
+3328,3328,0.9936951792147448,0.006304820785241422,0.064,0.813,0.12300000000000001,"My background: recently started seeing a counselor (doesn't specialize in anxiety issues), no meds yet, diagnosed anxiety since I was very young, mostly homebound (leave for PT job, but don't go elsewhere unless it's with my SO), trying to realize feeling this way is OK for now and that I won't always feel like this... it took me an hour to write/send this...",nsubj,1
+3333,3333,0.998891658541056,0.0011083414589554005,0.0,1.0,0.0,"By the time she got there, I was starting to feel my meds take effect and I probably looked a little loopy.",nsubj,1
+3334,3334,0.9979970329525328,0.0020029670474781347,0.0,0.882,0.11800000000000001,"That is, unless my body feels a drunkish-lethargy, I will convince myself that the medication is merely a placebo.",nsubj,1
+3337,3337,0.9977439459356184,0.002256054064379364,0.23600000000000002,0.764,0.0,My anxiety medication helped for a while but the anxiety is creeping back in.,nsubj,1
+3338,3338,0.9998049948611659,0.0001950051388233941,0.31,0.69,0.0,Anxiety medication isn't helping as much as it used to.,nsubj,1
+3347,3347,0.9998604991137371,0.00013950088626456096,0.14,0.86,0.0,"I know meds aren't the answer to everything, but I'm just really anxious all the time and it's semi crippling.",nsubj,1
+3348,3348,0.9993143993315432,0.0006856006684680898,0.11699999999999999,0.773,0.11,"I didn't like the way medication made me feel, and I've been generally alright off of it.",nsubj,1
+3356,3356,0.9999622714203801,3.7728579610456895e-05,0.0,0.797,0.203,Here's hoping this medication works out so I can take the next step.,nsubj,1
+3363,3363,0.9999845950487246,1.540495128988785e-05,0.0,1.0,0.0,My current medications have really helped me.,nsubj,1
+3376,3376,0.9995928940640729,0.00040710593592337797,0.0,1.0,0.0,"I made [this post](https://www.reddit.com/r/Anxiety/comments/2yl0vn/going_to_be_out_of_meds_soon_sense_of_impending/) yesterday, about me possibly having to be off medication for a while.",nsubj_pobj,1
+3383,3383,0.9999577891878476,4.2210812147801e-05,0.375,0.625,0.0,The medication has also given me bowel problems and sleep problems.,nsubj,1
+3388,3388,0.9999775205309952,2.247946899361813e-05,0.0,1.0,0.0,I am 27F if medications affect age and gender differently.,nsubj,1
+3395,3395,0.9999240185898229,7.598141016301155e-05,0.19699999999999998,0.8029999999999999,0.0,The anti-psychotic medication has helped in some ways to conquer my problem.,nsubj,1
+3396,3396,0.9999608846229284,3.9115377069900674e-05,0.256,0.7440000000000001,0.0,So basically all the medication has done is taken away the stress because I don't have wet dreams anymore and have absolutely no need for sex.,nsubjpass,1
+3419,3419,0.9999002346980398,9.976530197102828e-05,0.0,0.847,0.153,"I'm afraid because while I feel meds would probably help me, I'm afraid to go on them.",nsubj,1
+3424,3424,0.999993232346576,6.767653409834144e-06,0.0,0.87,0.13,Given that these didn't happen before I'm pretty sure this is the meds leaving my system but just wondered if you guys had been through anything similar?,nsubj,1
+3438,3438,0.9950556271119856,0.004944372888025268,0.0,0.664,0.336,If meds would help at all it could change my life in a very positive way.,nsubj,1
+3449,3449,0.999973254576447,2.674542354153453e-05,0.08900000000000001,0.721,0.191,No medications- I've had nothing but miserable experiences with almost every anti-anxiety med I've tried.,nsubj,1
+3451,3451,0.999936310551975,6.368944802275447e-05,0.23199999999999998,0.6779999999999999,0.09,"Tl;Dr My girlfriend is an emotional zombie, and I think her anxiety meds are to blame.",nsubj,1
+3456,3456,0.992560341444048,0.007439658555938991,0.16699999999999998,0.833,0.0,"Even though the medication helped me get through my panic attacks a little, it was not enough for me to keep up with the material to graduate on time despite being only 3 classes short.",nsubj,1
+3467,3467,0.9999809681485171,1.9031851498022334e-05,0.153,0.847,0.0,I don't take any medication for it because my parents constantly give me shit about how much my current medicine (epilepsy) costs.,dobj_nsubj,1
+3470,3470,0.9823916015908876,0.0176083984091136,0.336,0.664,0.0,I do believe that medication has helped me over the last 15 years but it doesn't prevent those every once in a while bad days or bad few hours of anxiety.,nsubj,1
+3486,3486,0.9999875142987622,1.2485701250563455e-05,0.145,0.855,0.0,So psyche meds are really just an absolute no for me at this point.,nsubj,1
+3488,3488,0.9997910539776864,0.00020894602231694617,0.11599999999999999,0.884,0.0,"Which meds, at low doses,  have worked for you guys with the least amount of side affects?",nsubj,1
+3504,3504,0.9993524105984892,0.0006475894014902263,0.0,0.879,0.121,"If the medication is causing insomnia, is it safe to assume that I could take it in the morning rather than at night?",nsubj,1
+3505,3505,0.9911455163455284,0.008854483654454508,0.139,0.787,0.073,"And as a related question, I know I'm not far enough in for the medication to really make an impact yet, but does anyone have any similar experience where it seems like anxiety in the morning is worse than usual?",nsubj,1
+3526,3526,0.9892678114641396,0.010732188535872423,0.09300000000000001,0.705,0.20199999999999999,Every once in a while I doubt that medication will work on me and hope everyday it won't make me worse in any way.,nsubj,1
+3533,3533,0.9992559882174432,0.0007440117825508639,0.0,0.455,0.545,The meds help to a certain extent.,nsubj,1
+3543,3543,0.999879062229699,0.00012093777030280659,0.252,0.665,0.083,"I have been having bad anxiety lately and I really don't like the way medicine makes me feel, I'd much rather use kava or a natural alternative.",nsubj,1
+3572,3572,0.999485931458962,0.0005140685410281034,0.0,0.828,0.172,"eventually I told my SO (because I was concerned I might say mean things to him, or even hit him) and he reassured me that I hadn't said anything upsetting yet and he was ok with being patient until the meds settled down.",nsubj,1
+3584,3584,0.9997211473679576,0.00027885263204838336,0.08199999999999999,0.9179999999999999,0.0,"He said to me today ""I don't think medication is ever the answer with anxiety, the answer is in yourself"".",nsubj,1
+3586,3586,0.9999410081630692,5.899183692618332e-05,0.0,0.633,0.36700000000000005,I hope the medicine doesn't change me.,nsubj,1
+3603,3603,0.9999905007306092,9.499269384778404e-06,0.0,0.8,0.2,The medicine started with an S. Soloman or something like that?...,nsubj,1
+3613,3613,0.9999520179333836,4.7982066621345785e-05,0.0,1.0,0.0,I think medicine should be a last resort.,nsubj,1
+3616,3616,0.9997773368310724,0.00022266316893535562,0.0,0.856,0.14400000000000002,"How much does your medication help, and does it hinder your social life (mixing alcohol and meds)?",nsubj_conj,1
+3626,3626,0.9999081538345506,9.18461654305839e-05,0.172,0.828,0.0,Also I'm getting really worried about the hair-loss side effects these meds have.,nsubj,1
+3628,3628,0.9999831122290348,1.6887770958258042e-05,0.179,0.821,0.0,Three weeks ago I decided my anxiety is too much to handle on my own so I went to psychiatrist who diagnosed me with recurrent depression/ anxiety disorder and immediately prescripted me meds.,nsubj,1
+3630,3630,0.9998555263060672,0.00014447369395218648,0.13,0.87,0.0,"Or is it just a problem in my head, maybe caused by how meds were demonized by people around me?",nsubjpass,1
+3636,3636,0.9995280463632052,0.0004719536368125707,0.0,0.96,0.04,"My psychologist (only made it to one appointment this year) can't prescribe and the last time I saw her, she did tell me medicine might be beneficial, but was in a hurry because our session was running late and didn't refer me for the med doctor at the counseling center.",nsubj,1
+3639,3639,0.9988090689262792,0.0011909310737201848,0.0,0.805,0.195,"New meds, went to bed at 11ish, sleeping in a place I know is safe.",nsubj,1
+3641,3641,0.9990274523020012,0.0009725476979927091,0.086,0.914,0.0,"Also, there's no other real treatment for my hearing issues, but anti-anxiety meds are a common things for us.",nsubj,1
+3671,3671,0.999703493331963,0.00029650666805348486,0.07400000000000001,0.816,0.11,He told me that therapy wouldn't work well for me and it would only help after I got on meds/for the long run.,nsubj,1
+3675,3675,0.998291380822528,0.0017086191774742599,0.0,0.7390000000000001,0.261,"I'm now 19, the medicine works well for me and I've changed my doses a few times but it's been steady for the past few years and I've been perfectly fine.",nsubj,1
+3684,3684,0.999792149321049,0.00020785067893178076,0.0,1.0,0.0,"The only medication I would consider would be for ADHD, because everything else tends to cloud my brain, and I have enough of that as it is.",nsubj,1
+3690,3690,0.999001179605744,0.0009988203942434438,0.174,0.596,0.23,"I have avoided medication up until now, but now I am at the point where my fears about medication no longer outweigh my desire to try it in the hopes that it will help me function.",nsubj,1
+3700,3700,0.9997387087409444,0.00026129125906764844,0.46,0.54,0.0,"These meds have worked WONDERS for my daily symptoms, but I still frequently have panic attacks that I simply can't come down with, or I have bad days where I have several severe panic attacks throughout the entire day.",nsubj,1
+3707,3707,0.9995614263400202,0.00043857365997156594,0.081,0.853,0.067,I told my manager I was having anxiety and I was really dizzy and almost fainted and he let me sit in the office til my meds kicked in and my other manager volunteered to take care of my food running that I was supposed to be doing.,nsubj,1
+3722,3722,0.9999323261663648,6.76738336359114e-05,0.53,0.47,0.0,"Therapy didn't, help medication didn't help.",nsubj,1
+3726,3726,0.9999710406721644,2.895932784266855e-05,0.0,1.0,0.0,What SSRI/medicine helped you the most?,nsubj,1
+3738,3738,0.9999769682854898,2.303171451963584e-05,0.149,0.628,0.223,"I know my meds needed to be changed anyways, but it could have been handled way better without me having to suffer like this.",nsubj,1
+3739,3739,0.9995378794818768,0.0004621205181142968,0.07,0.93,0.0,"The only medication I have here is lorazepam and I can't think well enough after taking it to do any work, something I realized at a really inopportune time.",nsubj,1
+3740,3740,0.9999925460860699,7.453913924897992e-06,0.0,0.9059999999999999,0.094,I know medication and therapy should be long term solutions but what about short term?,nsubj,1
+3744,3744,0.9997469013666892,0.0002530986333012822,0.10300000000000001,0.778,0.11900000000000001,"My medication doesn't seem to help, and I'm almost afraid to get put on something stronger, or change meds.",nsubj_dobj,1
+3751,3751,0.9998807328517004,0.00011926714830728472,0.23399999999999999,0.636,0.13,"Growing up when I would have a panic attack I was always told things like ""if you don't calm down we'll have to get medicine for you"", so medication for me is always difficult because I've come to view it as a bad thing, or along the lines of admitting ""I'm weak, because I need medicine to help me"" for a better explanation I guess??",dobj_nsubj,1
+3752,3752,0.9999301180235016,6.988197647830714e-05,0.14,0.821,0.039,"Either way, my medicine (Buspirone) so far helps, but I always have anxiety over taking the thing that is supposed to REDUCE my anxiety so I end up either taking forever to swallow it, or dont take it at all, which doesn't help me in any way.",nsubj,1
+3753,3753,0.999968866594933,3.113340505217122e-05,0.0,0.7809999999999999,0.21899999999999997,"Does anyone have any tips on what I can do to help out with this, or would getting a daily medication be a better option?",nsubj,1
+3778,3778,0.9999369606581096,6.303934189355943e-05,0.0,1.0,0.0,"My medication helped at first but now, not so much.",nsubj,1
+3786,3786,0.9982683067403852,0.0017316932596007787,0.10099999999999999,0.899,0.0,"I've been to my GP several times, where they put me on different kinds of medication and I had at least four blood tests in the past year, but nothing came back and the medication only made things worse.",nsubj,1
+3792,3792,0.9998515249938408,0.00014847500617075232,0.13,0.87,0.0,"However the pollen count is low, and asthma medication does not alleviate the symptoms whatsoever.",nsubj,1
+3794,3794,0.9999834718792358,1.652812076408033e-05,0.196,0.7120000000000001,0.092,"I live alone and I'm afraid that this medicine could end up doing more harm than anything else, and I won't be able to get help.",nsubj,1
+3798,3798,0.9999840313786048,1.5968621379453334e-05,0.0,1.0,0.0,what does medication actually do?,nsubj,1
+3812,3812,0.9995162171559612,0.0004837828440439517,0.25,0.75,0.0,"I don't want this medication to make everything worse, and I'm really afraid of that happening.",nsubj,1
+3814,3814,0.9999824600931788,1.753990683331957e-05,0.0,0.5720000000000001,0.428,Would medication even really help?,nsubj,1
+3823,3823,0.9999189007661872,8.109923383286921e-05,0.24100000000000002,0.595,0.16399999999999998,im having all thee irrational thoughts like I'll have an allergic reaction to it or I'll fall asleep and die because the medicine is too strong.,nsubj,1
+3831,3831,0.9999696449218622,3.0355078143035577e-05,0.0,0.748,0.252,I did *not* think that medication would help so much.,nsubj,1
+3842,3842,0.9999699111556016,3.0088844404172358e-05,0.0,1.0,0.0,"However, if medicine is an only option I'd rather over the counter.",nsubj,1
+3868,3868,0.9999383246970944,6.167530290870499e-05,0.213,0.787,0.0,Specific meds may be different here but I'm not sure.,nsubj,1
+3871,3871,0.9997870312667152,0.00021296873328844435,0.261,0.7390000000000001,0.0,I'm scared that anxiety medications would end the hobby that has greatly enriched my life.,nsubj,1
+3873,3873,0.9999444379894091,5.5562010578266074e-05,0.273,0.727,0.0,The meds don't seem to help this.,nsubj,1
+3877,3877,0.999932733035053,6.726696494776281e-05,0.32799999999999996,0.672,0.0,That is so frustrating the fact that the medication makes me feel worse than i was before.,nsubj,1
+3883,3883,0.9952868761519544,0.004713123848031484,0.086,0.914,0.0,"Each time I recieve a new medication, I have fairly severe side-effects almost immediately and after a phone call, he will tell me to stop taking said medication but will not try anything else until I come back into his office 2 months later.",nsubj,1
+3887,3887,0.9999929526749708,7.047325043035243e-06,0.141,0.705,0.154,Has anybody regretted starting medication because they realized their medication wasnt that bad after all?,nsubj,1
+3888,3888,0.9999043092640166,9.569073599642556e-05,0.0,0.769,0.231,"I thought the medicine would help me focus, and it did.",nsubj,1
+3904,3904,0.9999680475927016,3.195240728341902e-05,0.096,0.904,0.0,I know you aren't supposed to use Xanax regularly and I know different medication is required for general anxiety.,nsubjpass,1
+3922,3922,0.9999934819955546,6.518004427950901e-06,0.203,0.6509999999999999,0.146,"**
+
+To be honest, and I know this is going to sound really stupid, I just want someone to talk to, and maybe some medication that'll make the dread go away and calm me down when I'm in panic mode.",nsubj,1
+3926,3926,0.9999958867942482,4.1132057653699055e-06,0.0,1.0,0.0,They have this stigma that any medication is 'bad' and you should not be on it.,nsubj,1
+3936,3936,0.99975005321364,0.0002499467863749433,0.107,0.821,0.07200000000000001,"Could i go on without meds (uh, no, not if i can help it), could i start making enough money online to leave my boyfriend (sure, after meds kicked in again, but then his ways won't upset me), am i hurting my kids by being distant (yes, but not as much as if i were not protecting them).",nsubj,1
+3940,3940,0.9998184497325456,0.0001815502674457125,0.0,0.494,0.506,And the meds are great.,nsubj,1
+3962,3962,0.9997301303441609,0.000269869655841698,0.0,0.7809999999999999,0.21899999999999997,I'm scheduled for a doctor's appointment next week where I hope I can get some anti-anxiety meds prescribed to help me get this under control.,nsubj,1
+3964,3964,0.9997972058315959,0.0002027941683872505,0.0,0.856,0.14400000000000002,How can I illustrate that these medications could help me without coming off as a benzo fiend or whatever?,nsubj,1
+3965,3965,0.9999586880850808,4.131191493096133e-05,0.0,1.0,0.0,What if the meds dont work?,nsubj,1
+3986,3986,0.9996426333164072,0.0003573666835863313,0.09,0.794,0.11599999999999999,"Once the meds are changed and my moods are stable, she's going to re-evaluate the anxiety component.",nsubjpass,1
+3990,3990,0.9997302925536616,0.00026970744634604747,0.0,1.0,0.0,But the meds might not of been the only thing that helped me.,nsubj,1
+4002,4002,0.995677663264108,0.00432233673590299,0.086,0.867,0.047,"I thought I might be able to adjust to these, but the medication has also increased my anxiety to an unbearable level-- so much so that it has made my birth control pill stop working (I have bleeding and cramps where I should never have bleeding; it is a 365 day pill and I take it perfectly).",nsubj,1
+4028,4028,0.9999838708488572,1.6129151128029546e-05,0.0,0.853,0.147,My question is: If you have taken meds are they worth it?,nsubj,1
+4033,4033,0.9999316031414608,6.839685854881124e-05,0.223,0.6609999999999999,0.11699999999999999,"I'm heavily ANTI benzos, and really want this medication to work.",nsubj,1
+4036,4036,0.9825096005077008,0.017490399492297713,0.08800000000000001,0.812,0.1,"Personally, I think medication is a wonderful tool in the process of self-healing, but you know... logic is not always equal to anxiety.",nsubj,1
+4048,4048,0.9984193805574124,0.0015806194426005186,0.025,0.9059999999999999,0.069,"So all my tests said I was ok, and it's still anxiety...well I thought I could do it with no medication but I have come to terms with the fact that some people just have it so extreme that medication is just something I may have to take for the rest of my life, and at this point, if it works, I am ok with taking it.",nsubj,1
+4049,4049,0.9999952151204112,4.784879582301249e-06,0.18600000000000003,0.654,0.16,I can't stand having this problem and I am wondering if therapy/ medicine can help.,nsubj,1
+4064,4064,0.9999697713804752,3.0228619514155934e-05,0.231,0.722,0.047,"I guess it would be nice to know if anyone else here gets actual pain from their anxiety, I'm so confused, medication doesn't help because I don't think there's anything wrong with me but it feels real!",nsubj,1
+4075,4075,0.999068061443708,0.0009319385562750946,0.133,0.867,0.0,"So unfortunately, the doctors thought the meds were working when they weren't, and they called me to justify myself in front of a jury of five doctors why I wanted to ""stop complying with the treatment.""",nsubj,1
+4079,4079,0.9999364887948364,6.351120517736457e-05,0.10800000000000001,0.892,0.0,I made the appointment because I recently relocated and needed to get my performance anxiety medicine filled.,nsubj,1
+4081,4081,0.9995187335445156,0.0004812664554754755,0.156,0.8440000000000001,0.0,"medication is out of the question, and i really struggle with the techniques ppl tell me.",nsubj,1
+4091,4091,0.9999387567247984,6.12432751846417e-05,0.0,1.0,0.0,Are meds the answer or can I beat this without it?,nsubj,1
+4096,4096,0.9628336589444509,0.0371663410555624,0.042,0.895,0.063,I've talked to my therapist about it and he is very so so about giving it to a 17 year old as he isn't sure of what would happen based on the fact that the medication is tested on adults and not teenagers or children.,nsubjpass,1
+4099,4099,0.997914224056758,0.0020857759432230485,0.08,0.853,0.067,"You were forced to sit on a couch all day, and could not move aside from walking to get your medication which was like, 5 steps away, walking to the dining hall, or walking to bed/bathroom.",nsubj,1
+4109,4109,0.9987698814823998,0.0012301185175986932,0.151,0.8490000000000001,0.0,"Unfortunately for me, one of the big sources of anxiety for me is my health, and I know that prescription medications are detrimental to your health.",nsubj,1
+4118,4118,0.9997247275687522,0.0002752724312303877,0.175,0.825,0.0,"The most recent meds in that regard did not work and I had to stop taking them because they were making me worse, which I didn't think was possible.",nsubj,1
+4129,4129,0.9998998506639438,0.00010014933606682108,0.16699999999999998,0.833,0.0,"No medication has worked and we have never found the ""right"" therapist.",nsubj,1
+4154,4154,0.9995729573648388,0.00042704263517450813,0.16699999999999998,0.6729999999999999,0.16,"I don't want to blame anyone, but in a way, I feel wronged, like someone should have led me toward therapy first and meds should have waited.",nsubj,1
+4157,4157,0.9996175886687898,0.00038241133122003895,0.0,1.0,0.0,The medication has helped a little.,nsubj,1
+4160,4160,0.9996133498413238,0.000386650158658381,0.0,0.927,0.073,I visited the ER and they informed me that it's highly unlikely the medication had anything to do with that feeling.,nsubj,1
+4162,4162,0.9963772557150667,0.003622744284929711,0.0,1.0,0.0,"I can tell the medication has helped, especially as of recently.",nsubj,1
+4164,4164,0.9999517566226194,4.824337737190901e-05,0.149,0.851,0.0,He said that meloxicam (the medication I thought was causing the trouble) can aggravate asthma (I have excercise and heat/cold induced asthma).,nsubj,1
+4172,4172,0.9999412231059552,5.877689406290493e-05,0.355,0.645,0.0,"No medications, never diagnosed, etc.",nsubjpass,1
+4174,4174,0.9999743030145066,2.5696985493208092e-05,0.405,0.595,0.0,My meds make my stomach hurt.,nsubj,1
+4178,4178,0.9999392100598092,6.0789940205452756e-05,0.0,1.0,0.0,"I don't think meds are an option since I'm still nursing and we're trying for another baby (I would take Xanax before I was pregnant, but haven't had them since).",nsubj,1
+4193,4193,0.9999679736824496,3.202631756406317e-05,0.0,1.0,0.0,Since then the medicine hasn't done much for me..,nsubj,1
+4196,4196,0.999947674531772,5.232546824872354e-05,0.0,0.879,0.121,"How can I tell whether its the medication helping me, or if I have actually developed the coping skills?",nsubj,1
+4198,4198,0.9992152798912959,0.0007847201086983619,0.0,1.0,0.0,I can't take medication because I'm afraid meds will affect my body in a harmful way.,dobj_nsubj,1
+4204,4204,0.999928993651626,7.100634836277655e-05,0.0,1.0,0.0,Which medication has the fewest side-effects?,nsubj,1
+4206,4206,0.9687455298608526,0.0312544701391551,0.156,0.7809999999999999,0.063,"I haven't dealt with it in a long time, as meds have definitely gotten rid of it, but here it is creeping back again - quite badly today.",nsubj,1
+4211,4211,0.9995582813702286,0.0004417186297833114,0.11800000000000001,0.6940000000000001,0.188,I got given a script for medication to try help with my anxiety today.,nsubj,1
+4215,4215,0.9794026501552742,0.020597349844709296,0.08199999999999999,0.7929999999999999,0.125,"My medication seemed to really help with anxiety, in just taking the edge off of everything and making life more manageable.",nsubj,1
+4217,4217,0.9995501993916012,0.00044980060837995246,0.0,0.909,0.091,About 6 years ago I had an episode where my ability to breath was greatly reduced and the standard allergy meds weren't doing it for me.,nsubj,1
+4224,4224,0.9995789549114592,0.0004210450885537218,0.0,0.9,0.1,"I started going to see my university counselor, and after a few sessions she set me up with an appointment to see a psychiatrist and said medication may be beneficial.",nsubj,1
+4235,4235,0.9986625204499914,0.0013374795500232695,0.0,1.0,0.0,"the meds have helped a little, but not all that much.",nsubj,1
+4236,4236,0.9996896219567084,0.00031037804328018666,0.0,0.8490000000000001,0.151,"I'm not as freaked out, i guess, and going to school is a little easier, but i know meds take time and stuff.",nsubj,1
+4239,4239,0.9999471628388464,5.283716113780592e-05,0.0,1.0,0.0,"Anyway, currently, my daily medications are 300mg Effexor XR (yes 300mg), Wellbutrin 300mg, 2-6mg Xanax as needed, and 30-60mg Adderall as needed.",nsubj,1
+4241,4241,0.9997435780286276,0.0002564219713533273,0.25,0.636,0.114,"My doctor told me that while there's no treatment for DPD alone, anxiety medications could help with the symptoms.",nsubj,1
+4243,4243,0.996256851167343,0.0037431488326527037,0.063,0.893,0.045,"She prescribed me with a medication that I was only to take on an as-needed basis... On the ""bad days"" 
+
+So, we're just about caught up to now, the medication has helped the episodes some, and I feel as though the meds in combination with self-help techniques are really helping me work through some issues.",nsubj_nsubj,1
+4257,4257,0.999989942867034,1.0057132946877713e-05,0.0,0.69,0.31,I'm wondering if medication would help any?,nsubj,1
+4264,4264,0.9999707139867664,2.9286013250854553e-05,0.258,0.53,0.212,This explains why no medication ever made the anxiety completely better.,nsubj,1
+4268,4268,0.9850704400991044,0.014929559900893888,0.155,0.81,0.035,"I hadn't noticed any significant changes in my anxiety, and though it hasn't been a long enough period to make a definite decision about if the meds work for me, it has been long enough that there should've been some progress... in fact, I was experiencing heightened anxiety before falling asleep that made it more difficult to fall/stay asleep.",nsubj,1
+4276,4276,0.9999678085390664,3.2191460931352945e-05,0.174,0.826,0.0,"I've tried taking anti-depressants and anti-anxiety medication, but the anti-depressants never seemed to work, and the anti-anxiety meds (xanax and klonopin) led me to abuse the medicine, so I stopped taking prescription medicine altogether--the only time I take medicine now is if it's an antibiotic or something.",conj_nsubj_dobj,1
+4284,4284,0.9999059403192521,9.40596807496698e-05,0.0,1.0,0.0,"bottom line, these meds take time to work.",nsubj,1
+4290,4290,0.9999533817076988,4.661829230155249e-05,0.132,0.685,0.183,I have been feeling really uncomfortable around people and my medication for SPD seems like it isn't working anymore.,nsubj,1
+4305,4305,0.9996544644841142,0.00034553551588180587,0.0,1.0,0.0,"The meds seem to be working, but there are some side effects that are fairly minor, but I am concerned none the less.",nsubj,1
+4323,4323,0.9999455180161766,5.448198383232924e-05,0.0,1.0,0.0,**edit**  We have an appointment for 10am tomorrow morning to get his medication changed.,nsubj,1
+4338,4338,0.9999117894845864,8.821051540137529e-05,0.21100000000000002,0.687,0.10099999999999999,"), triggered at night thinking of tomorrow, thinking of lost friends, no meds, US
+
+What I've done so far:
+Googled anxiety, came out with webmd.com.",nsubjpass,1
+4340,4340,0.9999551031363858,4.489686360635518e-05,0.102,0.512,0.386,I feel like I would stop trying to get better once the meds make me feel better.,nsubj,1
+4343,4343,0.9998823430474963,0.0001176569524975363,0.0,0.8390000000000001,0.161,I'm curious to hear how this medication helped others with their physical symptoms.,nsubj,1
+4357,4357,0.9998110454007544,0.00018895459926032856,0.18899999999999997,0.8109999999999999,0.0,I'm nervous the meds will make me feel this way.,nsubj,1
+4386,4386,0.9996605896340548,0.0003394103659463533,0.091,0.768,0.141,"I can't afford a therapist (not even with a sliding scale payment) and medication doesn't help me, so I'm pretty much on my own.",nsubj,1
+4389,4389,0.9995480909848762,0.00045190901512684093,0.024,0.8490000000000001,0.127,"Any advice on how to deal with these side effects would be realllly appreciated or how to deal with headaches in general without taking advil cause I Dont want the medications to interfere 
+
+PM me if you prefer it please and sorry for this text that most probably doesn't make sense.",nsubj,1
+4390,4390,0.999878656606058,0.00012134339395728196,0.045,0.955,0.0,"I also don't want to be get diagnose and prescribed meds and have frequent appointments, because my parents are guaranteed to find out since I'm on their insurance.",nsubj,1
+4404,4404,0.9996265062223016,0.0003734937776806602,0.08900000000000001,0.9109999999999999,0.0,"**About me** 
+
+27, male, agoraphobia (at least thats what they said years ago), no medication anymore, germany
+
+**What happened**
+
+Almost eight years ago when I was about to finish my apprenticeship as an IT guy, I just passed out in the garden of my (ex)girlfriend for no real reason.",nsubj,1
+4406,4406,0.9996574809008154,0.00034251909917699285,0.0,0.8909999999999999,0.109,My question to you Redditors is what medications and treatments do you use to help you function and make it through the day.,nsubj,1
+4408,4408,0.999858003581115,0.00014199641888801648,0.126,0.8740000000000001,0.0,I'm about to start taking Lexapro and i'm vaguely aware that the first month or so is when the medication can cause some nasty side effects.,nsubj,1
+4409,4409,0.999789555948268,0.00021044405172407512,0.0,0.774,0.226,I'm trying to be as prepared as possible so if I start feeling nauseated or something i'll know its most likely the meds and not something more sinister.,nsubj,1
+4419,4419,0.9999929432026778,7.0567973232207246e-06,0.16,0.84,0.0,Is this an indication that maybe her medication is too low dose?,nsubj,1
+4425,4425,0.99976082743083,0.00023917256916439103,0.061,0.8340000000000001,0.106,"I saw a psychologist, and will continue that, but it is really hard to find a psychiatrist to help get my meds sorted out - they all have waiting lists for literally months out.",nsubj,1
+4441,4441,0.9996944654916772,0.00030553450832945664,0.154,0.561,0.285,feel like a failure because i told my mom everything was fine and the medication was working fine.,nsubj,1
+4444,4444,0.999960072863622,3.992713636052156e-05,0.0,1.0,0.0,Maybe the medicine doesn't work.,nsubj,1
+4471,4471,0.9999751054191479,2.4894580863268484e-05,0.0,1.0,0.0,I don't know how to communicate that my medication might need to be changed.,nsubj,1
+4476,4476,0.9999504126198254,4.958738015905742e-05,0.0,1.0,0.0,But if I do that wouldn't it be possible that my body may develop some resistance to it and make the medicine not work ?,nsubj,1
+4478,4478,0.9999547000605664,4.5299939443560576e-05,0.225,0.664,0.111,It is very frustrating and it feels like my meds aren't helping at all when before they were.,nsubj,1
+4481,4481,0.9999471101959004,5.2889804084428525e-05,0.174,0.826,0.0,I'm less stressed already and the medicine hasn't even kicked in.,nsubj,1
+4542,4542,0.9973395915241102,0.0026604084758732327,0.126,0.8740000000000001,0.0,"The CBT I feel helped but I finished that at the end of October and I feel my anxiety may just be returning to normal again due to life stress (baby on the way, work, etc....)
+
+I guess my questions are: what medications are usually prescribed?",nsubjpass,1
+4543,4543,0.9999679955045058,3.2004495476310324e-05,0.11900000000000001,0.636,0.24600000000000002,"I've heard people say until you feel better, but if the meds make me feel better, why stop?",nsubj,1
+4553,4553,0.9999239842306332,7.601576935154079e-05,0.0,1.0,0.0,What was the first medication you were prescribed and how did it affect you?,nsubj,1
+4576,4576,0.9999479600650759,5.203993491170333e-05,0.0,1.0,0.0,These mostly happen when I am hearing or learning about what medication does to your body.,nsubj,1
+4581,4581,0.9992299678813212,0.0007700321186744539,0.0,0.7559999999999999,0.244,But I've read that ADHD medicines not working is often a good indication that ADHD is not the problem.,nsubj,1
+4594,4594,0.9999379161670244,6.20838329674264e-05,0.0,1.0,0.0,Although that might just be the meds talking.,nsubj,1
+4605,4605,0.9999354804597008,6.451954028603795e-05,0.083,0.6859999999999999,0.23,Nothing seems to be working to calm me down because it's the medication giving me my anxiety.,nsubj,1
+4614,4614,0.9995727740409016,0.0004272259591086959,0.228,0.684,0.087,She refuses to even entertain the notion that these medicines I am taking are for mental illness not just because I am depressed.,nsubj,1
+4626,4626,0.999971285374838,2.8714625156731202e-05,0.0,1.0,0.0,Finally my meds are ready..,nsubj,1
+4636,4636,0.9999805342081798,1.9465791836288566e-05,0.163,0.706,0.132,I'm wondering if this medication is supposed to work by giving depressed and anxious people delusions that everything is going to be okay when it is not.,nsubjpass,1
+4653,4653,0.9595864079256512,0.04041359207436624,0.027999999999999997,0.917,0.055,"So for general anxiety I noticed a big change and for social I noticed a slight change, I am still going to therapy and he knows I still need work with the social aspect of it but I think the meds helped me by 70-80% and that is huge to me and should be for other people too.",nsubj,1
+4655,4655,0.9999876572538507,1.2342746157411873e-05,0.369,0.547,0.083,I've never had anxiety so bad that medicine wouldn't even help the slightest.,nsubj,1
+4680,4680,0.9999739668960388,2.6033103951012023e-05,0.405,0.524,0.071,"These medications aren't like antibiotics that'll kill our anxiety, they just mask what we're feeling.",nsubj,1
+4684,4684,0.9982566326495338,0.0017433673504741668,0.161,0.754,0.085,"I am however a freelance game developer so my career is going ok.
+
+My family are very bohemian and for years warned me against western meds, I tried absolutely **every** alternative medicine you can think of, and only got worse and worse as the years went by.",pobj_nsubj,1
+4685,4685,0.9997810011330172,0.00021899886697742914,0.095,0.905,0.0,"Some alternative medicine does work/help, but when it comes to my issues, which are quite serious, it's not enough.",nsubj,1
+4686,4686,0.999890569310994,0.00010943068899065808,0.19899999999999998,0.6409999999999999,0.16,"But I still feel like *something's* wrong, something the medication is not addressing.",nsubj,1
+4690,4690,0.9993240699686377,0.0006759300313584072,0.0,1.0,0.0,"I don't remember what the medicine was called, but I didn't have to take it daily - it was a situational type thing.",nsubjpass,1
+4694,4694,0.9995923607483674,0.00040763925164779424,0.19399999999999998,0.725,0.081,"I have always been weary of anxiety meds - as I am already succesptable to tiredness, but the meds my doctor has previously given me (Vistaril) have only made me fall asleep - with no actual relieving anxiety.",nsubj,1
+4712,4712,0.9996720365363002,0.000327963463704664,0.0,0.851,0.149,I'm already a quiet/anxious guy but these meds just make me not feel bothered to socialize.,nsubj,1
+4715,4715,0.9999413336855668,5.866631444461084e-05,0.19699999999999998,0.8029999999999999,0.0,"Before I started having problems my meds were working great....now, not so much.",nsubj,1
+4756,4756,0.9959061443761374,0.004093855623881988,0.0,1.0,0.0,"Google tells me the medication ""supposedly"" works, followed by a full page of side-effects.",nsubj,1
+4766,4766,0.9999326652127,6.733478731743682e-05,0.258,0.638,0.10400000000000001,"I have IBS too and sometimes my antispasmodic medicine helps, but it isnt great.",nsubj,1
+4769,4769,0.9995827727850296,0.000417227214975653,0.0,0.922,0.078,"Even though the medication worked to some effect, i still felt the increasing urge to escape my reality and i turned to drugs.",nsubj,1
+4779,4779,0.9999690815757212,3.091842428320779e-05,0.135,0.865,0.0,"I'm assuming I have some genetic mutation or biochemical imbalance that leaves me predisposed to this illness, because medication has helped significantly.",nsubj,1
+4789,4789,0.999982650111522,1.7349888490668963e-05,0.0,1.0,0.0,Are my meds not working?,nsubj,1
+4793,4793,0.9999603611460456,3.963885394790297e-05,0.0,0.895,0.105,Im getting counseling and they suggested I try medicine considering how debilitating it is so I decided to see a psychiatrist to see if medicine would help.,nsubj,1
+4805,4805,0.9999739265903684,2.60734096182022e-05,0.092,0.544,0.364,"I feel like if the medication was actually working, I wouldn't have panic attacks no matter what the situation was.",nsubj,1
+4843,4843,0.99772872003004,0.002271279969969441,0.0,0.9209999999999999,0.079,"He said I can live with him rent free till I find a job, I'd just need money for food and personal expenses,  but meds are expensive without insurance.",nsubj,1
+4845,4845,0.9978993141252626,0.002100685874752479,0.091,0.909,0.0,"The things my therapist suggested doing to block out the racing thoughts aren't working, my new meds haven't started working yet so I'm having a drink to shut my head up.",nsubj,1
+4851,4851,0.996933101602848,0.0030668983971468477,0.17,0.743,0.08800000000000001,"I started taking meds for depression at first, and the problem went away (i could not focus on my breathing for long enough, meds luckily brought on their own form of a.d.d.).",nsubj,1
+4857,4857,0.9999708850447226,2.9114955289493407e-05,0.0,1.0,0.0,"The medication I've been perscribed is Lexapro, or escitalopram.",nsubj,1
+4865,4865,0.9826184832515648,0.01738151674844772,0.107,0.8640000000000001,0.028999999999999998,"Lately I have been having panic attacks in the mornings.I refused they were panic attacks and thought I was just getting nauseous.There were other symptoms I just linked to nauseua that I later read were linked to panic wttacks.Anyeay,im finally accelting these as panic attacks because 1) my primary care provider said it was ""above him"" when I went into an appointment and experienced an attack.I suppose it was because I paced to keep my mind off of ythe subje...And 2)I experienced it in the afternoon during a weekend.This is a sign to me the issue is getting worse.Heres the backstory:
+Im in my first year of high school,and did not experience this until near the beginning of september.I wake up and feel nauseous,like having to throw up.I get shortness of breath and feel like I cant breathe.Ive tried to take deep breaths but this turned to be counter productive because it dried out my throat.There is constantly ""flem"" in my throat,presumably due to allergies as diagnosed by my doctor but allergy meds nevef worked,I simpy cope.This made me feel like I was choking on the flem bassically.Other symptoms include my fingertipz,feet,and teeth starting to go numb and burping.I have no conclusive link as to why it happened during the weekend,but I assume it is because I was in an area that reminded me of the school.I was in a store,and mainly it was the cold temlerature.",nsubj,1
+4870,4870,0.9999776926224344,2.230737755660905e-05,0.136,0.56,0.304,The medication was amazing and my anxiety was gone.,nsubj,1
+4883,4883,0.9997930012715636,0.00020699872842094155,0.184,0.816,0.0,"I also have horrible year round allergies and now that I know to control my anxiety and triggers, I've noticed most allergy meds trigger it for me.",nsubj,1
+4886,4886,0.99990480998313,9.519001686961552e-05,0.22,0.688,0.09300000000000001,That didn’t help at all and the meds they put me on made me very moody and even more depressed than I already was.,nsubj,1
+4896,4896,0.9985966614786308,0.0014033385213778925,0.052000000000000005,0.948,0.0,"Because I believe that the meds have essentially out of my system the first two weeks, I will remain off them to see if this wave of anxiety passes, or if I can control it.",nsubj,1
+4902,4902,0.9999889537167084,1.1046283291206703e-05,0.17800000000000002,0.8220000000000001,0.0,I don't know if my meds are not working anymore or if I'm just going NUTS.,nsubj,1
+4905,4905,0.9985420688880118,0.0014579311120050975,0.0,0.9059999999999999,0.094,"A tiny bit of info, i am currently off work as directed by my dr for 16 weeks (currently in the middle) to figure out what medications can help.",nsubj,1
+4936,4936,0.9999838191272048,1.6180872785181107e-05,0.0,0.494,0.506,The medicine is great otherwise.,nsubj,1
+4937,4937,0.9999118893648684,8.81106351438815e-05,0.0,1.0,0.0,"Someone already suggested L-Theanine, and I'm just wondering what other meds exist and what your experience has been.",nsubj,1
+4954,4954,0.9998078054412608,0.00019219455872368868,0.215,0.5539999999999999,0.23199999999999998,"The medicine was helping a lot, but I now I'm feeling crazy again.",nsubj,1
+4961,4961,0.9971936636288041,0.0028063363712097283,0.213,0.684,0.10300000000000001,"No meds for anxiety, as my shrink has believed for the past 6 years that treating my bipolar will also treat my anxiety.",nsubj,1
+4963,4963,0.9999785731666738,2.1426833331323764e-05,0.0,1.0,0.0,It turned out that my medication (paxil 20mg) wasn't working anymore.,nsubj,1
+4965,4965,0.9999550535945572,4.494640546068445e-05,0.2,0.8,0.0,I can't tell if the medication isn't working or if it's just all this stress.,nsubj,1
+4972,4972,0.9999126319556382,8.736804436001881e-05,0.0,0.905,0.095,"After having several breakdowns last semester, I finally accepted that these medications were not working for me (if they ever really were).",nsubj,1
+4975,4975,0.999940701267706,5.9298732300928664e-05,0.358,0.535,0.107,The bigger problem is that I'm not sure my medication is helping the actual problem.,nsubj,1
+4980,4980,0.9996477824930514,0.0003522175069371714,0.0,0.7809999999999999,0.21899999999999997,"Many say medication may not work for everyone, and it's true.",nsubj,1

@@ -1,0 +1,730 @@
+,Unnamed: 0,neg_prob,pos_prob,neg_vader,neu_vader,pos_vader,sentence,dict,identifier
+0,0,0.9993578434150746,0.0006421565849434352,0.22699999999999998,0.7240000000000001,0.049,I have a feeling that this will only get worse from now on since she's also looking up all sorts of alternative medicine bullshit for OCD now...,['compound'],0
+9,9,0.999170802003095,0.0008291979969083492,0.251,0.7490000000000001,0.0,I scheduled a GP appointment last week and he diagnosed me with anxiety and panic disorder and referred me to a psych for further evaluation and medication and a therapist.,['conj'],0
+10,10,0.9996599191318702,0.00034008086814398854,0.0,1.0,0.0,I can't afford a consular right now or medication.,['conj'],0
+21,21,0.999499384865806,0.0005006151342118719,0.0,1.0,0.0,Though recently I heard that some people on anti-depressant medication experience a similar symptom.,['compound'],0
+27,27,0.9999715644434776,2.843555650430106e-05,0.0,1.0,0.0,"Hey guys,
+
+I just got prescribed new meds Lexapro and lorazepam.",['compound'],0
+38,38,0.9997842137624094,0.0002157862375943604,0.29600000000000004,0.6459999999999999,0.057999999999999996,The ER doctor gave me muscle relaxants and some pain meds and referred me to a neurologist because they suspect I have some nerve damage.,['conj'],0
+47,47,0.9999816397331962,1.836026680321117e-05,0.0,1.0,0.0,Topical medications?,['ROOT'],0
+48,48,0.9999816397331962,1.836026680321117e-05,0.0,1.0,0.0,Oral meds?,['ROOT'],0
+52,52,0.9999969099079292,3.0900920671462085e-06,0.23399999999999999,0.677,0.08900000000000001,I just feel like I am too scared and crippled to do anything now and I'm not sure if I should give anxiety medicine another try.,['dative'],0
+61,61,0.999986167273184,1.3832726821929788e-05,0.0,1.0,0.0,She was an alternative-medicine type therapist and helped me talk some things out and give me some coping strategies.,['compound'],0
+62,62,0.999912739487101,8.726051288769172e-05,0.29100000000000004,0.5820000000000001,0.127,im excited to see how the meds are gonna kick ass over my anxiety!,['nsubjpass'],0
+77,77,0.9944481169008192,0.005551883099161669,0.12,0.7170000000000001,0.163,"I always feel the need to make them feel better, its as though my brain just picks up all the uneasiness of others, makes them feel better and in return i end up stuck with all these shit feelings...
+
+i dont know what to do and am honestly considering therapy or some medications that will just calm me down.",['conj'],0
+78,78,0.9983784420173092,0.0016215579826954374,0.0,1.0,0.0,"Things were really looking up for a while, since the medication was prescribed.",['nsubjpass'],0
+79,79,0.999873012442366,0.00012698755762133432,0.0,0.884,0.11599999999999999,"But does anyone maybe have any tips for dealing with things like I've described, short of therapy or more/different medication?",['conj'],0
+80,80,0.999916658140461,8.334185953752666e-05,0.0,0.885,0.115,Anyways I cannot think of any solutions aside from breaking up with her which is the last thing I want to do and want to ask for any ideas on how to cope with this (no meds please).,['appos'],0
+81,81,0.9999564224508132,4.357754918326602e-05,0.121,0.879,0.0,"Other general info if needed: Age: 16 (Junior in High School), No meds or any drug use.",['conj'],0
+83,83,0.999891855595662,0.00010814440434398786,0.0,0.7,0.3,I recently had to take some melatonin to improve my sleep quality as well as other medication to calm myself down.,['conj'],0
+94,94,0.9999106246459796,8.937535401939163e-05,0.268,0.635,0.09699999999999999,I am just exhausted emotionally and wanted to hear some POV of fellow anxious redditors who may have good / bad experiences with medication therapy.,['compound'],0
+106,106,0.9996984647399529,0.0003015352600414415,0.071,0.843,0.086,And I also have anxieties about psychoactive substances like my medication having control over my mind and making me unable to exercise free will over my thoughts and emotions and instead making me into someone that is unhappy but still functional in society.,['npadvmod'],0
+110,110,0.9999844111349612,1.558886502032838e-05,0.10800000000000001,0.892,0.0,I've been off any &amp; all anxiety meds &amp; antidepressants for going on 4 years now.,['ccomp'],0
+116,116,0.999491299191504,0.0005087008084882226,0.0,0.785,0.215,"Meditation and talk therapy are also part of my regiment, but this is one medicine change I've been very happy with.",['compound'],0
+117,117,0.9997158293014036,0.00028417069861472384,0.384,0.616,0.0,Then I had a massive panic attack so I took 1mg Lorazepam (my first time taking any anxiety meds).,['conj'],0
+137,137,0.9999626768428844,3.732315710677738e-05,0.13,0.713,0.157,"I think I'm going to mention this to my doctor and see what she says about it, because if there are other medications I could try that dull the anxiety but don't necessarily dull the happiness as much then I'd like to try them.",['attr'],0
+144,144,0.9977966080071696,0.0022033919928105693,0.146,0.774,0.08,"Are there any meds that help with nausea, bloating and loss of appetite because Im losing lots of weight ever since my life has begun to get more social.",['attr'],0
+162,162,0.9998111453542904,0.0001888546457259136,0.043,0.894,0.064,"Also, I obviously need a job to have money to pay for treatment and medication but until I get that, are there any medications I can get without a prescription for anxiety?","['conj', 'attr']",0
+174,174,0.9989516258625264,0.0010483741374851564,0.129,0.6559999999999999,0.215,"So, here I am, not talking to anyone but my family and one single best friend, being angry and confused since I can’t find a way to be more talkative and not shy again (even though I am on Atarax, the medicine one doctor prescribed me to use against the anxiety, it doesn’t seem to help much so far).",['nmod'],0
+175,175,0.9990228472617809,0.000977152738214636,0.166,0.618,0.21600000000000003,"We've tried counselling and medication, but we gradually lost hope in finding a 'cure'.",['conj'],0
+186,186,0.9999814378796418,1.8562120370437507e-05,0.159,0.841,0.0,Could it just be morning anxiety or possiblly medication related?,['npadvmod'],0
+195,195,0.9999721361131524,2.7863886860868164e-05,0.0,0.69,0.31,And did medication help (beta-blockers in partciular)?,['compound'],0
+202,202,0.9982012039954742,0.001798796004535746,0.203,0.7440000000000001,0.053,"Before you mention it I've tried the medication route with horrendous results, Zoloft made me have extreme Akathasia, so much so I was almost committed, one of the worst experiences of my life.",['compound'],0
+225,225,0.9999024831527524,9.751684722921043e-05,0.09300000000000001,0.768,0.138,My counselor suggested it because I want to try to get over my anxiety without and serious medication.,['conj'],0
+228,228,0.9999656405362672,3.435946372006577e-05,0.0,0.726,0.27399999999999997,"Recently, my symptoms have greatly improved with therapy and meds.",['conj'],0
+233,233,0.9995770440935804,0.000422955906401562,0.09699999999999999,0.6859999999999999,0.217,Is there a medication (for daily use) that has been successful for you with anxiety?,['attr'],0
+237,237,0.9925853260802012,0.007414673919794602,0.07200000000000001,0.8170000000000001,0.111,"After a year of doc visits and multiple medications,  I'm turning to the collective wisdom of reddit, if for no other reason than to find some common ground.",['conj'],0
+240,240,0.9999749101592984,2.5089840709117763e-05,0.19399999999999998,0.8059999999999999,0.0,"The first 3 medications I gave up after 1-6 weeks, depending on how shitty they made me feel.",['ROOT'],0
+260,260,0.9995054124719313,0.0004945875280745631,0.0,0.929,0.071,"I've been on a number or medications such as citalopram, fluoxetine and pregabalin but nothing has worked.",['conj'],0
+261,261,0.9997597656732412,0.00024023432675763959,0.161,0.8390000000000001,0.0,"I have an appointment with a psychologist next week, but I know she can't help me with medication management.",['compound'],0
+272,272,0.999962194360418,3.780563956240463e-05,0.0,1.0,0.0,I cannot afford therapy or medication.,['conj'],0
+274,274,0.9999887263026304,1.1273697369717725e-05,0.0,1.0,0.0,"You would probably tell me something about ""*It'll be fine*"" or ""*You have all your life before you*"" or even ""*There is medication for this*"".",['attr'],0
+293,293,0.9980983230066608,0.001901676993339788,0.0,1.0,0.0,"The patient must go through a series of Cognitive therapy practices and medication must be supplemented to overcome these harmful thoughts.""",['conj'],0
+313,313,0.9999060497242752,9.395027572904624e-05,0.447,0.483,0.07,I have nausea meds incase I do feel nauseous but I'm tired of constantly feeling sick and worried.,['compound'],0
+317,317,0.998734993368294,0.0012650066317120518,0.0,1.0,0.0,"Due to a mix up at the clinic pharmacy, my medication wasn't filled and now i'm out.",['nsubjpass'],0
+336,336,0.9999576964854134,4.230351458882414e-05,0.122,0.718,0.16,"and im no good with keeping up with meds long term, so SSRIs are out.",['amod'],0
+344,344,0.999954706232352,4.529376764180548e-05,0.0,1.0,0.0,I know that meds effect everyone differently.,['ccomp'],0
+359,359,0.9986396845089596,0.0013603154910446745,0.2,0.8,0.0,I had a bad experience with benzodiazepines and it's put me off of the whole medication thing.,['compound'],0
+361,361,0.9998236802896808,0.00017631971029976579,0.0,0.785,0.215,"Girlfriend is leaving me because she can't ""be there for me"" through this positive process of change and growth I'm going through due to therapy and medication.",['conj'],0
+367,367,0.9998478834407662,0.00015211655922776478,0.145,0.855,0.0,"i've seen doctors, all who refused to refer me to mental health specialists and reccomended me antidepressants/anti anxiety meds which i am vehemently opposed to taking.",['conj'],0
+370,370,0.9999896457353704,1.0354264616839275e-05,0.38,0.17300000000000001,0.44799999999999995,No medication please!,['ROOT'],0
+382,382,0.9999856759132936,1.4324086724707196e-05,0.0,1.0,0.0,"So guys, I was wondering what medicines are prescribed and how dependent you are on them?",['nsubjpass'],0
+384,384,0.999458052010642,0.0005419479893573364,0.0,1.0,0.0,"I've been on and off anti-depressants and/or anti-anxiety meds for the past six years, each to varying effects: Paxil, Lexapro, Zoloft, Wellbutrin, Klonopin, Effexor, Remeron, Trazadone, Abilify.",['conj'],0
+408,408,0.9999817224636663,1.8277536316489803e-05,0.0,1.0,0.0,I have health insurance that covers what I would need to see someone about therapy or medication.,['conj'],0
+414,414,0.9998109988369958,0.0001890011629888124,0.10400000000000001,0.8959999999999999,0.0,"I know this did not happen on its own, I did years of therapy, studying, and medications (I am no longer on.)",['conj'],0
+436,436,0.998742510013794,0.0012574899862015645,0.18100000000000002,0.73,0.08900000000000001,"I feel like i have the right tools through therapy and medication to stop the anxiety/panic but it just steam rolls over me.I try to read, go for a walk, talk to someone but it feels like if a panic attack wants to get me, its going to get me.",['conj'],0
+439,439,0.7445757642269344,0.25542423577305623,0.18899999999999997,0.659,0.152,"I took an oxycodone to help ease it and am waiting for it to kick in fully, but I know it may not help the headache itself since different pain medication types work on different kinds of pain.",['compound'],0
+440,440,0.9992054127918693,0.0007945872081164072,0.0,0.794,0.20600000000000002,"Therapy and medication are not to be overlooked, despite the unfair stigma that may surround them.",['conj'],0
+457,457,0.9996977714360994,0.00030222856390084424,0.115,0.885,0.0,"When I first developed this anxiety I went to this doctor S. Doctor S prescribed me Ativan and a sleeping medication and sent me on my way, but he made me feel a little uncomfortable and I wanted to try someone new.",['conj'],0
+461,461,0.9987014915901572,0.0012985084098591554,0.0,0.816,0.184,"This, by the way, is with the help of anti-depressants and anti-anxiety medication.",['conj'],0
+478,478,0.9997974572364604,0.00020254276353270432,0.203,0.639,0.158,I feel the best thing for me is medication because I've been living my whole life with depression and social anxiety.,['attr'],0
+490,490,0.9998191279767086,0.0001808720232906228,0.0,0.899,0.10099999999999999,"Found out in my first visit that three meds I am currently on (two psychotropics,  and one to treat my migraines) all leach away Vit B's.",['npadvmod'],0
+499,499,0.998926509733827,0.0010734902661567775,0.0,0.9390000000000001,0.061,"I am calling my mothers social worker tomorrow to organise daily care for her, a social worker for my dad is supposed to call me tomorrow morning
+and i will also call his own doctor to see if there is some type of monitoring that can be done, or medication to settle him.",['conj'],0
+500,500,0.9999493428661456,5.065713386787e-05,0.213,0.787,0.0,"My tools, my medication, my stubborn attitude aren't enough this time.",['conj'],0
+501,501,0.9944572889719122,0.005542711028085994,0.07200000000000001,0.804,0.124,"He then suggested that I can try Ciprolex, which he said about 40% of his patients suffer from decreased libido, but is also a good medication and much cheaper.",['attr'],0
+504,504,0.999989214672936,1.0785327062434863e-05,0.0,0.797,0.203,Would pursuing drugs or medications be helpful or am I just being wishful?,['conj'],0
+505,505,0.9977070968456634,0.002292903154345982,0.09699999999999999,0.903,0.0,I also don't have a lot of money to try to pay for therapy or medication.,['conj'],0
+515,515,0.9999594661553995,4.0533844596845566e-05,0.292,0.708,0.0,"Is it me, my failing relationship or my meds?",['conj'],0
+525,525,0.9999974522489324,2.547751071313373e-06,0.23399999999999999,0.68,0.086,"I never thought my anxiety would get this bad, and xanex is an addictive medicine.",['attr'],0
+538,538,0.9999605103240752,3.948967594428699e-05,0.19699999999999998,0.8029999999999999,0.0,"I'm not sure what - therapy, counseling, medications, whatever ...",['conj'],0
+564,564,0.9999961379926128,3.862007382266784e-06,0.239,0.7609999999999999,0.0,Are there medications that I should flat out avoid?,['attr'],0
+572,572,0.9998020925879564,0.00019790741205282086,0.11,0.6709999999999999,0.218,"Basically I'm schizophrenic, and while my psychiatrist and care worker will give me help and meds for the psychosis, they don't seem to care about the anxiety attacks that I experience daily, and everywhere.",['conj'],0
+574,574,0.9999289217304346,7.107826956344615e-05,0.0,0.9159999999999999,0.084,"I try to do all the stuff I'm supposed to do to calm myself and change my thinking (therapy, changing self talk, mindfulness, meditation, medication, exercise, etc.).",['conj'],0
+580,580,0.9998814684183142,0.00011853158168247815,0.0,1.0,0.0,I have meds but meds are meds (in other words I still feel this anxiety) &amp; I don't have enough ativans to keep popping them over the next 10 days or so.,['attr'],0
+612,612,0.9993600699816912,0.0006399300183057892,0.7070000000000001,0.293,0.0,"Here I am, no anxiety, no panic attacks, no medication, just a normal dude.",['conj'],0
+616,616,0.9999895258800828,1.047411991272532e-05,0.0,1.0,0.0,Should I seek out medical attention and maybe medication?,['conj'],0
+619,619,0.9992683377929096,0.0007316622070822739,0.091,0.8690000000000001,0.04,"I wasn't able to fight through it over the past few weeks to have my records sent from old doc to new one, and now I'm worried that the new doc won't trust me when I tell her what meds to put me on (because I already know what works and what doesn't).",['ccomp'],0
+637,637,0.9996411312102744,0.00035886878971808176,0.09699999999999999,0.903,0.0,"As of yesterday, back on therapy, and meds (I hate that I'm on them, but we dicussed that they are for short term.)",['npadvmod'],0
+639,639,0.999939450249006,6.054975099764789e-05,0.0,1.0,0.0,A glass of water and medicine.,['conj'],0
+652,652,0.9970121258064664,0.002987874193525084,0.091,0.871,0.038,"But recently I've discovered that my dad has anxiety too, and even was prescribed medication (my mom made it seem like it wasn't a huge deal) but after a while quit taking it because he ""didn't want to be propped up on it his whole life"".",['dep'],0
+656,656,0.9997099630520796,0.0002900369479080793,0.0,0.5770000000000001,0.423,Reassurance that its okay to give meds a try?,['dative'],0
+661,661,0.9999436373173856,5.636268261440599e-05,0.14,0.86,0.0,"I had started taking medication weeks before this and it has completely made my thinking worse, and how I feel about things.",['compound'],0
+662,662,0.999886831189958,0.00011316881004532678,0.092,0.826,0.083,"I panicked every single day and ended up texting her to remind her this isn't me, and it's the medicine that she even wanted me to take to help myself.",['attr'],0
+665,665,0.9995338180680736,0.0004661819319383424,0.151,0.8490000000000001,0.0,"He doesn't realise it but he's very naturally against mental illness or medicine/tablets such as anti-depressants, it's just kinda of sub-conscious.",['conj'],0
+674,674,0.9999252345021468,7.476549783730284e-05,0.086,0.914,0.0,This has been going on consistently through therapy and various anxiety medications for essentially as long as I can remember.,['conj'],0
+679,679,0.9995114460370852,0.0004885539629101496,0.0,0.902,0.098,"So, long story short, I want to get off of SSRIs and all medication.",['conj'],0
+687,687,0.9999314774979372,6.852250204729114e-05,0.124,0.585,0.29100000000000004,If needed though I will incorporate actual anxiety meds but im currently optimistic that Passionflower and CBT will help me overcome anxiety.,['conj'],0
+694,694,0.9919464976082684,0.008053502391725994,0.069,0.745,0.18600000000000003,"I've also been curious about trying shrooms, but don't know if my anxiety (or new medication) would get in the way of having a good experience.",['conj'],0
+696,696,0.9973935091205473,0.0026064908794707466,0.161,0.8390000000000001,0.0,"Anyway, I know the medication isn't fully in my system yet, I just worry about my anxiety being at an all time high since I've started taking it.",['nsubjpass'],0
+697,697,0.9999338434774696,6.615652254180333e-05,0.102,0.898,0.0,TL;DR when do signs and symptoms of anxiety start to fade with combined therapy and medication?,['conj'],0
+700,700,0.999837311680902,0.00016268831910133522,0.0,1.0,0.0,I was being prescribed a benzodiazepine by a doctor at this clinic but this medication has been blacklisted from being prescribed.,['nsubjpass'],0
+702,702,0.9997640952629372,0.0002359047370735522,0.0,1.0,0.0,"I know that psychiatrists charge per visit and I'm not looking for psychiatric counseling, so I'm wondering how often a psychiatrist expects someone to come in if they're just doing medication management.",['compound'],0
+704,704,0.999948435230262,5.156476971902564e-05,0.0,0.9470000000000001,0.053,"(if you want the link just ask) Is there some medication I can take that makes it just go away, and I keep my sex drive?",['attr'],0
+713,713,0.9999513790060492,4.862099394092498e-05,0.085,0.7440000000000001,0.171,My partner wants me off the meds badly but I don't know if I shouldgo back on something to get some relief.,['npadvmod'],0
+718,718,0.9992787243296529,0.0007212756703503242,0.073,0.7070000000000001,0.22,"I've noticed that the best combination is when I remember to take my meds AND I have about 2 cups of coffee, but the second best is no meds with 2 cups of coffee.",['attr'],0
+728,728,0.999981600466986,1.839953302534171e-05,0.0,1.0,0.0,Or any other medication?,['ROOT'],0
+733,733,0.9998956319753785,0.00010436802463214001,0.0,0.856,0.14400000000000002,"I was assisting in surgeries, euthanasia, office work, janitor work, grooming, animal care, medication dispensing, and going to multiple unpaid meetings.",['compound'],0
+743,743,0.9999788712194508,2.112878056919829e-05,0.18100000000000002,0.745,0.075,"My friends all said that it wasn't healthy to mess with my medication and constantly be going on and off, but none of them had any problems (or so I had thought), medication, therapists, so I would get in arguments and have breakdowns.",['conj'],0
+751,751,0.9994951211194016,0.0005048788806062851,0.193,0.807,0.0,"So I went over to the meds sheet and read it, and I read it wrong.",['compound'],0
+766,766,0.9997984789043176,0.00020152109569653278,0.0,1.0,0.0,"I have an appointment with a psychiatrist for next week, but I don't think any non-medicine things will make a difference.",['compound'],0
+771,771,0.999993294314248,6.705685760027247e-06,0.0,0.92,0.08,I'm going back to my doctor soon and want to ask her about some medicine combinations.,['compound'],0
+772,772,0.9999171504457446,8.284955425890954e-05,0.0,1.0,0.0,Once I go back to work I won't be able to return to the doctor every month to adjust my dosage or the medication I'm on.,['conj'],0
+773,773,0.9999123730192864,8.762698072185783e-05,0.272,0.728,0.0,TL; DR- The medications I've been prescribed thus far have been limited in effectiveness but have crappy side effects.,['nsubjpass'],0
+777,777,0.9998456989467628,0.00015430105323167295,0.08900000000000001,0.9109999999999999,0.0,I know 5-HTP isn't a 'real' medication like SSRIs but it's my last line before I approach a doctor for them.,['attr'],0
+790,790,0.9999689411248496,3.105887515511585e-05,0.0,1.0,0.0,I only left to do groceries and pick up prescriptions and medications.,['conj'],0
+794,794,0.9996348383629836,0.0003651616370046208,0.0,0.736,0.264,"Not just medication, but in anything that offers you some kind of peace.",['ROOT'],0
+801,801,0.9998095093295952,0.00019049067039619749,0.0,0.909,0.091,"Nothing feels okay, I've been seeking different forms of treatment for years and nothing has paid off, not even medicine.",['conj'],0
+808,808,0.9980680891363509,0.0019319108636403647,0.0,1.0,0.0,"**The owner knows I'm a hypochondriac,** so I usually just ask her about these things (I've had a lot of dog related hypochondria scares), and she'll tell me what the dog has done, what vaccines it has, meds it has taken, and so on - but what if she hasn't followed the tapeworm medicine regimen?","['dep', 'compound']",0
+811,811,0.9994917678258004,0.0005082321742146508,0.096,0.904,0.0,"I was in therapy (cognitive behavioral, no meds) for around a year but haven't been seeing anyone recently.",['appos'],0
+830,830,0.9909878228035464,0.009012177196447308,0.127,0.718,0.155,"It just goes to show that sometimes hard work, a good support system, a therapist, and medication (looking at you Xanax &amp; Wellbutrin) can get you through even the darkest of days.",['conj'],0
+831,831,0.9999428579060412,5.7142093962072683e-05,0.0,0.5670000000000001,0.433,"So far we've gone over medication discussion, healthy eating, relaxation.",['compound'],0
+837,837,0.99916161914834,0.000838380851661875,0.32799999999999996,0.672,0.0,"Benzodiazepines as Treatment for Generalized Anxiety Disorder
+
+Benzodiazepine medications are commonly prescribed in Northport as part of treatment for generalized anxiety disorder.",['nsubjpass'],0
+851,851,0.9999698705414376,3.012945855832817e-05,0.0,1.0,0.0,"Is there any medication that works in the long term that you take, that you think I should ask my doctor about?",['attr'],0
+863,863,0.9998696490091462,0.0001303509908415559,0.147,0.853,0.0,I'm off meds now and stopped seeing the therapist I saw for 4 years.,['npadvmod'],0
+864,864,0.9997018545578359,0.0002981454421522973,0.0,1.0,0.0,I began a D supplement and thyroid meds.,['conj'],0
+876,876,0.9999723251205056,2.7674879493631084e-05,0.0,1.0,0.0,Came off meds.,['npadvmod'],0
+888,888,0.9997789419649412,0.00022105803506447183,0.423,0.5770000000000001,0.0,"And no meds, no way of getting them.",['ROOT'],0
+894,894,0.999976989973664,2.301002633959785e-05,0.306,0.6940000000000001,0.0,"Male, 20 y/o, no psychiatric diagnoses/medications.",['appos'],0
+895,895,0.999922421309,7.757869099145415e-05,0.0,1.0,0.0,"She told them she takes klonopin and paxil, which are, if you don't know, anti-anxiety and anti-depressant meds.",['appos'],0
+903,903,0.9923014949479304,0.007698505052078689,0.064,0.9359999999999999,0.0,"With therapy and medication, I've come to realize that those kinds of thoughts were caused by the anxiety, and were not an actual reflection of reality.",['conj'],0
+914,914,0.9999268180425354,7.318195747307347e-05,0.209,0.7909999999999999,0.0,"Meanwhile, Mum's sister has been diagnosed with depression and has been on therapy and medications.",['conj'],0
+919,919,0.9996703110057552,0.0003296889942367819,0.14,0.86,0.0,I don't feel like I need therapy or meds on a general basis as I am still functional.,['conj'],0
+929,929,0.994939109143658,0.005060890856333827,0.174,0.581,0.245,&gt;(Now of course the medication available for mental illness are a godsend.,['conj'],0
+930,930,0.9982497620391262,0.0017502379608749067,0.344,0.6559999999999999,0.0,"I will state that not everyone with a mental illness has access to either therapy or medications, which I believe is a crying shame.",['conj'],0
+936,936,0.9993409345545264,0.0006590654454815221,0.21600000000000003,0.784,0.0,The first long-term medication we tried actually made me depressed as a side effect.,['ROOT'],0
+945,945,0.9999348489858214,6.515101416293294e-05,0.0,1.0,0.0,**UPDATE:** I ought to add that BuSpar isn't my first medication.,['attr'],0
+949,949,0.999968925879714,3.1074120291302616e-05,0.0,1.0,0.0,"I have tried therapy, medication etc.",['compound'],0
+963,963,0.9999542609010492,4.573909895554273e-05,0.0,0.526,0.474,My SO is super supportive and was pretty much responsible for my finally getting the right doctors and meds.,['conj'],0
+965,965,0.9954519225407013,0.004548077459305629,0.08199999999999999,0.857,0.061,"I told my friend about this though and she was making a big deal out of it asking how do I know that it's from the anxiety and meds, it could be something serious and I need to talk to my doctor because even if it is a side effect, it's a serious side effect.",['conj'],0
+968,968,0.9999083019632864,9.169803670802048e-05,0.0,1.0,0.0,"I'm also wondering about your guys' medication stories--BuSpar, ADs.",['compound'],0
+977,977,0.999393075097886,0.0006069249021085343,0.0,1.0,0.0,"I have taken Kavinace and it done wonders last year for me, for a herbal medicine alternative.",['compound'],0
+981,981,0.9990032190158812,0.0009967809841085332,0.152,0.758,0.09,"I started 20 mg Viibryd 1 month ago today, after over 10 years of unsuccessful treatment, over 7 different medications, and almost no hope remaining in my soul.",['advcl'],0
+1009,1009,0.9996477024461512,0.0003522975538385392,0.0,1.0,0.0,"I scheduled myself to see the same therapist and plan to follow through on everything she says, yet i don't know if i should go back medication.",['conj'],0
+1022,1022,0.9998370578283275,0.00016294217168812608,0.15,0.67,0.18,I feel more relaxed being off medication than on it as I worry about medication side effects.,['compound'],0
+1024,1024,0.9999960271230192,3.972876996049364e-06,0.09699999999999999,0.778,0.125,TL:DR ENT says Eustachian Tubes (previous doctor said I probably have ETD) are pretty finicky and don't respond to medicine/there's really no treatment.,['poss'],0
+1032,1032,0.9999287281210436,7.127187893994794e-05,0.0,0.755,0.245,"tl;dr: Tried meds and therapy, but I'm ready to try again.",['appos'],0
+1037,1037,0.9866493826084649,0.013350617391540129,0.157,0.7829999999999999,0.061,"About a month ago, I was put on 75 mg of Effexor for generalized and social anxiety, as well as minor depression, and it's proven to not be the medicine for me.",['attr'],0
+1039,1039,0.9998136453054922,0.00018635469450646887,0.0,1.0,0.0,I've had bouts of therapy and medications throughout my teens and early 20's.,['conj'],0
+1042,1042,0.9994197637322748,0.0005802362677050888,0.0,0.7659999999999999,0.23399999999999999,I started it 14 days ago and I felt like it is the right medication to help me quit lorazepam completely.,['attr'],0
+1057,1057,0.999440031409374,0.000559968590620241,0.0,1.0,0.0,There's not a direct medication that can be prescribed for everyone.,['attr'],0
+1058,1058,0.9999721590623688,2.7840937636579413e-05,0.0,1.0,0.0,What meds plug that mental hole for you?,['aux'],0
+1059,1059,0.9999520952811588,4.790471885745899e-05,0.0,1.0,0.0,"Celexa and Seroquel, are my current meds...",['attr'],0
+1065,1065,0.9999743254561452,2.567454385499165e-05,0.0,1.0,0.0,I've had benzos in my medicine drawer for 5 years.,['compound'],0
+1073,1073,0.9989115711117696,0.0010884288882153426,0.0,0.9279999999999999,0.07200000000000001,"I am not a 12 year old, I am a 30 year old who was just diagnosed with GAD and have been working through it with a variety of methods, therapy, medicine, breathing exercises and stuff like that.",['conj'],0
+1076,1076,0.999973173524636,2.6826475350132527e-05,0.0,1.0,0.0,"I've tried ginger root, drinking flat 7up, antinausea meds, and antacids.",['conj'],0
+1083,1083,0.9998787114397616,0.00012128856022193699,0.0,0.838,0.162,"They've tried everything to help me, therapists, ADHD medication (even though I feel  I don't have it).",['appos'],0
+1085,1085,0.999971823713941,2.8176286056372673e-05,0.0,0.706,0.294,Any specific medications that are all natural?,['ROOT'],0
+1088,1088,0.9997196321786509,0.0002803678213549663,0.078,0.922,0.0,I had a breakdown at work so I am in therapy along with on a medicine regime to try and control my OCD and anxiety.,['compound'],0
+1093,1093,0.9999672311255576,3.276887442965131e-05,0.0,1.0,0.0,I do not take birth control or any medications.,['conj'],0
+1108,1108,0.9994304059041011,0.0005695940959038972,0.0,1.0,0.0,"Asides the medication side effects, they are afraid that might it affect their employment record.",['compound'],0
+1114,1114,0.9976438139293218,0.0023561860706595586,0.0,1.0,0.0,"I've tried many meds to control it over the years, along with counseling, but I continue to spiral downward.",['npadvmod'],0
+1119,1119,0.9999887826615712,1.1217338412552992e-05,0.0,0.698,0.302,"Any medicine, teas, powders?",['ROOT'],0
+1137,1137,0.9999790986070564,2.090139293796092e-05,0.0,0.6759999999999999,0.324,"So please, if you'd be willing, share your experience coming off meds?",['advmod'],0
+1143,1143,0.9999836479842956,1.6352015698978987e-05,0.124,0.7909999999999999,0.085,I have no idea if the way I'm feeling is because the meds or if it's unrelated.,['nsubjpass'],0
+1149,1149,0.9999605468171648,3.94531828434459e-05,0.0,1.0,0.0,"I mean, I know how meds are supposed to work, but then sometimes it is discovered how they actually work.",['nsubjpass'],0
+1170,1170,0.9999248080644244,7.519193559512559e-05,0.109,0.815,0.075,"I basically went to my school counsellor, who told me there's 'take as needed' medication for anxiety (which I wanted, my anxiety was never that bad), I went to my doctor, he told me it's too addictive and gave me Effexor XR which I took gladly because like I said, my anxiety was topical; I'd feel anxious before presenting, or before meeting someone new.",['attr'],0
+1173,1173,0.9999949449110676,5.055088917482893e-06,0.474,0.526,0.0,I have memory problems and I'm on anxiety and clinical depression medicine aswell.,['conj'],0
+1174,1174,0.998892485507347,0.0011075144926394418,0.0,0.8009999999999999,0.19899999999999998,"But I just wanted to make a post saying that for the last 4 or 5 days I've felt pretty much like the old me, the pre-medication, pre-seizure me.",['appos'],0
+1175,1175,0.9999634939365432,3.650606343865211e-05,0.162,0.6940000000000001,0.145,TLDR: Starting to feel like me again after struggling with my diagnosis and medication.,['conj'],0
+1176,1176,0.999778828522698,0.00022117147728936744,0.0,0.787,0.213,I have considered all other things that involve someone with a phD prescribing me meds that I can't pronounce and talking to a councellor but first I would like to gain some perspective on my situation.,['mark'],0
+1180,1180,0.999802723206406,0.0001972767936035329,0.0,1.0,0.0,Anyway me and my doctor decided to try a medication swap as I just wasn't functioning.,['compound'],0
+1182,1182,0.9999408162851884,5.918371482468503e-05,0.264,0.636,0.1,"(no meds because doctors suck so hard) I'm not afraid of flying, I'm just worried that with this increased anxiety things that didn't bother me are suddenly going to make me have an anxiety attack.",['dep'],0
+1194,1194,0.9994078279631464,0.0005921720368654465,0.16699999999999998,0.833,0.0,Lexipro...Buspar (both anxiety medications) stomach medication (due to the anxiety I was producing too much stomach acid) I was in HELL...,"['appos', 'ROOT']",0
+1195,1195,0.9999640406788584,3.595932113835158e-05,0.0,0.8109999999999999,0.18899999999999997,Fast forward to 3 therepists and 4 medications later I met someone who saved my life.,['conj'],0
+1208,1208,0.9999094260633375,9.057393665384128e-05,0.0,1.0,0.0,I was taking several anti-depressants and anti-anxiety medications for years.,['conj'],0
+1218,1218,0.9999462612555634,5.3738744429071805e-05,0.142,0.858,0.0,"(Quick info: F, 21, stressed about school and being around others + their expectations, no medication now but previously on Wellbutrin and Ritalin)",['attr'],0
+1223,1223,0.9999894049489808,1.0595051034563993e-05,0.0,1.0,0.0,Pro tip: don't read medicine side-effect pamphlets,['compound'],0
+1224,1224,0.9999348733997198,6.512660027362884e-05,0.0,1.0,0.0,"This goes for any other type of product (toothpaste, pop, lotion, medicine, etc.)",['conj'],0
+1246,1246,0.9997867406232072,0.00021325937678398301,0.0,1.0,0.0,"For example: I have now finished my exams with marks over 90% , I'm in the last year of medicine school.",['compound'],0
+1247,1247,0.9999947386127588,5.26138723034774e-06,0.23399999999999999,0.7659999999999999,0.0,I don't want psychotherapy or meds.,['conj'],0
+1255,1255,0.9795283808760974,0.020471619123908474,0.12,0.8390000000000001,0.04,So unless I find a job real soon I’ll be in a world of pain once I run out of Cipralex and the withdrawal from my medication kicks in.,['compound'],0
+1261,1261,0.9992085225448726,0.0007914774551462557,0.0,1.0,0.0,Finding myself taking the Clonazepam that just sits in the medicine cabinet most of the year.,['compound'],0
+1267,1267,0.999986197024556,1.3802975432179889e-05,0.36200000000000004,0.638,0.0,Unfortunately when I was about 15 (23 now) my anxiety problems climaxed because I was overprescribed medications.,['attr'],0
+1281,1281,0.9995541227498448,0.00044587725014446885,0.0,0.8170000000000001,0.183,"This is the original: http://www.reddit.com/r/Anxiety/comments/2h9b8o/meds_stories_about_zoloft/ 
+If it doesnt work go to my profile I don't have alot of posts you'll easily see which i meant.",['acl'],0
+1296,1296,0.9998954062363984,0.00010459376359366559,0.0,0.5,0.5,"If it is medication, I want help.",['attr'],0
+1297,1297,0.999597426232922,0.0004025737670751592,0.141,0.8590000000000001,0.0,"But I'm afraid that if I were to be prescribed medication, it might change me in ways I'd regret.",['attr'],0
+1312,1312,0.9999398975503742,6.01024496280322e-05,0.054000000000000006,0.892,0.054000000000000006,"Most medications they suggest for this tend to make you into high functioning zombies in my experience  so to avoid that if you can, all you can do is learn your triggers and practice coping mechanisms - like chamomile tea or meditation for me.",['ROOT'],0
+1335,1335,0.9999466504810136,5.334951899414781e-05,0.0,1.0,0.0,"So now the medication that I NEED, and they were supposed to have, they haven't refilled.",['nsubjpass'],0
+1336,1336,0.9994935979463192,0.0005064020536916751,0.0,1.0,0.0,This is the exact same medication that I have gotten from this exact pharmacy for almost a decade now.,['attr'],0
+1338,1338,0.9998539095978359,0.00014609040214863978,0.127,0.873,0.0,Its gotten to the point where I've been prescribed Zofran (vomiting/nausea medication given to pregnant women) for whenever these attacks happen.,['parataxis'],0
+1350,1350,0.9999720014982946,2.7998501712932384e-05,0.198,0.802,0.0,I'm not really interested in therapy or medication at this point.,['conj'],0
+1351,1351,0.9999762175019922,2.3782497997714176e-05,0.0,1.0,0.0,He has been diagnosed and prescribed meds but I have not.,['conj'],0
+1357,1357,0.9999024514883884,9.7548511612628e-05,0.0,1.0,0.0,"Food, alcohol, medication, social situations...name it.",['conj'],0
+1371,1371,0.9995812531495052,0.0004187468504843593,0.0,0.738,0.262,I've definitely improved myself through therapy and medication but there's a long road ahead.,['conj'],0
+1388,1388,0.9997519229108152,0.0002480770891810957,0.318,0.682,0.0,"My problem is I'm very wary of medication changes, I worry about side effects etc.",['compound'],0
+1392,1392,0.9999288738467096,7.112615327876957e-05,0.244,0.7559999999999999,0.0,I'm hesitant because I have no health insurance (and never previously prescribed medication because of that).,['conj'],0
+1395,1395,0.9999382923245118,6.170767548691038e-05,0.069,0.8220000000000001,0.109,Can anyone help is there any maybe other medication you recommend I went to the hospital and they claim this is anxiety disorder but they didn't keep me in the mental health ward what is going on with me I just want my life back.,['attr'],0
+1427,1427,0.9999760839319436,2.3916068063019213e-05,0.0,1.0,0.0,Or maybe there's other medications I don't know of besides benzos that have helped you guys?,['attr'],0
+1429,1429,0.9999567825975364,4.321740246680258e-05,0.069,0.9309999999999999,0.0,I find it hard to find somewhere to go and I don't really know what I can be doing beyond therapy and medication.,['conj'],0
+1435,1435,0.9997392117916549,0.00026078820835087233,0.0,1.0,0.0,"I've recently started the medication shuffle and right now I'm on 112.5 mg effexor and 100 mg zoloft nightly, with the effexor scheduled to go up and the zoloft down at my next psych appointment.",['compound'],0
+1441,1441,0.9997985034871908,0.0002014965128153154,0.0,1.0,0.0,(even things that aren't medically related or on a medication level),['compound'],0
+1454,1454,0.9993072650710282,0.0006927349289818289,0.163,0.727,0.111,I know depression is a disease like others and need to keep in treatment and maybe I will never will be like other people BUT medicines no more for me.,['conj'],0
+1472,1472,0.9999560249886792,4.397501131192949e-05,0.162,0.532,0.306,"Please, I don't want therapy or medication.",['conj'],0
+1473,1473,0.99981670761971,0.00018329238029567006,0.0,1.0,0.0,"As a guy, I can't talk to anyone about this and when I mention this elsewhere they say I should seek therapy and medication.",['conj'],0
+1488,1488,0.9998609792936412,0.00013902070634628258,0.0,1.0,0.0,"Also, the first thing she pushed was medication.",['attr'],0
+1516,1516,0.9988390662880041,0.0011609337119943546,0.067,0.8420000000000001,0.092,"I was put on medication months ago to help with the anxiety, but found I kept forgetting to take it regularly.",['compound'],0
+1533,1533,0.9998146487463038,0.00018535125369571395,0.38,0.62,0.0,My biggest fear is the medication people take for Anxiety.,['compound'],0
+1538,1538,0.9994109487602784,0.0005890512397040865,0.064,0.9359999999999999,0.0,"Hey everyone,
+Just thought I'd come onto this subreddit to offer my time and experiences with taking Lexapro to those of you who might be contemplating going the medication route or therapy route or whatever might be bothering you.",['compound'],0
+1540,1540,0.9998535033921724,0.00014649660781050633,0.134,0.748,0.11800000000000001,I'm not good at telling people when I need help but I am afraid of going through another medicine change... My therapist says I would do better on Abilify but I've heard bad things about it... Should I expect the issues to go away?,['compound'],0
+1542,1542,0.9998886065023704,0.0001113934976291352,0.0,0.47100000000000003,0.529,"2) Watch Comedy TV Shows - make yourself laugh, as everyone knows laughing is the best medicine.",['attr'],0
+1552,1552,0.9999539278961688,4.607210383698096e-05,0.0,0.722,0.278,Is there a medicine that can actually help me?,['attr'],0
+1555,1555,0.9981185441120032,0.001881455887978996,0.159,0.74,0.10099999999999999,"I realize with my rational mind that it is probably because I weaned myself off my meds two months ago, but with my anxiety riddled mind I feel positive that I'm going to feel this bad for the rest of my life.",['npadvmod'],0
+1557,1557,0.9997853912016476,0.00021460879836141612,0.048,0.904,0.048,"I'll be going to my family doctor to discuss my problem and hopefully get a referral to a psychiatrist in order to begin some form of therapy, perhaps medication (though, preferably not, but I guess we'll see), and whatever else.",['appos'],0
+1563,1563,0.9985339840549929,0.0014660159450162352,0.129,0.746,0.124,I got meds the other day and adjusting to the lexipro has me nauseated and even more panicked for a good 45 minutes.,['prep'],0
+1575,1575,0.9998375720632109,0.0001624279367812998,0.14400000000000002,0.856,0.0,"After I told him, and I quote ""fuck the new doctor, this is between you and me"" he finally stopped going off about it and we got down to talking about my treatment, directions, and meds.",['conj'],0
+1577,1577,0.9994723317223776,0.0005276682776295708,0.0,0.821,0.179,"After giving me a list, I was tasked with picking a new med or meds.",['conj'],0
+1584,1584,0.999963903367096,3.60966329180092e-05,0.0,1.0,0.0,The first two were zombie meds.,['attr'],0
+1585,1585,0.9999726190962224,2.738090377113361e-05,0.0,1.0,0.0,and shouldn't I be on another medication aswell as the one I am currently on if this is happening?,['compound'],0
+1605,1605,0.9996034494453484,0.00039655055466939284,0.214,0.7859999999999999,0.0,I have been to three different Dr's in regards to this and two of them prescribed different anti anxiety/anti depressant meds.,['npadvmod'],0
+1607,1607,0.9999027700054808,9.722999452609715e-05,0.099,0.9009999999999999,0.0,"So I stopped and explained the situation with my doctor and my medication to which she just said, ""Well, that's not good.""",['conj'],0
+1608,1608,0.9999805260922736,1.9473907736331107e-05,0.434,0.5660000000000001,0.0,"What are some other anti anxiety meds, and should I worry about addiction?",['attr'],0
+1613,1613,0.9974684948032648,0.0025315051967347607,0.205,0.795,0.0,I'm not sure if that was the medicine getting me into a pattern or if that's just the nature of my miserable life.,['attr'],0
+1632,1632,0.999173240755376,0.0008267592446142978,0.0,0.852,0.14800000000000002,"With a ton of practice, a xanax or two, and my regular medication, this isn't a problem.",['conj'],0
+1635,1635,0.9999778933783374,2.2106621675881653e-05,0.059000000000000004,0.8590000000000001,0.08199999999999999,(I know there are other medications that aren't so bad- like wellbutrin- but I'm breastfeeding my son and none of them are known to be safe.),['attr'],0
+1641,1641,0.9906290132160768,0.00937098678391902,0.174,0.826,0.0,So the first class begins and I am on edge despite the propranolol I took (this is basically a heart medication which tries to reduce the adrenalin dump we experience during stressful situations).,['attr'],0
+1662,1662,0.9980233528893188,0.001976647110695398,0.0,1.0,0.0,I am due to see a psychiatrist for medication in a few days after talking about it (medication) with my therapist.,['npadvmod'],0
+1666,1666,0.9996717751278368,0.0003282248721523893,0.086,0.914,0.0,"age: 18
+
+gender: male
+
+type of anxiety: unknown
+
+trigger examples: School, emotion, change
+
+medications: none
+
+country: US
+
+insurance: parents",['appos'],0
+1667,1667,0.99999386172,6.138280012164539e-06,0.298,0.583,0.12,the past month i was diagnosed with hypothyroidism and my medicine is not regulated at all so I'm still having super bad panic attacks.,['conj'],0
+1671,1671,0.9999472931582574,5.2706841736892576e-05,0.259,0.6809999999999999,0.06,"I'm 90% sure it was just the anxiety of taking medicine making me have the bad reaction, and the medicine dosage was just so low that it didn't calm me down.",['compound'],0
+1686,1686,0.9996426891752452,0.00035731082474505817,0.0,0.7979999999999999,0.20199999999999999,"In middle school, I was on 4 mg of Klonopin daily, plus numerous other strong medications.",['conj'],0
+1687,1687,0.9999035607350032,9.643926501050436e-05,0.095,0.905,0.0,"Since then, I have weened my way down to just 20 mg of Prozac daily, no other meds... And I recently went off that.",['npadvmod'],0
+1698,1698,0.999931339728782,6.8660271234632e-05,0.095,0.687,0.218,It just sucks that this medicine that actually works and makes me feel like a normal person is a pretty heavy duty narcotic.,['dative'],0
+1706,1706,0.9998919542692444,0.00010804573075419305,0.0,1.0,0.0,"I was wondering if you could provide advice on this, is there a particular medication that has worked for you?",['attr'],0
+1712,1712,0.999102005857884,0.0008979941421310008,0.18100000000000002,0.8190000000000001,0.0,But for as long as I can remember ...I've felt constantly tired and just overall sluggish so I've been kind of wondering if this could be the paxil as it is the only anxiety medication I've taken.,['attr'],0
+1715,1715,0.999755605706562,0.00024439429344098,0.0,0.593,0.40700000000000003,Do I sound like someone who would benefit from a medication change?,['compound'],0
+1741,1741,0.9999928158715246,7.184128477210512e-06,0.0,1.0,0.0,Does anyone else on similar SSRI medication use the Pill and if so have there been any complications for you?,['compound'],0
+1744,1744,0.999975946630505,2.4053369494460315e-05,0.0,0.838,0.162,"I assume because this is 10 years later, their might be some better medications with less side-effects.",['attr'],0
+1749,1749,0.997131384610514,0.0028686153894989484,0.033,0.7759999999999999,0.191,"How long should I expect for a diagnosis to result in some form of treatment or medication (a lot of what I'm experiencing causes me harm on a daily basis – not to say that there's a huge rush for getting help as I'm not at risk for self-harm whatsoever, but obviously I would like to start moving in a positive direction as soon as possible).",['conj'],0
+1750,1750,0.996283210265615,0.0037167897343842256,0.38,0.575,0.046,"I have a mild panic disorder and have made real progress in the past few years with therapy and meds, but I did have another panic attack last night after fighting with family.",['conj'],0
+1756,1756,0.9999647737716386,3.522622834603305e-05,0.08900000000000001,0.9109999999999999,0.0,"I can't get professional help since my parents would kick me out if I tried, they are very much against psychiatrists and medication for psychological issues.",['conj'],0
+1771,1771,0.9998538986313434,0.00014610136866142646,0.0,1.0,0.0,"This was the first time I realized I may be manic, my weekend doctor observed this in me but didn't know if I was bipolar or it was the meds.",['attr'],0
+1774,1774,0.999951860936558,4.8139063426296944e-05,0.139,0.6559999999999999,0.205,"Background info: Girl, teenager, started like anxiety meds 2 years ago.",['advcl'],0
+1784,1784,0.9983825915983198,0.001617408401680708,0.0,0.6,0.4,"9 Months later im meds free,smoke free and im living a healthy life.",['attr'],0
+1788,1788,0.9950671962095948,0.004932803790413964,0.336,0.599,0.065,"I feel like a fool in front of my parents for causing this scene, even though my mom, aunt, and grandmother all take anti- anxiety and anti depression medication including xanax.",['conj'],0
+1789,1789,0.9967282918082532,0.003271708191747359,0.0,0.682,0.318,"I've been through a handful a meds, and thankfully,  Celexa was the one that worked best for my biochemist.",['npadvmod'],0
+1794,1794,0.9999152244343432,8.477556565087239e-05,0.11599999999999999,0.795,0.08900000000000001,I usually have to vomit if the nausea is really bad because it is the only thing besides my dwindling supply of Zofran (anti-nausea medication) that makes it better.,['parataxis'],0
+1811,1811,0.9999763818530132,2.3618146985131115e-05,0.0,1.0,0.0,Any tips or meds that have worked for you.,['conj'],0
+1815,1815,0.9999893077491292,1.069225087093638e-05,0.0,0.7609999999999999,0.239,"My meds, my doctor, my therapist...nothing is helping.",['npadvmod'],0
+1816,1816,0.9999720900636228,2.7909936384786133e-05,0.22,0.78,0.0,My doctor wasn't much help; just prescribed more meds.,['ROOT'],0
+1825,1825,0.999807855934272,0.00019214406573173635,0.0,0.86,0.14,"I really want to be on beta blockers or something similar because I've heard they help with the physical symptoms, but I also really want to be able to drink on whatever meds I have to take.",['dep'],0
+1833,1833,0.9999301467555134,6.985324448628129e-05,0.0,1.0,0.0,"I know every med acts differently on different people, but are there meds that don't cause these issues?",['attr'],0
+1845,1845,0.9810580610675664,0.018941938932415373,0.0,1.0,0.0,"It has taken therapy, medication and a lot of willpower on my behalf to make even the smallest changes in my communicative and cognitive behavioral habits.",['conj'],0
+1854,1854,0.9968587090352709,0.0031412909647331923,0.0,0.878,0.122,"And on top of that, the meds I've been using for the last 8 years?",['ROOT'],0
+1859,1859,0.9899117781708852,0.010088221829104505,0.113,0.887,0.0,"Have you thought of harming yourself daily because the idea of leaving your house and dealing with a job, something that apparently everyone else in the world can deal with without psych meds, therapy and tears, is too much to deal with at least 3 times a week?",['appos'],0
+1862,1862,0.999971532143063,2.8467856924108e-05,0.174,0.638,0.188,Hello I have just been given medication for my anxiety and the medication has been giving pretty bad side effects while in at work.,['conj'],0
+1866,1866,0.9994634801359104,0.0005365198641023778,0.292,0.708,0.0,She told me that it's medicine and no different than taking a blood pressure pill daily to lower your bp.,['attr'],0
+1871,1871,0.9996668176661077,0.0003331823338896597,0.0,0.517,0.483,"It could be a video that will just make you giggle a tiny bit, laughter truly is the best medicine.",['attr'],0
+1891,1891,0.9995692187434086,0.00043078125660442557,0.0,1.0,0.0,"I only took the meds one more night, and called it quits.",['dative'],0
+1900,1900,0.9989894044650752,0.0010105955349140328,0.095,0.905,0.0,"They refused to give me a medication consult, stating that because I was getting out, they wouldn't be able to monitor the effects properly.",['compound'],0
+1901,1901,0.9964234831908808,0.00357651680910355,0.0,1.0,0.0,The earliest they could see me for a medication consult was the end of October.,['compound'],0
+1902,1902,0.9994972972838484,0.0005027027161573529,0.0,1.0,0.0,Then I had a break; I got an appointment with a PCM for tomorrow afternoon for a medication consult.,['compound'],0
+1922,1922,0.9999252021715528,7.479782844398466e-05,0.075,0.925,0.0,"But then again, all of this could be psychosomatic and linked to my newfound anxiety and dramatic medicine changes as of late.",['compound'],0
+1936,1936,0.9999281512886076,7.184871139995909e-05,0.23199999999999998,0.768,0.0,I'm never too sure if the anxiety went away because I ended and completely cut off the relationship or if it was the medication.,['attr'],0
+1946,1946,0.9996073591794732,0.0003926408205361939,0.16699999999999998,0.833,0.0,I finished up the last year of college with no counseling or meds.,['conj'],0
+1952,1952,0.9961215909297368,0.003878409070243777,0.162,0.787,0.051,"I've been taking lexapro for around 4 months now, it has been the most effective medication i've taken for my anxiety but the worst side effect is anorgasmia, decreased sex drive and just a general disconnection with my sexuality.",['attr'],0
+1961,1961,0.9998726893380856,0.00012731066191849834,0.0,1.0,0.0,Is there really a medication out there that won't give me these side effects?,['attr'],0
+1970,1970,0.999761423545683,0.00023857645433090772,0.0,1.0,0.0,After that I went to a clinic and began medicine management.,['compound'],0
+1971,1971,0.9996810309226428,0.000318969077368219,0.073,0.86,0.066,"I haven't had a full panic attack since I started taking benzos, but I still feel it and I am wondering if my medication should be changed; if I possibly have epilepsy.",['nsubjpass'],0
+1972,1972,0.9999692931026648,3.0706897331773794e-05,0.222,0.778,0.0,He put me on other anti anxiety meds that just make me feel blank and nonfunctional.,['conj'],0
+2000,2000,0.999886762694834,0.000113237305181466,0.0,1.0,0.0,"I tried soo many things, from meditation, counseling, medication, and self-help.",['conj'],0
+2002,2002,0.9996298165327312,0.00037018346728511534,0.122,0.7559999999999999,0.122,However with therapy and medication it's gotten much better and these sorts of attacks are very rare for me now.,['conj'],0
+2006,2006,0.9999045913685398,9.540863144346385e-05,0.11599999999999999,0.685,0.19899999999999998,I just thought this might be a good place for anxiety medicine related questions.,['npadvmod'],0
+2008,2008,0.9999462849523288,5.371504765581298e-05,0.0,0.8390000000000001,0.161,With therapy and medicine I managed to pick everything back up and felt really stable.,['conj'],0
+2010,2010,0.999813111808782,0.00018688819122354887,0.0,0.883,0.11699999999999999,"Tried numerous calming techniques, medication, breathing exercises, which helped the symptoms but not the cause.",['conj'],0
+2017,2017,0.999586309002598,0.0004136909973816039,0.47700000000000004,0.523,0.0,"Here I am waking up to a terrible panic attack despite great access to regular therapy, medication and working out.",['conj'],0
+2019,2019,0.9999938664903504,6.133509666395939e-06,0.174,0.64,0.18600000000000003,I have pretty serious anxiety and all medicines I have tried just knock me out cold.,['conj'],0
+2023,2023,0.9999595077885968,4.049221139773975e-05,0.0,1.0,0.0,This only started happening recently which tells me it may be medication related?,['npadvmod'],0
+2048,2048,0.999939726121542,6.027387847489208e-05,0.19399999999999998,0.8059999999999999,0.0,Fired my old medication doctor and went to my first appointment with my new medication doctor.,['compound'],0
+2049,2049,0.948008773206532,0.051991226793463366,0.16399999999999998,0.779,0.057,"It took a while to get the right fit of counselors and medications, but he was finally put on Zoloft which lifted him out of his depression.",['conj'],0
+2064,2064,0.9998706528134516,0.0001293471865321169,0.27899999999999997,0.721,0.0,I'm thinking about all the panic attacks I will get and all the medication I won't be able to afford.,['conj'],0
+2067,2067,0.9758328504228762,0.02416714957712079,0.0,1.0,0.0,Another checkup is scheduled in 3 weeks to see if the meds have also helped with the ADD since a lot of the symptoms overlap for both conditions.,['nsubjpass'],0
+2068,2068,0.9998689272453922,0.00013107275459350057,0.133,0.867,0.0,"Despite my personal dealings with these disorders, I struggle with counseling patients on anti-anxiety and anti-depressant medications.",['conj'],0
+2074,2074,0.999907608611416,9.239138858181504e-05,0.0,0.629,0.371,"I'm doing everything I can to stay relaxed and healthy (therapy, medication, etc.",['conj'],0
+2084,2084,0.9983997341058258,0.0016002658941566266,0.0,0.754,0.24600000000000002,"I'm hopeful of this option, as I feel I could get a lot better if I invested some time with competently-guided CBT or perhaps medication.",['conj'],0
+2105,2105,0.99963539918682,0.00036460081318227897,0.0,1.0,0.0,And I will really really give these meds a shot.,['dative'],0
+2126,2126,0.9999030230542956,9.697694568961596e-05,0.125,0.823,0.052000000000000005,"Actually, I just came back from my Target pharmacy for my anti-aniexty and depression medication, thankfully I have insurance through my mother's husband who is a raging alcoholic and drug addict, but at least has a job.",['conj'],0
+2141,2141,0.9999157524527472,8.424754724954529e-05,0.222,0.778,0.0,I've seen therapists regularly and have been on and off of antidepressants and anti anxiety meds.,['conj'],0
+2173,2173,0.9996831459978316,0.000316854002148538,0.113,0.887,0.0,How can I afford to pay for a therapist AND a doctor's appointment AND medication?,['conj'],0
+2183,2183,0.9999577652073324,4.223479268508737e-05,0.098,0.8109999999999999,0.091,"I was lucky to stock up on my antidepressant for 2 months, but my anxiety and sleeping medication will be out.",['conj'],0
+2208,2208,0.9998912705391092,0.00010872946087825984,0.0,1.0,0.0,I have since been off all prescription medications for the last 7 months.,['attr'],0
+2213,2213,0.9999474491777488,5.255082225841087e-05,0.358,0.535,0.107,"I already have pretty bad depersonalization due to my Anxiety and medication, and I'm worried that it will worsen greatly, becoming debilitating.",['conj'],0
+2224,2224,0.9998776133135332,0.00012238668648480424,0.0,1.0,0.0,Been seeing a psychologist and psychiatrist for some time now and have seen a douzen or so different medications.,['conj'],0
+2229,2229,0.9991944861984532,0.000805513801541082,0.0,1.0,0.0,"---
+
+**Daily meds:** 170mg Venlafaxine, 180mg Propranolol, a IBS med, an acid reflux med, a contraceptive pill, a diazepam, and a (not important) multivitamin.",['ROOT'],0
+2252,2252,0.9999667237224544,3.3276277544145006e-05,0.401,0.43200000000000005,0.16699999999999998,Is there special medication to overcome simple panic and/or fear?,['attr'],0
+2267,2267,0.9999919269357466,8.073064239287618e-06,0.0,0.8,0.2,Has anyone experienced anything like this after increasing their medication dosage?,['compound'],0
+2299,2299,0.9764449575120586,0.02355504248793841,0.177,0.823,0.0,"There's some stuff going on in my life right now with my partner that I am focusing on, to the point where I work myself into a panic, obsessively researching medication side effects and horror stories online, and such, and I can't seem to control myself.",['compound'],0
+2304,2304,0.9997102887836362,0.0002897112163769153,0.168,0.755,0.077,"Before I had friends and could go out for a drink or two and a deep convo but now it's medication, sleep, ekg's, and panic.",['attr'],0
+2305,2305,0.9996630050246668,0.00033699497531729846,0.145,0.855,0.0,"Every medication the was suggested, I tried for quite some time before, to no avail.",['nsubjpass'],0
+2334,2334,0.9728835195472536,0.02711648045273077,0.0,0.893,0.107,"I take Cymbalta and after months of steady improvement with therapy and medication, I've tapered my dosage down to 20mg (lowest) where it will stay for a while.",['conj'],0
+2349,2349,0.9998413979454716,0.00015860205453299282,0.0,0.816,0.184,She also told me that I would definitely need to give medication another try.,['dative'],0
+2353,2353,0.9999605408380844,3.945916192164963e-05,0.076,0.763,0.161,"&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;If anyone needs to talk about anxiety or medication or ADHD or anything, really, feel free to contact me.",['conj'],0
+2355,2355,0.9999726744293492,2.7325570634934294e-05,0.677,0.32299999999999995,0.0,](http://www.medicinenet.com/mitral_valve_prolapse/page2.htm) am pissed.,['meta'],0
+2358,2358,0.9988558375680974,0.0011441624319098215,0.075,0.925,0.0,"Obviously I'll talk to my doc before I make a decision, I'm just wondering if anyone has experience with non-SSRI, non-benzo meds for anxiety.",['conj'],0
+2364,2364,0.9997461489608456,0.00025385103914647234,0.0,1.0,0.0,"I know it's not the other medicine, because I still had the palpitations with it.",['attr'],0
+2368,2368,0.9999603240944775,3.967590552098625e-05,0.0,0.815,0.185,"""People would come to me for medication management or things like that.""",['compound'],0
+2379,2379,0.9999583652712636,4.1634728731623685e-05,0.107,0.777,0.11699999999999999,"Although I tend to be way over worried about job security (probably unnecessarily), I probably wouldn't have thought I'd medication.",['ccomp'],0
+2402,2402,0.999934953433684,6.504656632387617e-05,0.0,1.0,0.0,"Despite therapy and meds, keep getting worse....",['conj'],0
+2403,2403,0.9998394528830279,0.0001605471169618417,0.0,1.0,0.0,"I've taken so much medication that I rattle when I walk, everything from benzos, beta blockers, SSRI, SSNRI, self medication with alcohol.",['appos'],0
+2404,2404,0.9998872131654368,0.00011278683454716027,0.188,0.812,0.0,"I had sought counselling in high school for depression, but I did not ever get counselling or meds for my anxiety in college.",['conj'],0
+2407,2407,0.9999546614842671,4.5338515740014563e-05,0.0,0.8420000000000001,0.158,I heard that adderal is the strongest medication for ADHD so if it doesn't work for me what is gonna work?!?,['attr'],0
+2408,2408,0.9996322206543208,0.0003677793456845937,0.068,0.873,0.059000000000000004,I'm well aware this could come from codependency related to my mothers severe alcoholism but with all the therapy and medication I can't seem to change.,['conj'],0
+2415,2415,0.9998859366489228,0.00011406335105822539,0.128,0.7040000000000001,0.168,"Also, I'm not sure if it's the meds, but I've been constantly feeling like I'm forgetting something, or forget what I'm about to go do.",['attr'],0
+2422,2422,0.9999447554145856,5.5244585419128675e-05,0.0,1.0,0.0,"Either in therapy, medication, approaches...etc?",['conj'],0
+2434,2434,0.9999496870085848,5.031299139930679e-05,0.0,0.838,0.162,"Well, medication but I don't know if that ever helped.",['npadvmod'],0
+2437,2437,0.998852840519222,0.0011471594807772793,0.11800000000000001,0.882,0.0,"I'm in Aus, no medications but booked in to see a counsellor on Tuesday.",['appos'],0
+2446,2446,0.999979189530948,2.0810469055678e-05,0.175,0.825,0.0,"Does anyone else have anxiety and ADD, how did the ADD medication effect your anxiety or vice versa?",['compound'],0
+2450,2450,0.9429849056628634,0.05701509433712253,0.0,1.0,0.0,"During the school year I attended therapy with a private professional,and was prescribed medication that I had to take at school instead of home because of my parents.",['conj'],0
+2452,2452,0.9994544515321018,0.0005455484679032926,0.0,1.0,0.0,"But then the school year ended-and with it,the therapy sessions and medication intakes.",['compound'],0
+2453,2453,0.999915255917568,8.474408242177068e-05,0.0,1.0,0.0,"I've tried therapy, self-help books, medications and just plain ol' doing it on my own.",['conj'],0
+2456,2456,0.9999602868857472,3.971311425417713e-05,0.28600000000000003,0.7140000000000001,0.0,I had not taken Versed or any anti anxiety medicine by the way.,['conj'],0
+2465,2465,0.9996603688585748,0.00033963114140794353,0.0,0.777,0.223,Any alternatives to melatonin that you may be aware of or any other medication that's known to help people ease their way through benzo withdrawal?,['conj'],0
+2489,2489,0.9999658425060528,3.415749395468581e-05,0.0,1.0,0.0,"(My meds: Citalopram (Anxiety, morning), Atomoxetine (ADD, morning), Teva-Quetiapine (Anxiety, Supper). )",['dative'],0
+2490,2490,0.9970926178490496,0.002907382150965226,0.0,0.8009999999999999,0.19899999999999998,"I'm trying to be positive about this and would love to make friends from here who are also starting a new medication regimen, so we can support each other through a rough time but my question right now is for the veterans.",['compound'],0
+2491,2491,0.9990263577835864,0.0009736422164247172,0.17600000000000002,0.5529999999999999,0.271,"I'd like to hear everyone's personal experience with a new medication regimen, good or bad.",['compound'],0
+2504,2504,0.9986488397613564,0.001351160238636058,0.26899999999999996,0.645,0.086,I get depressed at times and I have a hard time confronting her since I know it is the meds and I do not want to worry her.,['attr'],0
+2506,2506,0.999993370631778,6.629368234619055e-06,0.08,0.7070000000000001,0.213,I have looked up non medicine treatments for anxiety but they aren't doing so well.,['compound'],0
+2510,2510,0.999975011617428,2.498838257561904e-05,0.0,0.767,0.233,I don't know how anxiety medication Works.,['compound'],0
+2513,2513,0.9999905230906976,9.476909296411084e-06,0.0,1.0,0.0,if so what meds?,['ROOT'],0
+2519,2519,0.9969383150431186,0.003061684956860843,0.159,0.841,0.0,"I told her I had a medication question, she said she would transfer me to his assistant, but transferred me again to the wrong doctors voicemail.",['compound'],0
+2548,2548,0.9997796473925648,0.00022035260743429058,0.0,1.0,0.0,My symptoms are under control after years of therapy and medication.,['conj'],0
+2551,2551,0.991290929528904,0.008709070471108133,0.109,0.802,0.08900000000000001,"I have noticed a bit of improvement in my overall mood, but I am not sure if that is the medicine or me.",['attr'],0
+2585,2585,0.9995390460302902,0.00046095396969196036,0.16899999999999998,0.7170000000000001,0.114,Ive never felt the need to seek help or meds (but I am terrified of doctors so there you go).,['conj'],0
+2587,2587,0.999616966522566,0.00038303347743900464,0.0,0.804,0.196,"By the way, you can find inexpensive Phenelzine (*and other meds*) with this site: http://www.goodrx.com/
+
+Thanks for your time, and I'd be happy to answer any questions you have.",['conj'],0
+2594,2594,0.9999763238393441,2.3676160671229066e-05,0.146,0.657,0.19699999999999998,"Could medication alone help me, at least to get through college?",['ROOT'],0
+2602,2602,0.9997822788655768,0.0002177211344301789,0.18899999999999997,0.7140000000000001,0.096,Klonopin and Xanax seem to be the only two medications that actually help my anxiety without the need for all the other shit.,['attr'],0
+2612,2612,0.9999363383441596,6.366165584592191e-05,0.27399999999999997,0.726,0.0,"Incidentally, I was off meds for a while for some stupid reason.",['attr'],0
+2614,2614,0.9997405306462284,0.0002594693537816179,0.235,0.765,0.0,I have been to see a doctor who has offered CBT and anti anxiety meds (citalopram / celexa).,['conj'],0
+2617,2617,0.9995696388059212,0.0004303611940843103,0.0,1.0,0.0,"I implore anyone not to take this, or any medication in this family of drugs.",['conj'],0
+2631,2631,0.9998615777293096,0.00013842227067561142,0.0,0.9129999999999999,0.087,"Up until Thursday, my nightly meds (I take 0.25mg Klonopin at 9am, 1pm, and 6pm and the rest at 6pm) would immediately calm me down.",['dep'],0
+2640,2640,0.9997964386019108,0.0002035613981080743,0.0,1.0,0.0,Prescription medication sometimes gets dropped to sustain the meal budget.,['nsubjpass'],0
+2654,2654,0.999866391358764,0.00013360864123817002,0.0,1.0,0.0,i've been to my doctor about this but the only thing she has to offer me is a medication that i have a long history with.,['attr'],0
+2656,2656,0.8598371924265164,0.1401628075734896,0.092,0.8320000000000001,0.076,"At my previous university, I found that the Effexor-XR 150 for trait and Xanax 50 mg for state anxiety resulted in a relatively stable mode of living, but have recently started a graduate program at a different university where the clinicians are more negatively biased toward medication-based solutions.",['npadvmod'],0
+2663,2663,0.9997208362492568,0.0002791637507280582,0.147,0.662,0.191,It wasn't until I got my anxiety under control with therapy and medication (of which I'm now off) that I lost that happy feeling.,['conj'],0
+2664,2664,0.9998377848948534,0.0001622151051644569,0.0,1.0,0.0,I maintained the same dose and medications as previously mentioned.,['conj'],0
+2668,2668,0.9997535683391544,0.0002464316608611332,0.21600000000000003,0.6759999999999999,0.10800000000000001,I can only pin it down to the alcohol in me affecting my medication's function and therefore the panic attack came on full strength.,['poss'],0
+2677,2677,0.9998699228176684,0.00013007718233190018,0.23800000000000002,0.713,0.049,"**TL;DR: How the HELL did you get through your medication withdrawal symptoms, and how long did it take?",['compound'],0
+2694,2694,0.9994604260201468,0.0005395739798394984,0.0,0.816,0.184,"I can't find a psychiatrist that takes my insurance, so I can't get meds to help.",['acomp'],0
+2697,2697,0.9994031751555384,0.0005968248444660372,0.242,0.685,0.073,I've had a panic disorder for 8 years now and have been through therapy and meds and being housebound and being fine.,['conj'],0
+2704,2704,0.999961839376961,3.816062305699297e-05,0.39799999999999996,0.364,0.23800000000000002,I really feel like shit and hate myself for not seeking help or effective medicines.,['conj'],0
+2705,2705,0.9991588721811182,0.0008411278188933863,0.0,1.0,0.0,"It has helped somewhat, but I'm starting to think I either need a higher dose or a different medicine.",['conj'],0
+2717,2717,0.9999312074279504,6.879257203837035e-05,0.174,0.6829999999999999,0.14300000000000002,"TL/DR: VS after head injury, please advice of experience, deterioration, medicine, cures, etc.",['conj'],0
+2718,2718,0.9999248726459646,7.512735404945149e-05,0.0,0.8540000000000001,0.146,"My question is whether there is treatment, is there anything I can do to improve, does it deteriorate, medication?",['conj'],0
+2722,2722,0.9991583212999852,0.0008416787000311795,0.044000000000000004,0.853,0.10300000000000001,"I had a doctors appointment this week just for a medication checkup and everything was fine, my Adderall XR (20mg twice a day, since it only lasts 6 hours each) is helping with my anxiety and ADHD without any side effects.",['compound'],0
+2734,2734,0.9986875572468172,0.0013124427531746462,0.044000000000000004,0.688,0.26899999999999996,"I don't have insurance or a primary care physician, so it makes it hard to try and get consistent help and daily medication that will help besides Xanax.",['conj'],0
+2738,2738,0.9999939278536564,6.0721463360559374e-06,0.155,0.845,0.0,"Is there anything I can do behaviorally (that is, no medicine) to change this?",['attr'],0
+2743,2743,0.999540211399528,0.0004597886004654113,0.16,0.797,0.043,My doctor gave me anxiety meds(avitan) that I haven't taken in two days because I don't want to destroy my liver and i don't want to be dependent of any substance but it's getting hard to not use it when the anxiety is getting overwhelming.,['meta'],0
+2744,2744,0.9999669964206068,3.300357940562821e-05,0.688,0.312,0.0,No medication.,['ROOT'],0
+2749,2749,0.9998560410933937,0.00014395890661843486,0.221,0.779,0.0,"I'm on antidepressants, anxiety meds, the works.",['conj'],0
+2764,2764,0.99999049964749,9.50035250938386e-06,0.0,0.748,0.252,"I would really like to try out an adhd medicine or something at least then I could see if it would help, or is there medicine that helps both?",['attr'],0
+2773,2773,0.999965889366294,3.4110633692481976e-05,0.2,0.588,0.212,Chances are I will be prescribes anxiety meds.,['attr'],0
+2774,2774,0.9995479114935704,0.0004520885064310591,0.14400000000000002,0.642,0.214,MY MAIN CONCERN IS...if I get prescribed anxiety meds...what are the chances of me gaining weight...I've gained about 15-20 lbs this year because of the emotional turmoil I've been dealing with....and now lack of motivation to lose it at the moment ..has caused me to be thicker than i'd like to be...,['ccomp'],0
+2777,2777,0.9998692582089241,0.00013074179107103707,0.155,0.845,0.0,"Before I knew I was behind, I failed to submit work at university, I was being ushered towards counselling and was suggested medication.",['oprd'],0
+2778,2778,0.9998902381442528,0.00010976185576291761,0.0,1.0,0.0,(The orgasm being an effect not listed on the medication list).,['compound'],0
+2781,2781,0.99983431449118,0.000165685508819076,0.113,0.747,0.14,"The medication is not known for helping with sexual issues, though it is certainly responsible for my delayed ejaculations (given premature ejaculations are what they are also prescribed for)....",['nsubjpass'],0
+2815,2815,0.9990774859720564,0.0009225140279320367,0.297,0.595,0.10800000000000001,I will also be having to get a medicine change as the zoloft was no good and made my problem much worse.,['compound'],0
+2832,2832,0.9998458748908206,0.00015412510916221116,0.315,0.685,0.0,"I guess the point of this is that I'm so sick and tired of dealing with this with SSRIs, SNRI's, and other anti-depressants and bunk bullshit anxiety medications (I'm looking at you Buspar).",['conj'],0
+2838,2838,0.9986500286347798,0.0013499713652385227,0.226,0.598,0.175,Meanwhile I lost a lot of hair and gained weight and was just generally feeling hopeless about my medication situation.,['compound'],0
+2840,2840,0.9998788331513871,0.00012116684862870383,0.156,0.8440000000000001,0.0,"He is prescribed heart medications combined with Ativan and Zofran to combat his ""episodes.""",['attr'],0
+2851,2851,0.996566962995014,0.003433037004967917,0.163,0.8370000000000001,0.0,"And as a result of all of this - being sick, new meds, etc, I haven't been eating or drinking much.",['conj'],0
+2853,2853,0.9999881768744076,1.182312558780707e-05,0.0,1.0,0.0,Does anyone have any experience with lorazepam or similar meds?,['conj'],0
+2855,2855,0.999948031763615,5.196823636502644e-05,0.0,1.0,0.0,I am new to the whole medicine thing.,['compound'],0
+2864,2864,0.9999031403873779,9.685961261731175e-05,0.252,0.748,0.0,"Hi, I'm not sure if this is the place for this, but my fiance has just started therapy and medication for Generalized Anxiety Disorder.",['conj'],0
+2874,2874,0.9996452966011362,0.0003547033988766607,0.0,0.747,0.253,I had a meds change (I am now on Zoloft) and so far so good.,['compound'],0
+2882,2882,0.9999863100482964,1.3689951703431329e-05,0.523,0.47700000000000004,0.0,"Also, are anxiety medications really that bad?",['attr'],0
+2884,2884,0.9999749803285332,2.501967145410546e-05,0.0,1.0,0.0,"My second visit to this ""counselor"" and she gives me pamphlets on this pseudo-medicine garbage.",['compound'],0
+2886,2886,0.9995750519871959,0.000424948012794064,0.0,1.0,0.0,(Also there was a medicine change in there from Zoloft to Effexor.,['compound'],0
+2889,2889,0.9995152697811984,0.00048473021881829286,0.13699999999999998,0.7959999999999999,0.067,"I have been struggling with GAD for most my life now and it's gotten better with therapy and medications but sometimes I get almost ""flair ups"" of anxiety.",['conj'],0
+2896,2896,0.7831974548582699,0.2168025451417392,0.031,0.87,0.1,"I've recently been dealing with a lot of anxiety, and while there are many different ways of dealing with it, medication, meditation, therapy, or the million other things you can do, I have found a really easy way to take about 1% of the edge off, and I'm sure a lot of people do it.",['conj'],0
+2918,2918,0.9999502861383271,4.97138616881325e-05,0.134,0.866,0.0,Pot is literally my only medication/remedy when it comes to my anxiety.,['attr'],0
+2923,2923,0.9997703712880884,0.00022962871191522133,0.242,0.669,0.08900000000000001,"I know that the common advice for anxiety is therapy and medication, but I'm far too anxious for the former and strongly dislike the latter.",['conj'],0
+2924,2924,0.9999327332756578,6.726672436025898e-05,0.452,0.5479999999999999,0.0,Usually just opiate pain medication.,['ROOT'],0
+2929,2929,0.9999069359517448,9.306404823699521e-05,0.047,0.953,0.0,I talked with my therapist and she said if I don't want to go down the medication route I'd have to have long term therapy which I don't mind.,['compound'],0
+2938,2938,0.9945216428682304,0.005478357131766799,0.115,0.8220000000000001,0.063,"first it was like faraway street lights seeming fuzzy and blurry and today just my sight seems off, i feel like i just wanna close my eyes could be eye strain from being on the pc for a while (online class) and reading in a dark room + meds but im getting scared its a a degenerative disease!",['dep'],0
+2943,2943,0.9981834952971164,0.001816504702883248,0.153,0.754,0.09300000000000001,"I wake up feeling instantly alert when I'm sleeping on a sofa, probably because I never get any good quality deep sleep, and I hate how long it takes me to wake up when I sleep properly (thanks meds).",['parataxis'],0
+2968,2968,0.9999461597337276,5.384026627321682e-05,0.0,0.787,0.213,Is it worth seeking councelling or new meds?,['conj'],0
+2976,2976,0.9950990409003124,0.004900959099672245,0.19699999999999998,0.8029999999999999,0.0,"I never took the step to take antidepressants or anxiety medication, as I was fearful to even approach a doctor and talk about the subject.",['conj'],0
+2984,2984,0.9999791330337806,2.0866966216561302e-05,0.171,0.8290000000000001,0.0,ive tried therapy and meds and im gonna try em again except my dads not really giving me much time to fix my problems at all.,['conj'],0
+2988,2988,0.9997325059634984,0.0002674940364897861,0.039,0.723,0.23800000000000002,"After starting Zoloft I do feel like I'm more at ease and I don't take shit so seriously, but I can't really discern if it's the medication or placebo, since the change in my mood was pretty subtle.",['attr'],0
+3001,3001,0.9935056797494016,0.006494320250589818,0.0,0.8220000000000001,0.17800000000000002,so I'm also aware of the benefits of a combo of therapy and medication.,['conj'],0
+3005,3005,0.9998143395378096,0.00018566046218503605,0.0,1.0,0.0,I don't know if I should try to get medication/therapy if in a couple months I won't even be living here anymore.,['acomp'],0
+3018,3018,0.9999297209867244,7.02790132565454e-05,0.067,0.8859999999999999,0.047,"Even after the CT scan that time, they sent me to get an echo for my organs (pancreas, liver, gall bladder and so on), he said, all good (well, except my liver because I am fat but no medication required).",['conj'],0
+3036,3036,0.9999749482110208,2.5051788961791305e-05,0.242,0.705,0.052000000000000005,"It was starting to help, but my mother made me feel so horrible for taking any medication (she doesn't believe medication works or that I even have anxiety/depression), I stopped.",['compound'],0
+3037,3037,0.9982815463039664,0.0017184536960328386,0.175,0.825,0.0,I have a couple of questions regarding general anxiety and meds.,['conj'],0
+3045,3045,0.9999241096761472,7.5890323870138e-05,0.151,0.7140000000000001,0.136,"I'm managing it okay though, and don't feel ""stuck"" like I did pre-medication.",['advcl'],0
+3046,3046,0.9942853249644346,0.005714675035550991,0.045,0.8109999999999999,0.14400000000000002,".. speaking in class
+
+.. performing spoken word (even though i really want to)
+
+.. asking the teacher questions when other people are in the room
+
+.. taking ANY sort of exam -- i just freeze up
+
+.. fucking up a technical interview, like i just did
+
+.. anticipating being called on in class unexpectedly
+
+it's like i can't think, all i can do is panic
+
+(would medication help with this?)",['parataxis'],0
+3048,3048,0.9999926620889744,7.337911024797377e-06,0.48100000000000004,0.439,0.08,"I have no money, no job (I am looking), no friends, no insurance, no car, no medication, have anxiety, depression, adhd and living under my mothers roof.",['conj'],0
+3059,3059,0.9999645299583072,3.547004170592967e-05,0.0,0.937,0.063,"I'm planning on making another trip to my GP this week to discuss how I can better handle this (perhaps medication), but I don't know how to tell my supervisors what happened.",['appos'],0
+3060,3060,0.9999233072958394,7.669270417528739e-05,0.11599999999999999,0.741,0.14300000000000002,I convinced myself it was the medicine and my psychiatrist immediately told me to stop taking it.,['attr'],0
+3073,3073,0.999954412603806,4.558739621213e-05,0.569,0.431,0.0,"25, M, General Anxiety Disorder (diagnosed), No medication.",['appos'],0
+3076,3076,0.9990825688835028,0.000917431116513942,0.064,0.8270000000000001,0.109,"That gives me hope that, with work on anxiety through therapy (and probably meds soon), I will get back to that place of rational thought.",['npadvmod'],0
+3091,3091,0.9998833481055672,0.00011665189443734101,0.17,0.743,0.087,So after years of struggling with this problem I have finally decided to see the doctor about my symptoms and I'm hoping I can get some answers or medication.,['conj'],0
+3099,3099,0.9999786325565584,2.1367443427208872e-05,0.0,0.679,0.321,My question: are there anti-anxiety medications that will help ease my 'symptoms' (?),['attr'],0
+3104,3104,0.9992076033912014,0.0007923966088112213,0.0,0.767,0.233,"medication, I tried psychology but it didn't seem to help)
+- NLP 
+- Hypnosis
+
+Would love to know anything that has worked for others!",['npadvmod'],0
+3114,3114,0.999987336281198,1.2663718811309085e-05,0.19399999999999998,0.8059999999999999,0.0,I know I shouldn't feel like this but I really wanted to be prescribed anxiety meds or even beta blockers.,['oprd'],0
+3130,3130,0.9998699467306014,0.00013005326938053032,0.0,1.0,0.0,How does getting medication work if you are seeing a psychologist?,['compound'],0
+3143,3143,0.9997501714653726,0.0002498285346336176,0.242,0.573,0.185,"I want to be sure that it is the medicine though before I stop, because it is actually helping my depression and anxiety in the daytime.",['attr'],0
+3153,3153,0.9998518678545416,0.00014813214544939708,0.0,1.0,0.0,"I became pregnant last year at the age of 28, and had to quit my medication (xanax) cold turkey.",['nmod'],0
+3155,3155,0.9992497304616216,0.0007502695383607811,0.054000000000000006,0.8240000000000001,0.122,"Hi,
+Recently discovered this subreddit, thought you could give me a bit of advice...
+
+My Fiance has anxiety and she told me there is medicine for this i try encourage her to get it (any help is help)
+we've recently just became parents and i feel i need to help her more now than ever 
+
+What advice could you give on what to do and what to avoid",['attr'],0
+3164,3164,0.9998627658458852,0.00013723415410066674,0.0,0.8909999999999999,0.109,"She suggested Lexapro (which my psych also suggested 5 months ago, but I felt fine and chose to stay off meds).",['npadvmod'],0
+3168,3168,0.9999793368945776,2.0663105419203547e-05,0.655,0.345,0.0,"26M, no meds, general anxiety and depression?",['appos'],0
+3172,3172,0.9999685098391192,3.1490160884426324e-05,0.134,0.866,0.0,This is my first long term medication I've tried for my anxiety.,['attr'],0
+3174,3174,0.9999866419984182,1.3358001595477146e-05,0.0,1.0,0.0,I can't tell if it's heat related or medication related?,['conj'],0
+3183,3183,0.9954400463233056,0.004559953676680253,0.0,1.0,0.0,"Also, I am unable to function in my current school and work settings w/o my medication so I don't see living stimulant-free as a viable option at this point in my life.",['npadvmod'],0
+3195,3195,0.9999716251852632,2.8374814724105793e-05,0.0,0.775,0.225,The other hope is medication...but I don't know where that could lead.,['attr'],0
+3214,3214,0.9997016112706836,0.00029838872933160565,0.212,0.7879999999999999,0.0,"I was on risperidone and vyvannse going into my junior year when I started fearing a nuclear war and had near panic attacks every time I heard an airplane (I may have went off my meds before that, but I can't remember).",['npadvmod'],0
+3219,3219,0.9996898305683484,0.0003101694316495482,0.0,0.7390000000000001,0.261,"I will continue pushing to get better, continue my therapy and medication, and try to focus more of my energy on those who actually care about my wellbeing.",['conj'],0
+3220,3220,0.999970099584738,2.9900415270061463e-05,0.21600000000000003,0.784,0.0,"They offered beta-blockers and some anti-anxiety meds, I said no.",['conj'],0
+3235,3235,0.9999212408020104,7.875919800182388e-05,0.106,0.894,0.0,"EDIT: Sorry, I didn't know how to tag this post as medication related.",['npadvmod'],0
+3240,3240,0.9999975650269416,2.434973055134476e-06,0.0,1.0,0.0,Are there any other medications I should ask my psychiatrist about?,['attr'],0
+3241,3241,0.9849698515152904,0.015030148484706584,0.19399999999999998,0.721,0.084,"I'm already considered a person with anxiety (thus meds), but I made the mistake and read news and worldnews while on vacation last week and it ruined a part of it until you good folk brought me to my senses!",['appos'],0
+3244,3244,0.9999900657841028,9.934215885589772e-06,0.0,1.0,0.0,Any meds/tips that have helped you guys?,['ROOT'],0
+3259,3259,0.9995654077652792,0.0004345922347402306,0.0,1.0,0.0,Around 5 or 6 months ago my therapist sent me to a psychiatrist who ended up putting me on the medication train.,['compound'],0
+3274,3274,0.9999111360271308,8.886397288248988e-05,0.0,1.0,0.0,My last option I can think of is medication.,['attr'],0
+3281,3281,0.9999775897159656,2.2410284047840493e-05,0.19399999999999998,0.8059999999999999,0.0,I have been on so many meds im just desperate for something to work!!,['advcl'],0
+3286,3286,0.9999772294874796,2.277051250919011e-05,0.0,1.0,0.0,NOTE:  im not talking about therapy or medicines.,['conj'],0
+3288,3288,0.9949473356777336,0.005052664322258581,0.111,0.794,0.095,"In April of 2011, a half ass doctor prescribed him Chantix to quit smoking, not ever seeing my husband before and knowing nothing of his depression and medications.",['conj'],0
+3307,3307,0.9999948375934176,5.162406599344455e-06,0.16699999999999998,0.833,0.0,I'm sorry if this is really dumb..but I need some recommendations as to which anxiety meds I should request?,['pcomp'],0
+3322,3322,0.9999285960231032,7.140397691429885e-05,0.153,0.7170000000000001,0.131,I recognize that that's self-medication of sorts and I don't want to have to get drunk just to try to make friends.,['attr'],0
+3325,3325,0.9999868610107671,1.3138989226409993e-05,0.0,1.0,0.0,Any suggestions or medications that have worked for you?,['conj'],0
+3340,3340,0.9999726451833272,2.7354816680176542e-05,0.47,0.53,0.0,On and off meds and having panic attacks hourly.,['conj'],0
+3349,3349,0.9999172613578888,8.273864209509781e-05,0.0,1.0,0.0,She just thought it was the Claritin medicine that I was taking and would not take me to the doctor.,['attr'],0
+3360,3360,0.9999300887732476,6.991122675630921e-05,0.153,0.8009999999999999,0.045,"I do have astma, and I am rather lazy on the medication thingy (never had issues unless I want to run or do other demanding activities for extended periods).",['compound'],0
+3361,3361,0.9999792130112024,2.078698879998832e-05,0.21600000000000003,0.784,0.0,"I'm finding that negative thinking is still tripping me up when demands are exceptionally high, or my resources (sleep, food, medication) are low.",['conj'],0
+3378,3378,0.9999370653642916,6.293463569466011e-05,0.301,0.485,0.214,"Sad lamp, Vitamin D, medications not working.",['appos'],0
+3379,3379,0.9999517572684076,4.82427315865705e-05,0.0,1.0,0.0,"Therapy, medication, or both?",['conj'],0
+3380,3380,0.9998705155091552,0.00012948449085061452,0.0,0.698,0.302,"If medication, anything I should steer clear of?",['advcl'],0
+3385,3385,0.984207702822186,0.015792297177810617,0.0,0.7040000000000001,0.29600000000000004,I still have a long way to go but I'm hopeful the combination of CBT and medications will help me get through it.,['conj'],0
+3393,3393,0.999979200374468,2.0799625522609654e-05,0.0,0.685,0.315,"http://www.reddit.com/r/Anxiety/comments/2g9nrv/2_months_on_meds_for_depression_and_anxiety/.compact
+That is my original post.",['ROOT'],0
+3396,3396,0.9999608846229284,3.9115377069900674e-05,0.256,0.7440000000000001,0.0,So basically all the medication has done is taken away the stress because I don't have wet dreams anymore and have absolutely no need for sex.,['nsubjpass'],0
+3405,3405,0.999980815630956,1.9184369037186973e-05,0.0,1.0,0.0,Are all anti-anxiety meds antipsychotics?,['compound'],0
+3407,3407,0.9999941651445264,5.834855456604648e-06,0.0,1.0,0.0,"Do you have anything else that is an anti-anxiety medication that *doesn't* cause TD?""",['attr'],0
+3410,3410,0.99775007826233,0.0022499217376712576,0.05,0.828,0.122,"I'm 14 years old and the lack of sleep is really getting to me, anyway I was wondering if anyone had something simmaler and maybe knows a better way to describe it so I might be able to get help or medication or something.",['conj'],0
+3429,3429,0.9999436340433591,5.6365956633791605e-05,0.33299999999999996,0.667,0.0,But because of my bad experience with doctors and their medicine I'm very sceptical.,['conj'],0
+3431,3431,0.9626369746055676,0.0373630253944423,0.10800000000000001,0.743,0.149,"Finally with the help of a counselor and some meds, I put a name to the fear that had followed me all my life and found some solutions.",['conj'],0
+3445,3445,0.9959785413959762,0.004021458604022514,0.295,0.664,0.040999999999999995,"I was on anti anxiety and depression meds, but took myself off of the depression meds a bit back because they left me feeling nothing at all, and am off the anxiety meds and run instead.",['attr'],0
+3461,3461,0.9997201029910842,0.00027989700893345985,0.0,0.799,0.201,"I've done therapy and medication, and I'm very capable of dating and setting something good up...but I can't afford do spiral down again if that happens.",['conj'],0
+3462,3462,0.999985508637086,1.4491362917923826e-05,0.107,0.6920000000000001,0.201,Was wondering what meds people have found most useful when dealing with anxiety?,['ccomp'],0
+3474,3474,0.998951507066166,0.0010484929338173668,0.0,0.833,0.16699999999999998,It is a stronger medication and it had to shorten my work schedule a little bit.,['attr'],0
+3483,3483,0.9978883151532992,0.0021116848466922844,0.0,1.0,0.0,"However, the clinic associated with my university was a behavioral therapy and not a medication type place.",['compound'],0
+3485,3485,0.9938763774252428,0.006123622574760751,0.259,0.741,0.0,I've also experienced a dangerous adverse reaction to psyche meds leaving me recovering from a series of seizures as a result.,['npadvmod'],0
+3507,3507,0.9996533577902184,0.00034664220976272805,0.063,0.818,0.11900000000000001,"Years of therapy, medication, introspection, and research have made me pretty familiar with anxiety issues in general and how I deal with them in particular.",['conj'],0
+3508,3508,0.9999533715626092,4.662843738925969e-05,0.0,0.863,0.13699999999999998,"And FYI, my current coping strategies include exercise, meditation, therapy, journaling, medication, and talking to friends/loved ones.",['conj'],0
+3514,3514,0.9999513943833768,4.860561663466558e-05,0.0,1.0,0.0,"How am I supposed to live with the fact that if my family could afford the $3k for more tests, longer hospital stays, and expensive medicine, she could possibly still be here.",['conj'],0
+3515,3515,0.9993855045820506,0.0006144954179461557,0.096,0.904,0.0,"I didn't even work the register my last shift, and I remember next to nothing about how to work it from two years ago, and I don't even kknow what I'm supposed to wear or what if I can't even get in because of the crowds, plus I forgot to take my medicine yestrday  so what if I have a panic attack while II'm there and I can'tt take a break...?",['compound'],0
+3518,3518,0.9984560589282344,0.0015439410717590276,0.091,0.909,0.0,"I'm also on a long-acting beta blocker (Inderal - also used for performance anxiety) and another medication for blood pressure, which I also take at night.",['conj'],0
+3530,3530,0.9998524134662091,0.00014758653378627205,0.231,0.769,0.0,seeking non-medication remedies and ways to *fix the underlying problem.,['compound'],0
+3540,3540,0.9998681664567376,0.00013183354326504188,0.11599999999999999,0.632,0.252,"I'm not looking for life-changing shit like therapy or medicine -- that honestly sounds like too much for me right now, as stupid as that probably sounds -- I just want to get some ideas on things to make the day-to-day grind a little happier, more interesting, etc.",['conj'],0
+3556,3556,0.9383779748571792,0.0616220251428039,0.11,0.89,0.0,"Then started a treatment with my shrink..
+  First he prescripted me per day- 1mg Clona, 20mg Paroxetina ( Tiarix here, Paxil ) and 600mg Gabapentin at night for sleeping, because I also have insomnio; this was for 10 months.. then he changed me my meds, because it worked, but as I was a benzo addict, I took what I wanted always and I finished worse than when I started ( but not during the middle step in the treatment); remember being prescripted then when I told him was a drugaddict- Pregabaline 450mg 3 doses per day to discontinue clonazepam because its abstinence and still with Paxil 20 (Paroxetine)... 3 months later told him wanted to stop it because the suicide toughts it had gave me.",['npadvmod'],0
+3558,3558,0.9399637600959896,0.06003623990402807,0.07400000000000001,0.9009999999999999,0.026000000000000002,"Considering I still was taking Clonazepam and Xanax (Alplax here) , Lorazepan too (Trapax here), Bromazepam (Lexotanil here) and Valium maybe or Rohypnol (flunitrazepam) and Dormicum (midazolam), ass you see I'm a benzo addict and drug design.. so that happened to me, and it was happening until he prescripted me again a different medication- Olanzapine 5 (Midax) one at night and Pregabaline 150 2 doses (Lyrica, Neuristan) again :/... then I left and keep self-medicating until I almost die having an overdose because taking all that kind of pills I said, the prescripted ones and the other benzo I like.",['npadvmod'],0
+3560,3560,0.9999168246087684,8.317539121403365e-05,0.318,0.682,0.0,I hated them (the meds) and they didn't work for me.,['appos'],0
+3565,3565,0.9992844452619845,0.0007155547380134974,0.14,0.81,0.05,"After I withdrew from the last, 2 years ago, Paroxetine, my episodic depression (which is triggered by anxiety, eg can come when change in circs or am really excited about new things) has got more constant, and I'm worried medications are the cause, and that this will happen with Parnate.",['attr'],0
+3566,3566,0.997404719937112,0.0025952800628947646,0.332,0.609,0.059000000000000004,"Reading reviews, it seems to be a useful medication, but people seem to be on it for life, and for severe depression more than anxiety.",['attr'],0
+3574,3574,0.9958662532079076,0.004133746792087891,0.121,0.879,0.0,"In a sense, I felt that I didn't *deserve* diagnosis, treatment, or medication for something that was essentially meaningless compared to people with ""real"" disorders.",['conj'],0
+3576,3576,0.9999747839477424,2.521605224353891e-05,0.0,1.0,0.0,Is there any medicine for getting rid of blushing?,['attr'],0
+3579,3579,0.9995239241626024,0.00047607583741279667,0.048,0.848,0.10400000000000001,"The only things I haven't tried is therapy and medicine, I don't know what too say other than I need help, advice, and support............
+(I pretty much stay in bed all day and pace a lot, I also have trouble sleeping [getting to sleep and oversleeping] and also feel that it is effecting my eating too)",['conj'],0
+3609,3609,0.9999760323398468,2.3967660145855616e-05,0.0,0.654,0.34600000000000003,I am currently off almost all my meds and doing pretty darn well.,['npadvmod'],0
+3610,3610,0.99989096228155,0.0001090377184520293,0.0,0.584,0.41600000000000004,"It was my perfect medication: it allowed me to truly apply myself, to do well at things, to think clearly.",['attr'],0
+3625,3625,0.9995942316934155,0.0004057683065799892,0.128,0.785,0.087,"Now I have not taken the medicine route (except I did take B complex when I felt drained of energy which sustained my panic even further, but don't need to anymore), there was a point which I felt that if I have exhausted every other option possible then I would, so there is nothing wrong with it.",['compound'],0
+3630,3630,0.9998555263060672,0.00014447369395218648,0.13,0.87,0.0,"Or is it just a problem in my head, maybe caused by how meds were demonized by people around me?",['nsubjpass'],0
+3631,3631,0.9994787076308432,0.000521292369155223,0.091,0.909,0.0,"I'm a 27yr old male, no medications but a self described night owl that probably doesn't get enough sleep.",['conj'],0
+3643,3643,0.9979395083806326,0.002060491619373213,0.0,0.868,0.132,"And as a secondary question, which meds do YOU find the most useful besides Klonopin because they just do not work for me.",['relcl'],0
+3656,3656,0.9999525536904634,4.744630953432464e-05,0.0,1.0,0.0,And its not medication.,['ROOT'],0
+3660,3660,0.999976294242162,2.370575782254342e-05,0.0,1.0,0.0,The other thing I've considered is medication.,['attr'],0
+3665,3665,0.9999297637888852,7.023621111604061e-05,0.0,1.0,0.0,"I can go for therapy, but not medication.",['conj'],0
+3672,3672,0.9711047573034282,0.028895242696561605,0.0,1.0,0.0,He also said he was typing a report of our meeting so that he could send it to my GP (I could understand him sending them a notification of medication changes but didn't think he could send a report of the entire session.).,['compound'],0
+3685,3685,0.9998038976449656,0.00019610235504357882,0.23600000000000002,0.648,0.11599999999999999,"It's frustrating me to no end, and I'd like to know what other meds I have a shot at.",['ccomp'],0
+3686,3686,0.9995528989441552,0.00044710105583630616,0.212,0.7879999999999999,0.0,How should I go about doing this (I've heard of docs having a general reluctancy to prescribing heavy-duty anxiety meds)?,['conj'],0
+3709,3709,0.9997023864814554,0.00029761351853345577,0.0,0.8809999999999999,0.11900000000000001,"Is it something I should go to the doctor for, or is their any over-the-counter medicine I could be taking to help a little?",['conj'],0
+3720,3720,0.9988674874883292,0.0011325125116738275,0.165,0.759,0.076,"I don't want know if I'd be on xanax everyday, or something like that, or other medications I have a history of substance abuse, and I don't know how that would go.",['conj'],0
+3721,3721,0.9999820365110842,1.796348890291027e-05,0.0,0.737,0.263,Are there other medications besides things like that?.,['attr'],0
+3728,3728,0.9999641650561174,3.583494386509288e-05,0.0,0.828,0.172,"I don't have anything else, exercise or medication, that can help me get through it.",['conj'],0
+3737,3737,0.9979601886172448,0.0020398113827454763,0.239,0.637,0.124,"Now I'm not sure if it's the medication or the anxiety thats giving me these problems, like I know I've had sexual side effects in the past so now I'm so nervous I won't be able to perform that that anxiety creates sexual problems on its own.",['attr'],0
+3743,3743,0.9815890950226802,0.018410904977313854,0.08,0.611,0.31,I work very hard with the help of meditation and medication to remain a functional and loving parent.,['conj'],0
+3747,3747,0.9978364219545462,0.002163578045457253,0.0,1.0,0.0,Ive been unemployed for about a month while the meds side effects slowed down and am going to a therapist on the tenth.,['compound'],0
+3749,3749,0.9998460050622616,0.00015399493772859748,0.0,0.846,0.154,I would love it if she were willing to try an SSRI or some medicine other than xanax (which as I understand only treats the symptoms).,['conj'],0
+3758,3758,0.9998035206542109,0.0001964793457996611,0.12300000000000001,0.794,0.083,"I've tried everything that usually works-fresh air, drinking cold water, putting cold water on my face, fingertip touches, lying down, medication (Vistaril), calm music.",['conj'],0
+3760,3760,0.9998904046888064,0.0001095953111828714,0.174,0.7609999999999999,0.065,"I don't know if anyone else does this, but I've spent the last hour on google searching high blood pressure and Straterra, as well as my other medications (Adderall, Depakote), and I'm still really scared.",['conj'],0
+3774,3774,0.99985893189537,0.000141068104619423,0.067,0.9329999999999999,0.0,"Planning to go to the docs tomorrow and get talking to them, i don't want to start and meds.",['conj'],0
+3777,3777,0.9999949666226812,5.033377323178296e-06,0.0,1.0,0.0,If not medication do you have any suggestions on maybe naturally coping with this.,['dep'],0
+3780,3780,0.9998744925985334,0.00012550740148093955,0.17800000000000002,0.8220000000000001,0.0,"I have been off meds for around 4 months and my anxiety is starting to creep back up on me, but I am tired of taking these every day.",['advmod'],0
+3788,3788,0.9999744857146292,2.5514285365148856e-05,0.038,0.9620000000000001,0.0,I also have to fill out a form with all my medical history and any medications I'm taking...I don't want to have to lie so quitting cold turkey seems to be my only choice.,['conj'],0
+3801,3801,0.9997582202080788,0.00024177979192040977,0.139,0.667,0.19399999999999998,I should also mention that I'm pretty anti prescription medication for the most part.,['attr'],0
+3820,3820,0.99994823956079,5.176043922859341e-05,0.0,1.0,0.0,This medication and treatment thing is all very new to me.,['nmod'],0
+3830,3830,0.999986955245032,1.3044754959845395e-05,0.0,0.722,0.278,Is there any meds that can help me?,['attr'],0
+3850,3850,0.9999840111413488,1.5988858657621954e-05,0.231,0.769,0.0,I have posted previously about my relationship problems and medication questions.,['compound'],0
+3853,3853,0.9262496864711788,0.0737503135288117,0.10400000000000001,0.7140000000000001,0.182,"What I'm confused about is right after he told me he didn't think depression was much of an issue, he prescribed me 1 20mg tab of Paxil per day for 30 days, telling me that it would help with my anxiety and insomnia..according to my research, this is a medication used to treat severe depression, and the side effects are what happen to cause drowsiness and anxiety relief.",['attr'],0
+3857,3857,0.9999194679069332,8.053209308448495e-05,0.155,0.845,0.0,"It was explained to me that ALL SSRI's are ineffective or do the opposite of what antidepressants or anti anxiety medications are supposed to do, due to my null variant of this gene/(genotype)?",['conj'],0
+3879,3879,0.9990640890686372,0.0009359109313488756,0.16699999999999998,0.833,0.0,"Let me give you a bit of background: I am 27, male, no medications.",['appos'],0
+3904,3904,0.9999680475927016,3.195240728341902e-05,0.096,0.904,0.0,I know you aren't supposed to use Xanax regularly and I know different medication is required for general anxiety.,['nsubjpass'],0
+3908,3908,0.9999171916278901,8.280837211169936e-05,0.195,0.805,0.0,"Also, are all anxiety meds 'take as needed'?",['ccomp'],0
+3915,3915,0.9983290933706892,0.0016709066293302767,0.0,1.0,0.0,"(That is not to say anyone who IS on medication doesn’t have the brain power, it is a personal thing for me.",['compound'],0
+3934,3934,0.9999757366888671,2.4263311146481008e-05,0.0,1.0,0.0,"I don't do alcohol, drugs, caffeine, medications, nothing at all.",['conj'],0
+3938,3938,0.9999713758632036,2.862413680939364e-05,0.157,0.746,0.09699999999999999,In the interim I have decided to try betablockers because they are the mildest anxiety medication and I would be adverse to trying anything stronger.,['attr'],0
+3939,3939,0.999954475048244,4.5524951755794876e-05,0.209,0.7909999999999999,0.0,"He diagnosed me with depression, which was accurate, and then prescribed meds (at my request).",['conj'],0
+3941,3941,0.999421395273278,0.0005786047267313381,0.0,1.0,0.0,They don't know about the counseling or meds or any of it.,['conj'],0
+3963,3963,0.9969426650986248,0.0030573349013743355,0.081,0.737,0.182,"But it's so hard and at the end of the day, a couple of drinks is the absolute best medicine.",['attr'],0
+3967,3967,0.9999572166532892,4.278334671726719e-05,0.0,0.7609999999999999,0.239,"They hooked me up on an IV, gave me serum and meds and I started feeling better.",['conj'],0
+3971,3971,0.9997975017675068,0.0002024982324999761,0.40299999999999997,0.597,0.0,I was diagnosed with anxiety and depression and a doctor prescribed medication.,['conj'],0
+3986,3986,0.9996426333164072,0.0003573666835863313,0.09,0.794,0.11599999999999999,"Once the meds are changed and my moods are stable, she's going to re-evaluate the anxiety component.",['nsubjpass'],0
+3989,3989,0.9999764289112604,2.3571088757154667e-05,0.0,1.0,0.0,Apparently he will decide if I need therapy or meds.,['conj'],0
+3992,3992,0.9954383821575096,0.004561617842493482,0.26,0.74,0.0,"I am currently in a psychiatric private hospital getting treated for my anxiety, depression and personality disorder with therapy and medication and my girlfriend came to visit tonight.",['conj'],0
+4012,4012,0.9898041951952692,0.010195804804747851,0.0,1.0,0.0,"So over the weekend I was out at a restaurant/bar, and in my purse i had my makeup bag which had a bottle of Wellbutrin and Klonopin which are the two meds I take each day.",['attr'],0
+4019,4019,0.9999861726168512,1.3827383161988306e-05,0.0,1.0,0.0,I understand if I was hospitalized/prescribed medication I would include that.,['attr'],0
+4023,4023,0.999478458410102,0.0005215415898978592,0.316,0.684,0.0,"I haven't told them for this exact reason and I heard them arguing of how ""everyone has stress"" and ""you're in school, you don't have real stress"" and ""your aunt had panic attacks and meds didn't work for her"".",['conj'],0
+4027,4027,0.9998863078821256,0.00011369211786619324,0.073,0.927,0.0,I have been throwing the idea around of going to see my PCP about it but I think the only thing he can do is prescribe me anxiety meds.,['conj'],0
+4032,4032,0.9999878198355868,1.2180164426904359e-05,0.0,1.0,0.0,Does anyone have experience (success or failures) with Zoloft or any other meds?,['conj'],0
+4040,4040,0.9985853996427362,0.001414600357279694,0.061,0.9390000000000001,0.0,"It's been over 5 years since then, and after doing some soul searching and reading I've realized I need to deal with my anxiety with a therapist and possibly medication.",['conj'],0
+4041,4041,0.992977293631334,0.007022706368666238,0.077,0.747,0.17600000000000002,"Obviously I can't tell you how much of it is the hypnotherapy, or the meds, but day to day life is so much easier now and I feel so much calmer, so I am able to tackle uncomfortable situations.",['conj'],0
+4045,4045,0.9999888526963604,1.1147303622452457e-05,0.284,0.716,0.0,"I've tried therapy and medicine, but nothing helps.",['conj'],0
+4047,4047,0.9988851658964192,0.0011148341035868029,0.049,0.865,0.085,"Trying to make a long story short, but I have been through everything possible when it comes to anxiety and have tried everything I could to help it (therapy, medication, meditation, reflexology, reike, homeopathy, chiropractic specialist, hypno therapy, breathing techniques etc).",['conj'],0
+4057,4057,0.9997680731637908,0.0002319268361959556,0.094,0.81,0.096,I currently take the Levlen contraception pill (for four years and have never experienced problems with it) and no other prescription medication.,['conj'],0
+4080,4080,0.9996716287981678,0.0003283712018414453,0.0,1.0,0.0,The medicine box has been filling up quite a lot these years.,['compound'],0
+4094,4094,0.997570494098368,0.0024295059016214444,0.095,0.905,0.0,I missed a medication check with my psychiatrist and won't be able to get a refill (if he authorizes it) until later in the week.,['compound'],0
+4096,4096,0.9628336589444509,0.0371663410555624,0.042,0.895,0.063,I've talked to my therapist about it and he is very so so about giving it to a 17 year old as he isn't sure of what would happen based on the fact that the medication is tested on adults and not teenagers or children.,['nsubjpass'],0
+4098,4098,0.9999091627700044,9.083722999155188e-05,0.102,0.898,0.0,"My question was, is there any meds that have a similar effect on anxiety that alcohol does?",['attr'],0
+4105,4105,0.9999430426612024,5.695733880147273e-05,0.0,0.877,0.12300000000000001,"I was on *way too many* medications, yadda yadda, nothing worked, I began smoking marijuana, nothing has helped me quite like marijuana has.",['attr'],0
+4106,4106,0.9999289135495468,7.108645044381882e-05,0.0,1.0,0.0,"One medicine for each and every issue, it's incredible.",['npadvmod'],0
+4116,4116,0.9995136988363988,0.00048630116359394434,0.0,1.0,0.0,"I have to scrape money just for an appt, which runs me around $50 for a medication visit.",['compound'],0
+4121,4121,0.9999873078164896,1.2692183511411275e-05,0.0,1.0,0.0,Was this medication related or not?,['npadvmod'],0
+4122,4122,0.9999563174363152,4.368256370089347e-05,0.0,0.763,0.237,"She up-ed her meds, but nothing seems to be helping.",['ROOT'],0
+4125,4125,0.9997112688498844,0.0002887311501108656,0.23,0.69,0.08,"I don't know if it's the meds or just a coincidence, but I'm scared to up my dosage like I'm supposed to, because if it is the meds I don't want to make it worse.",['attr'],0
+4126,4126,0.9996304017680526,0.0003695982319503434,0.0,1.0,0.0,I am going to a GP tomorrow to talk about medication options.,['compound'],0
+4133,4133,0.9996737639360666,0.0003262360639230965,0.12,0.88,0.0,"Should I tough it out until it ""kicks in"" or get a medicine change?",['compound'],0
+4135,4135,0.9995025463068654,0.0004974536931224671,0.0,0.902,0.098,"I have the atarax (primarily an allergy medicine, I've discovered) a fair chance, but it does nothing for me whatsoever but knock me out and cure my runny nose that leaks all winter.",['appos'],0
+4137,4137,0.9999023113766282,9.768862338706444e-05,0.0,1.0,0.0,I'm a scientist and know/read/watch a lot about biology and medicine.,['conj'],0
+4138,4138,0.9999947729399044,5.227060090941716e-06,0.086,0.8320000000000001,0.08199999999999999,"How many ""there is nothing wrong"" diagnoses can you get, despite real, physical, constant problems before your doctor (who prescribes your psych meds) thinks you have an issue?",['npadvmod'],0
+4145,4145,0.9998120994668686,0.0001879005331237864,0.0,1.0,0.0,One thing I was told in CBT is meds target your emotions and physical symptoms but not the thoughts and behavior.,['amod'],0
+4172,4172,0.9999412231059552,5.877689406290493e-05,0.355,0.645,0.0,"No medications, never diagnosed, etc.",['nsubjpass'],0
+4182,4182,0.9996926784295314,0.0003073215704872636,0.0,0.9159999999999999,0.084,Well one day before she came over I decided enough was enough went to the medicine cabinet and took one of my dads 100mg viagra.,['compound'],0
+4194,4194,0.9999815452645676,1.8454735422364418e-05,0.0,1.0,0.0,"I'm willing to try anything, even constant medicine at this point.",['advcl'],0
+4201,4201,0.9979632866210744,0.002036713378918844,0.0,1.0,0.0,"I've lived with derealization and depersonalization for a few years now, since withdrawing from benzos and other psych meds.",['conj'],0
+4208,4208,0.9995381154365396,0.00046188456345908535,0.14,0.86,0.0,"For myself, however, I don't like the idea of being on antidepressants or anti-anxiety medications.",['conj'],0
+4222,4222,0.9946693747507064,0.005330625249275312,0.141,0.8590000000000001,0.0,"I'm unmedicated, because the thought of having to find a doctor, tell him my problems, and go through the trial-and-error process of getting on medication freaks me out.",['compound'],0
+4223,4223,0.9999563901207078,4.360987928442898e-05,0.21100000000000002,0.789,0.0,"Can't take meds cause they make me have an anxiety attack, and if I had to take them night, forget that, I'd force myself to throw them back up.",['dep'],0
+4226,4226,0.9999310030606526,6.899693935428109e-05,0.0,1.0,0.0,"Links about the drug:
+
+[Wikipedia - Propranolol](http://en.wikipedia.org/wiki/Propranolol)
+
+[Patient.co.uk - Propranolol](http://www.patient.co.uk/medicine/Propranolol.htm)",['appos'],0
+4227,4227,0.9999739181238576,2.6081876124691737e-05,0.0,0.799,0.201,"Now I am sitting at home without any anxiety meds, and found out my favorite Doctor is on vacay for 2 weeks.",['advcl'],0
+4244,4244,0.9957422288597448,0.004257771140242245,0.095,0.905,0.0,"Every doctor I've ever seen has refused to comment on the tics, aside from the occasional ""it might be a medication side effect.""",['compound'],0
+4245,4245,0.9923076281116636,0.007692371888348932,0.071,0.841,0.087,"No sorts of therapy or medication are of any help whatsoever, aside from the benzos every now and then and only for a few minutes after they've kicked in.",['conj'],0
+4246,4246,0.9996905593301592,0.00030944066982301424,0.0,1.0,0.0,She immediately suggested I meet with a psychologist who can prescribe me anti-anxiety medication.,['conj'],0
+4252,4252,0.9999588442929844,4.115570700859588e-05,0.72,0.28,0.0,I self harm and abuse medication.,['conj'],0
+4266,4266,0.9933959607414932,0.006604039258514581,0.03,0.97,0.0,"I called to leave a message and ask for a prescription refill, called to schedule an appointment, called back because I realized I needed to reschedule, and then just now answered a call from the medication nurse, who told me she's calling in my prescription now.",['compound'],0
+4275,4275,0.9998370609995011,0.00016293900049883754,0.0,0.8390000000000001,0.161,"I haven't been takings meds like I should, and school has always been the biggest trigger.",['attr'],0
+4282,4282,0.9998139223552226,0.00018607764475907186,0.0,0.5589999999999999,0.441,Can anyone recommend a solution or a medication I can take to calm myself down?,['conj'],0
+4296,4296,0.9999625128081684,3.748719184571302e-05,0.0,0.8220000000000001,0.17800000000000002,"I spoke with my doctor and we agreed that I would cope just fine with ""as needed"" meds (Ativan, Klonopin and Xanax).",['appos'],0
+4328,4328,0.931304629275606,0.0686953707243869,0.052000000000000005,0.948,0.0,"as she still hasn't really found a way to deal with her condition (no meds, and currently no therapy - she has tried a couple of therapists but they weren't the ""right fit"").",['appos'],0
+4331,4331,0.9999573066417063,4.269335829542687e-05,0.0,0.925,0.075,I don't pay for treatment or medication and I've never had the same psychiatrist for more than 2 appointments.,['conj'],0
+4338,4338,0.9999117894845864,8.821051540137529e-05,0.21100000000000002,0.687,0.10099999999999999,"), triggered at night thinking of tomorrow, thinking of lost friends, no meds, US
+
+What I've done so far:
+Googled anxiety, came out with webmd.com.",['nsubjpass'],0
+4342,4342,0.9995890106190336,0.00041098938096681187,0.047,0.917,0.036000000000000004,"Looking forward to your thoughts and experience on this... 
+
+Just wanted to add, I have tried:
+
+Depression meds
+
+Bipolar meds
+
+ADD (just vyvanse)
+
+CBT and/or DBT (works a little bit)
+
+Exercise (it helps some, but only temporarily)
+
+Vedic meditation (helps a little, but is very time consuming - 40 minutes a day)
+
+Psychotherapy",['conj'],0
+4349,4349,0.9999605018536986,3.9498146318048295e-05,0.0,1.0,0.0,"However, there are other meds out there.",['attr'],0
+4354,4354,0.9999665527512192,3.344724877447587e-05,0.0,1.0,0.0,I've tried so many non-medicine routes and nothing has helped.,['compound'],0
+4366,4366,0.999897481954668,0.00010251804532089784,0.084,0.7140000000000001,0.201,"I am on anti deppressants and anti-anxiety medication, but they didn't really seem to help last year.",['conj'],0
+4374,4374,0.9997176432474201,0.00028235675258047796,0.0,1.0,0.0,"I always thought it would go away on it's own, so I didn't seek therapy or meds for years.",['conj'],0
+4375,4375,0.998557214200606,0.001442785799405237,0.168,0.7170000000000001,0.115,I've been working with therapists and medication(s) over the past couple years to come to terms with my depression and anxiety with varying levels of success.,['conj'],0
+4376,4376,0.9997692224761456,0.0002307775238340564,0.27699999999999997,0.723,0.0,(Bonus points for really bad fear of failure) I've got an appointment with my meds doc tomorrow morning and a therapist appt.,['compound'],0
+4382,4382,0.9999673999801668,3.26000198518006e-05,0.0,1.0,0.0,I'm not meds because they don't work.,['attr'],0
+4388,4388,0.99129742482431,0.0087025751756896,0.12,0.88,0.0,"I started Cipralex a few days ago and I've been getting massive headaches which are causing me even more anxiety because I didn't want to be on the medication in the first thing place...basically I'm not sure if I'm causing myself all this anxiety and thus these headaches because I keep telling myself that this medication causes headaches but after researching it,  it mihht be the actual medication that does cause headaches so I'm really confused in all...",['attr'],0
+4413,4413,0.9999630066450648,3.699335493205119e-05,0.0,1.0,0.0,"I'm willing to try everything, except paying or medicine.",['conj'],0
+4415,4415,0.9997637114659932,0.0002362885340184212,0.0,1.0,0.0,"breathing techniques, thoughts, meds...
+Also, if you didn't have any of these and you stayed in the area when you were having the symptoms(panic attack) what happened to you?",['appos'],0
+4420,4420,0.9994985694250056,0.0005014305750073836,0.102,0.898,0.0,"He was my medicine, and the sheer idea of losing that, and then it happening, sent me over to the realm of the unfeeling.",['attr'],0
+4438,4438,0.9999577126898272,4.228731015914693e-05,0.0,1.0,0.0,What I'm more concerned about is how people manage to stay off medication long-term.,['amod'],0
+4463,4463,0.9989715039893042,0.0010284960106790382,0.094,0.787,0.12,This round of exams in particular is pretty difficult because I *need* to pass everything to keep my provisional place in a graduate medicine program.,['compound'],0
+4464,4464,0.9999787106292644,2.1289370715693426e-05,0.0,1.0,0.0,How do you guys keep your head about you when you don't know if you are really messing up or if it is just the meds?,['attr'],0
+4479,4479,0.9999053485135704,9.465148641757813e-05,0.0,0.861,0.139,"There will be guest speakers for relevant topics: medication, relationships, fitness, mindfulness, finances, etc.",['conj'],0
+4480,4480,0.9887209187874704,0.011279081212542936,0.0,0.7170000000000001,0.28300000000000003,"With support, 1:1 counseling, independent learning and (in the past) multiple medications, I am now confident and getting up in front of groups like a rock-star nurse!",['appos'],0
+4483,4483,0.9997153923236516,0.00028460767633848287,0.065,0.8029999999999999,0.132,"and as a result.... just stay inside as long you can?~ What worked for you medication-wise because I feel like I've tried everything?~
+
+
+
+
+
+(It might not help that I cancelled my last 3 appointments too.)",['npadvmod'],0
+4484,4484,0.9978887426175128,0.002111257382494004,0.049,0.951,0.0,Uhhhh feel a little bit lightheaded... kinda woozy... maybe it was those meds I took... maybe it was my breakfast... maybe its low blood sugar... maybe its high blood pressure... maybe it's a stroke... maybe it's a heart attacks... my mind and heart start to race.,['attr'],0
+4486,4486,0.9991869175398926,0.0008130824601230187,0.09,0.873,0.038,"i often worry (even post meds) that the chefs in a restaurant will mess with my food, or that certain food isnt cooked properly, or that some people are out to get me (not to an extreme but to a nuisance degree)",['parataxis'],0
+4509,4509,0.9999578652760436,4.213472396035752e-05,0.0,0.7559999999999999,0.244,Not sure what's happening but I get soft easy now (I'm usually always rock hard) and I know it's the medicine.,['attr'],0
+4510,4510,0.9999523248538108,4.76751462089766e-05,0.272,0.728,0.0,"Girlfriend stuff, work, medicine issues... and I don't 100% know what's actual stress and stress from the klonopin.",['compound'],0
+4522,4522,0.9997630371078171,0.00023696289218091558,0.0,0.838,0.162,"Don't wait as long as I did to get help, whether it be therapy/medication/or something else.",['attr'],0
+4526,4526,0.999859188205462,0.00014081179454980474,0.08800000000000001,0.912,0.0,"As ridiculous as it seems, I am very anti-medication (I was on some for five years, which helped form my opinion), so I haven't considered the option just yet.",['attr'],0
+4531,4531,0.9895878335384942,0.010412166461511385,0.217,0.691,0.09300000000000001,"I just started treatment (meds + therapy) for depression and GAD, and a new major source of anxiety for me is that my health care providers don't believe me -- I worry that I'm just whiny, it's just first world problems, I'm somehow faking it, I'm not sick enough, it's all in my head, etc.",['amod'],0
+4542,4542,0.9973395915241102,0.0026604084758732327,0.126,0.8740000000000001,0.0,"The CBT I feel helped but I finished that at the end of October and I feel my anxiety may just be returning to normal again due to life stress (baby on the way, work, etc....)
+
+I guess my questions are: what medications are usually prescribed?",['nsubjpass'],0
+4558,4558,0.9998810235618892,0.00011897643811585433,0.107,0.893,0.0,"Is this a ""hey powertape33 grow some balls and nut up"" kind of thing, a ""you're just a little insecure, go exercise"" kind of thing,  or is this a ""hey, you should see a therapist or consider anxiety medication"" kind of thing?",['ccomp'],0
+4560,4560,0.9999940223694744,5.9776305349708355e-06,0.0,0.7140000000000001,0.28600000000000003,Any tips or maybe some herb or relaxing medication?,['conj'],0
+4561,4561,0.9996400476270508,0.0003599523729511697,0.0,0.838,0.162,"I know all the ways that should fix it - exposure, CBT, meds - and in some ways, I have improved.",['dep'],0
+4565,4565,0.9999080412765337,9.195872347381971e-05,0.0,0.816,0.184,For others who have OCD - are there any meds that help with it?,['attr'],0
+4573,4573,0.999505621771048,0.0004943782289556971,0.0,0.882,0.11800000000000001,"I still take Venlafaxine (pls google it up, it's too complex to explain it here for me) and I almost got none side-effects, it's a very good medication for me(!).",['attr'],0
+4587,4587,0.9999684789845328,3.1521015481003136e-05,0.0,1.0,0.0,This experience and switching meds made me realise how much they affect me.,['conj'],0
+4588,4588,0.990349591749334,0.009650408250673143,0.081,0.7190000000000001,0.201,"I feel like I view the world differently, some of my behaviour is very un-me and the carefree feeling the meds give me have gotten me into trouble a few times.",['conj'],0
+4595,4595,0.9999680359173404,3.196408265254505e-05,0.0,0.7979999999999999,0.20199999999999999,But he did say he was exited about getting to know meds free me.,['ccomp'],0
+4601,4601,0.9999750896407986,2.491035921107578e-05,0.0,1.0,0.0,medicine = take as directed.,['compound'],0
+4604,4604,0.9999055532312232,9.444676879003116e-05,0.0,0.759,0.24100000000000002,"Actually, the not taking my medication part wasn't that bad.",['compound'],0
+4610,4610,0.9993309447114336,0.0006690552885551343,0.1,0.8540000000000001,0.046,"My mom was prescribed anti-anxiety meds herself just a few months ago, but I don't want my parents to pay for a therapist we can't afford if it's not a serious issue.",['oprd'],0
+4620,4620,0.9957146235617528,0.004285376438250754,0.0,0.8290000000000001,0.171,"Friends, it took me 6 years of therapy and medicine experimentation to find the most fitting treatment.",['compound'],0
+4631,4631,0.9968394896570812,0.003160510342905143,0.067,0.9329999999999999,0.0,"I can't think of anything else I was exposed to that is different than normal, so it's most likely the meds.",['attr'],0
+4636,4636,0.9999805342081798,1.9465791836288566e-05,0.163,0.706,0.132,I'm wondering if this medication is supposed to work by giving depressed and anxious people delusions that everything is going to be okay when it is not.,['nsubjpass'],0
+4642,4642,0.999980302011074,1.969798890746539e-05,0.0,1.0,0.0,-Why am I not on meds?,['attr'],0
+4648,4648,0.9999876566960992,1.234330388524062e-05,0.0,1.0,0.0,"Are there medications you take only when you need them, or are they usually an every day thing?",['attr'],0
+4651,4651,0.9995759065033044,0.0004240934967067533,0.301,0.6990000000000001,0.0,"I've never tried any antidepressants or anxiety medications before, so I'm not really sure what to expect and I'm kind of terrified.",['conj'],0
+4654,4654,0.9965248748841056,0.003475125115892615,0.24,0.521,0.24,So I know the meds route can be scary for some for many reasons but I think it's a great tool to help people with anxiety and depression.,['compound'],0
+4663,4663,0.9998637197269136,0.00013628027307547536,0.172,0.645,0.183,"After shakily explaining my symptoms to my GP, he determined that I was suffering from acid reflux disease and prescribed medication to help.",['conj'],0
+4664,4664,0.9999704743349188,2.9525665094445392e-05,0.0,1.0,0.0,I've been through therapy/meds/partial hospitalization etc.,['amod'],0
+4669,4669,0.9985864902271976,0.0014135097728144985,0.24600000000000002,0.6990000000000001,0.054000000000000006,"I've mentioned this to my Psych and Therapist, but I don't want to play ""medication bingo' again with all the side effects it entails, and my therapist, while well meaning is no match for the anxiety and pessimism in my head.",['compound'],0
+4676,4676,0.9999875042305116,1.2495769498778063e-05,0.175,0.825,0.0,Has treating your anxiety (meds/therapy) helped this at all?,['appos'],0
+4688,4688,0.9999449401602084,5.505983979358204e-05,0.0,1.0,0.0,"Therapy, medication, hospitalization.",['conj'],0
+4690,4690,0.9993240699686377,0.0006759300313584072,0.0,1.0,0.0,"I don't remember what the medicine was called, but I didn't have to take it daily - it was a situational type thing.",['nsubjpass'],0
+4695,4695,0.9999849608708404,1.5039129148335236e-05,0.078,0.83,0.092,"-sigh- any help would be appreciated, any medications you take that seem to help...(my doctor recently prescribed me effexor xr but my anxiety is so situational that I don't want to be taking something every day that changes my brain chemistry).",['relcl'],0
+4698,4698,0.999922816134592,7.718386541366923e-05,0.26,0.74,0.0,I have tried so many strategies and meds and it feels so hopeless.,['conj'],0
+4704,4704,0.9999919769863688,8.023013625812027e-06,0.306,0.6940000000000001,0.0,Anyone have problems with dehydration causing anxiety while on (or off) meds?,['appos'],0
+4710,4710,0.99945822950262,0.0005417704973954079,0.285,0.635,0.08,"A few notes that may or may not be helpful:
+
+-I have depression but it is pretty much under control and I have been off meds for about a year now
+
+-my mother suffers from anxiety and depression 
+
+-I recently started smoking marijuana.",['attr'],0
+4711,4711,0.9999835168957432,1.648310425730926e-05,0.11599999999999999,0.884,0.0,I'm not sure if it's my medication (Lexapro) or if I'm just having an off day.,['attr'],0
+4713,4713,0.9823450632226934,0.017654936777287925,0.0,1.0,0.0,"I have some familiarity with the subject, as my SO has gone through a long process of taming her own beast (GAD) with a combination of therapy and meds.",['conj'],0
+4716,4716,0.99997255371789,2.7446282099694832e-05,0.0,1.0,0.0,"""...except for some reason the deflector shields(meds) aren't working.",['appos'],0
+4719,4719,0.9999348318993354,6.516810065784351e-05,0.26,0.564,0.17600000000000002,The only option I can see left now is anti-anxiety medication but I can't see them being strong enough to prevent my panic attacks.,['attr'],0
+4724,4724,0.9999900345574624,9.965442526497743e-06,0.105,0.773,0.12300000000000001,I guess I am just lost and I am looking for some advice on therapy and medication or just some comforting words.,['conj'],0
+4743,4743,0.9976042004638452,0.002395799536169836,0.0,1.0,0.0,Since it takes a long time apparently to get an appointment to see one (almost three months apparently) I opted to have my doctor prescribe me medication (50mg of Zoloft).,['ccomp'],0
+4749,4749,0.9996876395193016,0.00031236048068509294,0.0,1.0,0.0,"Whether it be a medicine, stuffed animal, person, etc.",['attr'],0
+4760,4760,0.9968226846113458,0.0031773153886635232,0.266,0.657,0.077,"However, I hadn't had good luck at finding a psychiatrist who is good at both the therapy side as well as the medication side.",['compound'],0
+4761,4761,0.9999660980188794,3.3901981110154246e-05,0.0,1.0,0.0,"However, they specifically mention they would make medication recommendations.",['compound'],0
+4762,4762,0.9999248759032252,7.512409675630243e-05,0.0,1.0,0.0,"(Also, I'm not an any medication except Xanax, which I take as needed.)",['attr'],0
+4767,4767,0.9997174981773379,0.000282501822656531,0.0,1.0,0.0,Maybe for some of you therapy or medication hasnt been working and isnt the answer.,['conj'],0
+4787,4787,0.999942347728486,5.765227150311324e-05,0.12300000000000001,0.877,0.0,"So, this is my first post on /r/anxiety, I was up until 4am last night jumping out of my skin, worrying I was going to jump out of my house or die in my sleep from halving my anti-anxiety meds that I've been on for (no joke) FIFTEEN years.",['ROOT'],0
+4795,4795,0.9999352611105212,6.473888947138888e-05,0.363,0.5760000000000001,0.061,"My hugest stressors right now are: Work, anxiety, discomfort (generally speaking), money, medication, sleep (or lack thereof), and it all originates from my god damn head.",['conj'],0
+4804,4804,0.9999243824433656,7.561755664340721e-05,0.0,1.0,0.0,Is it the smoking causing this or the medication?,['conj'],0
+4808,4808,0.999969247151056,3.0752848953511195e-05,0.0,1.0,0.0,"(no medications, prefferably).",['ROOT'],0
+4818,4818,0.999981857029716,1.8142970292973155e-05,0.0,0.615,0.385,"Original post here: http://www.reddit.com/r/Anxiety/comments/1wu2d9/meds_klonopin_has_turned_my_anxiety_around/
+
+I wish I had never started on benzos.",['appos'],0
+4840,4840,0.9999276954186992,7.230458129570237e-05,0.133,0.765,0.102,"This is the medicine I took right here FYI: 
+
+http://www.drugs.com/sfx/azithromycin-side-effects.html
+
+&gt; Psychiatric side effects have included aggressive reaction and anxiety during postmarketing experience.",['attr'],0
+4853,4853,0.9998568390121084,0.00014316098789087257,0.272,0.728,0.0,"Went back to school, needed meds again but now properly dosed towards anxiety, problem went away again.",['npadvmod'],0
+4867,4867,0.9989629046405962,0.0010370953594193463,0.0,1.0,0.0,I have a lifetime history of mental disorders and medication starting with PTSD and Zoloft at 16.,['conj'],0
+4885,4885,0.999942498955116,5.750104488475739e-05,0.0,1.0,0.0,"Current meds I'm on are Venlafaxine (225mg/day), Quetiapine (300mg/day) and Gabapentin (900mg/day).",['npadvmod'],0
+4892,4892,0.9994707144123398,0.0005292855876688277,0.0,1.0,0.0,"Last week, we took a medication math test.",['compound'],0
+4919,4919,0.9995681917496946,0.00043180825030902356,0.039,0.9179999999999999,0.043,"An important thing to notice is that **the sample you're** (partially) **basing your medication ideas off of is biased** (being /r/anxiety and /r/depression or related subreddits):
+
+* People are more likely to post about something if it has affected them negatively.",['compound'],0
+4938,4938,0.9989977049343376,0.0010022950656523317,0.0,0.88,0.12,"I'm going to start seeing a new therapist and want to talk to him/her about medication options, and I want to be informed.",['compound'],0
+4940,4940,0.9999265998682516,7.340013176439655e-05,0.21100000000000002,0.46799999999999997,0.321,This is my very first medication to treat anxiety so I'm pretty nervous.,['attr'],0
+4946,4946,0.9994775932734268,0.000522406726573268,0.0,1.0,0.0,He's tried therapy and medication in the past and is resistant to trying them again because he believes they won't work.,['conj'],0
+4957,4957,0.9968487175370512,0.003151282462939343,0.142,0.774,0.084,"After a summer of hell I finally sought help, and today I was supposed to meet with my therapist for our first session where we would begin CBT and medication.",['conj'],0
+4964,4964,0.9974066991210688,0.0025933008789484065,0.077,0.8640000000000001,0.057999999999999996,I took a lorazapam 1mg about 10 minutes ago to try to suppress the attack but I need a way to control it without resorting to cutting or meds.,['conj'],0
+4966,4966,0.9993707579748974,0.0006292420250962775,0.0,0.708,0.292,"I'm a year and a bit into this now, medication free.",['npadvmod'],0
+4976,4976,0.9999217058354584,7.829416455462541e-05,0.221,0.574,0.205,"Does this sound like a medication problem, or something else?",['compound'],0
+4977,4977,0.9999625455083136,3.7454491692475625e-05,0.11800000000000001,0.72,0.162,I'm not sure if there are any other anti-anxiety meds I'm interested in testing.,['attr'],0
+4990,4990,0.9999735441753936,2.645582461400696e-05,0.0,0.7979999999999999,0.20199999999999999,I'm not on any anxiety meds btw.,['conj'],0
+4994,4994,0.999986310480045,1.3689519954156198e-05,0.0,0.833,0.16699999999999998,Is there any safe short term meds I can get that will calm me down but not make me obviously drugged?,['npadvmod'],0
+4997,4997,0.9974397930281464,0.0025602069718646237,0.0,0.895,0.105,I'm just very new to the meds world (only nearly two months) and I appreciate all of the feedback that I can get from experienced people.,['amod'],0
